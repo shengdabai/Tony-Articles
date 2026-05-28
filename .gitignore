@@ -4,5 +4,3 @@
 ruvector.db
 *.db
 .tools/__pycache__/
-agentdb.rvf
-agentdb.rvf.lock
