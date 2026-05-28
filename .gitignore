@@ -1,3 +1,6 @@
 .DS_Store
 .omc/
 *.log
+ruvector.db
+*.db
+.tools/__pycache__/
