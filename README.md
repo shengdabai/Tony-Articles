@@ -17,6 +17,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-05-28** — [🇨🇳 中文 · 十倍工程师的定义变了](articles/zh/2026-05-28-%E5%8D%81%E5%80%8D%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E5%AE%9A%E4%B9%89%E5%8F%98%E4%BA%86.md)  ·  [🇬🇧 English · ten-x-engineer-redefined](articles/en/2026-05-28-ten-x-engineer-redefined.md)
 - **2026-05-27** — [🇨🇳 中文 · AI能蒸馏你的技能蒸馏不了你的系统](articles/zh/2026-05-27-AI%E8%83%BD%E8%92%B8%E9%A6%8F%E4%BD%A0%E7%9A%84%E6%8A%80%E8%83%BD%E8%92%B8%E9%A6%8F%E4%B8%8D%E4%BA%86%E4%BD%A0%E7%9A%84%E7%B3%BB%E7%BB%9F.md)  ·  [🇬🇧 English · ai-cant-distill-your-system](articles/en/2026-05-27-ai-cant-distill-your-system.md)
 - **2026-05-27** — [🇨🇳 中文 · 你的大脑正是AI拼命想造的那台机器](articles/zh/2026-05-27-%E4%BD%A0%E7%9A%84%E5%A4%A7%E8%84%91%E6%AD%A3%E6%98%AFAI%E6%8B%BC%E5%91%BD%E6%83%B3%E9%80%A0%E7%9A%84%E9%82%A3%E5%8F%B0%E6%9C%BA%E5%99%A8.md)  ·  [🇬🇧 English · brain-is-the-machine-ai-wants-to-build-ai](articles/en/2026-05-27-brain-is-the-machine-ai-wants-to-build-ai.md)
 
