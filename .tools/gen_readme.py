@@ -7,8 +7,7 @@ BUILD = os.environ.get("ARTICLES_REPO", os.path.dirname(os.path.dirname(os.path.
 adir = os.path.join(BUILD, "articles")
 date_re = re.compile(r'^(\d{4}-\d{2}-\d{2})-(.*)\.md$')
 
-def collect(sub):
-    d = os.path.join(adir, sub) if sub else adir
+def collect_dir(d):
     if not os.path.isdir(d): return []
     out = []
     for f in os.listdir(d):
@@ -17,12 +16,17 @@ def collect(sub):
     out.sort(key=lambda x: (x[0], x[2]))
     return out
 
-def enc(sub, f):
-    return f"articles/{sub}/{urllib.parse.quote(f)}" if sub else f"articles/{urllib.parse.quote(f)}"
+def collect(sub):
+    return collect_dir(os.path.join(adir, sub) if sub else adir)
+
+def enc(sub, f, base="articles"):
+    return f"{base}/{sub}/{urllib.parse.quote(f)}" if sub else f"{base}/{urllib.parse.quote(f)}"
 
 legacy = collect("")
 en = collect("en")
 zh = collect("zh")
+news_zh = collect_dir(os.path.join(BUILD, "ai-news", "zh"))
+news_en = collect_dir(os.path.join(BUILD, "ai-news", "en"))
 
 en_by_date = defaultdict(list); zh_by_date = defaultdict(list)
 for d,t,f in en: en_by_date[d].append((t,f))
@@ -48,6 +52,25 @@ def render_daily():
         out.append(f'- **{d}** — ' + '  ·  '.join(parts))
     return out
 
+def render_news():
+    zh_d = defaultdict(list); en_d = defaultdict(list)
+    for d,t,f in news_zh: zh_d[d].append((t,f))
+    for d,t,f in news_en: en_d[d].append((t,f))
+    dates = sorted(set(list(zh_d)+list(en_d)), reverse=True)[:14]
+    if not dates:
+        return ['*首条 AI 热点即将发布 · First AI daily coming soon…*']
+    out = []
+    for d in dates:
+        zl, el = zh_d.get(d,[]), en_d.get(d,[])
+        for i in range(max(len(zl),len(el))):
+            ztf = zl[i] if i<len(zl) else None
+            etf = el[i] if i<len(el) else None
+            parts = []
+            if ztf: parts.append(f'[🇨🇳 中文 · {ztf[0]}]({enc("zh", ztf[1], base="ai-news")})')
+            if etf: parts.append(f'[🇬🇧 English · {etf[0]}]({enc("en", etf[1], base="ai-news")})')
+            out.append(f'- **{d}** — ' + '  ·  '.join(parts))
+    return out
+
 README = '''<div align="center">
 
 # 🌱 Tony Articles
@@ -68,6 +91,15 @@ README = '''<div align="center">
 > Published daily at noon (China time), bilingual.
 
 {DAILY_LIST}
+
+---
+
+## 📰 AI 圈每日热点 · AI Daily News
+
+> 每天中午 12:05 自动整理过去 24 小时 AI 圈最值得关心的 6-8 条精选,按 Tony 的兴趣画像过滤,中英双语。
+> Curated daily at 12:05 — the 6-8 most signal-rich items from the past 24 hours of AI, filtered through Tony's interest profile.
+
+{NEWS_LIST}
 
 ---
 
@@ -247,6 +279,7 @@ for y in sorted(legacy_by_year, reverse=True):
 
 out = (README
        .replace('{DAILY_LIST}', '\n'.join(render_daily()))
+       .replace('{NEWS_LIST}', '\n'.join(render_news()))
        .replace('{YEAR_LIST}', '\n'.join(year_lines))
        .replace('{LEGACY_N}', str(len(legacy))))
 
