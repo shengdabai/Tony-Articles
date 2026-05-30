@@ -17,6 +17,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-05-30** — [🇨🇳 中文 · 越来越贵的东西恰恰就是你](articles/zh/2026-05-30-%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%B4%B5%E7%9A%84%E4%B8%9C%E8%A5%BF%E6%81%B0%E6%81%B0%E5%B0%B1%E6%98%AF%E4%BD%A0.md)  ·  [🇬🇧 English · the-things-that-get-expensive](articles/en/2026-05-30-the-things-that-get-expensive.md)
 - **2026-05-29** — [🇨🇳 中文 · 当测试变成一场表演](articles/zh/2026-05-29-%E5%BD%93%E6%B5%8B%E8%AF%95%E5%8F%98%E6%88%90%E4%B8%80%E5%9C%BA%E8%A1%A8%E6%BC%94.md)  ·  [🇬🇧 English · when-tests-become-theater](articles/en/2026-05-29-when-tests-become-theater.md)
 - **2026-05-28** — [🇨🇳 中文 · 十倍工程师的定义变了](articles/zh/2026-05-28-%E5%8D%81%E5%80%8D%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E5%AE%9A%E4%B9%89%E5%8F%98%E4%BA%86.md)  ·  [🇬🇧 English · ten-x-engineer-redefined](articles/en/2026-05-28-ten-x-engineer-redefined.md)
 - **2026-05-27** — [🇨🇳 中文 · AI能蒸馏你的技能蒸馏不了你的系统](articles/zh/2026-05-27-AI%E8%83%BD%E8%92%B8%E9%A6%8F%E4%BD%A0%E7%9A%84%E6%8A%80%E8%83%BD%E8%92%B8%E9%A6%8F%E4%B8%8D%E4%BA%86%E4%BD%A0%E7%9A%84%E7%B3%BB%E7%BB%9F.md)  ·  [🇬🇧 English · ai-cant-distill-your-system](articles/en/2026-05-27-ai-cant-distill-your-system.md)
