@@ -17,6 +17,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-05-31** — [🇨🇳 中文 · 当AI能复制一切剩下的只有品味](articles/zh/2026-05-31-%E5%BD%93AI%E8%83%BD%E5%A4%8D%E5%88%B6%E4%B8%80%E5%88%87%E5%89%A9%E4%B8%8B%E7%9A%84%E5%8F%AA%E6%9C%89%E5%93%81%E5%91%B3.md)  ·  [🇬🇧 English · whats-left-is-taste](articles/en/2026-05-31-whats-left-is-taste.md)
 - **2026-05-30** — [🇨🇳 中文 · 越来越贵的东西恰恰就是你](articles/zh/2026-05-30-%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%B4%B5%E7%9A%84%E4%B8%9C%E8%A5%BF%E6%81%B0%E6%81%B0%E5%B0%B1%E6%98%AF%E4%BD%A0.md)  ·  [🇬🇧 English · the-things-that-get-expensive](articles/en/2026-05-30-the-things-that-get-expensive.md)
 - **2026-05-29** — [🇨🇳 中文 · 当测试变成一场表演](articles/zh/2026-05-29-%E5%BD%93%E6%B5%8B%E8%AF%95%E5%8F%98%E6%88%90%E4%B8%80%E5%9C%BA%E8%A1%A8%E6%BC%94.md)  ·  [🇬🇧 English · when-tests-become-theater](articles/en/2026-05-29-when-tests-become-theater.md)
 - **2026-05-28** — [🇨🇳 中文 · 十倍工程师的定义变了](articles/zh/2026-05-28-%E5%8D%81%E5%80%8D%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E5%AE%9A%E4%B9%89%E5%8F%98%E4%BA%86.md)  ·  [🇬🇧 English · ten-x-engineer-redefined](articles/en/2026-05-28-ten-x-engineer-redefined.md)
