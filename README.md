@@ -17,6 +17,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-06-03** — [🇨🇳 中文 · 如果AI让你更省事你大概率用错了](articles/zh/2026-06-03-%E5%A6%82%E6%9E%9CAI%E8%AE%A9%E4%BD%A0%E6%9B%B4%E7%9C%81%E4%BA%8B%E4%BD%A0%E5%A4%A7%E6%A6%82%E7%8E%87%E7%94%A8%E9%94%99%E4%BA%86.md)  ·  [🇬🇧 English · if-ai-saves-you-time-youre-using-it-wrong](articles/en/2026-06-03-if-ai-saves-you-time-youre-using-it-wrong.md)
 - **2026-06-02** — [🇨🇳 中文 · 碳基时间有限归机时间无限](articles/zh/2026-06-02-%E7%A2%B3%E5%9F%BA%E6%97%B6%E9%97%B4%E6%9C%89%E9%99%90%E5%BD%92%E6%9C%BA%E6%97%B6%E9%97%B4%E6%97%A0%E9%99%90.md)  ·  [🇬🇧 English · carbon-time-and-machine-time](articles/en/2026-06-02-carbon-time-and-machine-time.md)
 - **2026-06-01** — [🇨🇳 中文 · 证明你是人是一场押错的注](articles/zh/2026-06-01-%E8%AF%81%E6%98%8E%E4%BD%A0%E6%98%AF%E4%BA%BA%E6%98%AF%E4%B8%80%E5%9C%BA%E6%8A%BC%E9%94%99%E7%9A%84%E6%B3%A8.md)  ·  [🇬🇧 English · proving-youre-human-is-the-wrong-bet](articles/en/2026-06-01-proving-youre-human-is-the-wrong-bet.md)
 - **2026-05-31** — [🇨🇳 中文 · 当AI能复制一切剩下的只有品味](articles/zh/2026-05-31-%E5%BD%93AI%E8%83%BD%E5%A4%8D%E5%88%B6%E4%B8%80%E5%88%87%E5%89%A9%E4%B8%8B%E7%9A%84%E5%8F%AA%E6%9C%89%E5%93%81%E5%91%B3.md)  ·  [🇬🇧 English · whats-left-is-taste](articles/en/2026-05-31-whats-left-is-taste.md)
