@@ -17,6 +17,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-06-05** — [🇨🇳 中文 · 你迟早会造出自己看不懂的东西](articles/zh/2026-06-05-%E4%BD%A0%E8%BF%9F%E6%97%A9%E4%BC%9A%E9%80%A0%E5%87%BA%E8%87%AA%E5%B7%B1%E7%9C%8B%E4%B8%8D%E6%87%82%E7%9A%84%E4%B8%9C%E8%A5%BF.md)  ·  [🇬🇧 English · build-things-you-cant-understand](articles/en/2026-06-05-build-things-you-cant-understand.md)
 - **2026-06-04** — [🇨🇳 中文 · 你的大脑只有7个格子高手赢在会打包](articles/zh/2026-06-04-%E4%BD%A0%E7%9A%84%E5%A4%A7%E8%84%91%E5%8F%AA%E6%9C%897%E4%B8%AA%E6%A0%BC%E5%AD%90%E9%AB%98%E6%89%8B%E8%B5%A2%E5%9C%A8%E4%BC%9A%E6%89%93%E5%8C%85.md)  ·  [🇬🇧 English · seven-things](articles/en/2026-06-04-seven-things.md)
 - **2026-06-03** — [🇨🇳 中文 · 如果AI让你更省事你大概率用错了](articles/zh/2026-06-03-%E5%A6%82%E6%9E%9CAI%E8%AE%A9%E4%BD%A0%E6%9B%B4%E7%9C%81%E4%BA%8B%E4%BD%A0%E5%A4%A7%E6%A6%82%E7%8E%87%E7%94%A8%E9%94%99%E4%BA%86.md)  ·  [🇬🇧 English · if-ai-saves-you-time-youre-using-it-wrong](articles/en/2026-06-03-if-ai-saves-you-time-youre-using-it-wrong.md)
 - **2026-06-02** — [🇨🇳 中文 · 碳基时间有限归机时间无限](articles/zh/2026-06-02-%E7%A2%B3%E5%9F%BA%E6%97%B6%E9%97%B4%E6%9C%89%E9%99%90%E5%BD%92%E6%9C%BA%E6%97%B6%E9%97%B4%E6%97%A0%E9%99%90.md)  ·  [🇬🇧 English · carbon-time-and-machine-time](articles/en/2026-06-02-carbon-time-and-machine-time.md)
