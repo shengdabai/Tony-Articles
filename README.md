@@ -4,6 +4,8 @@
 
 **盛大白的每日深度思考 · Tony's Daily Deep-Dives**
 
+[![Last commit](https://img.shields.io/github/last-commit/shengdabai/Tony-Articles?style=flat-square&label=%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0%20last%20commit)](https://github.com/shengdabai/Tony-Articles/commits/main) [![Stars](https://img.shields.io/github/stars/shengdabai/Tony-Articles?style=social)](https://github.com/shengdabai/Tony-Articles/stargazers) [![Follow @shengdabai](https://img.shields.io/github/followers/shengdabai?style=social&label=Follow%20%40shengdabai)](https://github.com/shengdabai)
+
 [![每日更新 / Daily](https://img.shields.io/badge/更新-每日中午%2012%3A00-brightgreen?style=flat-square)](#-每日新作--daily-articles) [![中英双语 / Bilingual](https://img.shields.io/badge/语言-中文%20%2F%20English-blue?style=flat-square)](#-中文阅读) [![知识花园 / Garden](https://img.shields.io/badge/Knowledge%20Garden-notes.zturnsgo.com-orange?style=flat-square)](https://notes.zturnsgo.com/) [![历史归档 / Archive](https://img.shields.io/badge/往期-452%20篇-lightgrey?style=flat-square)](#-往期公众号存档--legacy-archive-20212024)
 
 **[🇨🇳 中文阅读](#-中文阅读)** ｜ **[🇬🇧 Read in English](#-read-in-english)** ｜ **[📅 每日新作 Daily](#-每日新作--daily-articles)** ｜ **[📚 往期存档 Archive](#-往期公众号存档--legacy-archive-20212024)** ｜ **[🌐 知识花园 Garden](https://notes.zturnsgo.com/)**
@@ -113,6 +115,14 @@
 - 🌐 逛我的[**知识花园**](https://notes.zturnsgo.com/),看原始笔记
 - 📚 翻 [往期公众号存档](#-往期公众号存档--legacy-archive-20212024) 里 452 篇早年文章
 
+### 同系列仓库 · 一起逛逛
+
+这几个仓库出自同一套「在公开处用工程化方法做事」的实践,可以串着看:
+
+- 🌿 **[tony-knowledge-garden](https://github.com/shengdabai/tony-knowledge-garden)** —— 公开的知识花园:AI、中文教学、学习方法的原始笔记与连接。
+- 🔎 **[Small-yet-smart-programs](https://github.com/shengdabai/Small-yet-smart-programs)** —— 自托管扫描器,每天发掘「小而美、可复制、能赚钱」的产品机会。
+- 🛠️ **[Tony-Claude-Code-Skills](https://github.com/shengdabai/Tony-Claude-Code-Skills)** —— 我自己在用的 Claude Code skills、agents 与 Codex 工作流合集。
+
 ---
 
 ## 🇬🇧 Read in English
@@ -176,6 +186,14 @@ The whole pipeline runs automatically once a day at noon (China time), and pushe
 - 💬 [Open an Issue](https://github.com/shengdabai/Tony-Articles/issues) to suggest a topic
 - 🌐 Browse my [**Notes Garden**](https://notes.zturnsgo.com/) for the raw material
 - 📚 Dig into the [Legacy Archive](#-往期公众号存档--legacy-archive-20212024) — 452 pieces from 2021-2024
+
+### Sibling repos · worth a look
+
+All from the same practice of *doing things in public, with an engineering mindset*:
+
+- 🌿 **[tony-knowledge-garden](https://github.com/shengdabai/tony-knowledge-garden)** — my public knowledge garden: raw notes and connections on AI, Chinese teaching, and learning.
+- 🔎 **[Small-yet-smart-programs](https://github.com/shengdabai/Small-yet-smart-programs)** — a self-hosted scanner that surfaces small, replicable, profitable product ideas every day.
+- 🛠️ **[Tony-Claude-Code-Skills](https://github.com/shengdabai/Tony-Claude-Code-Skills)** — the Claude Code skills, agents, and Codex workflows I actually use.
 
 ---
 
