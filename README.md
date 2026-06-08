@@ -19,6 +19,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-06-08** — [🇨🇳 中文 · 看懂杠杆是新的识字能力](articles/zh/2026-06-08-%E7%9C%8B%E6%87%82%E6%9D%A0%E6%9D%86%E6%98%AF%E6%96%B0%E7%9A%84%E8%AF%86%E5%AD%97%E8%83%BD%E5%8A%9B.md)  ·  [🇬🇧 English · leverage-is-new-literacy](articles/en/2026-06-08-leverage-is-new-literacy.md)
 - **2026-06-07** — [🇨🇳 中文 · 离问题最近的人才该造工具](articles/zh/2026-06-07-%E7%A6%BB%E9%97%AE%E9%A2%98%E6%9C%80%E8%BF%91%E7%9A%84%E4%BA%BA%E6%89%8D%E8%AF%A5%E9%80%A0%E5%B7%A5%E5%85%B7.md)  ·  [🇬🇧 English · closest-to-problem-builds-tool](articles/en/2026-06-07-closest-to-problem-builds-tool.md)
 - **2026-06-06** — [🇨🇳 中文 · 最懂AI的人反而最舍得不用它](articles/zh/2026-06-06-%E6%9C%80%E6%87%82AI%E7%9A%84%E4%BA%BA%E5%8F%8D%E8%80%8C%E6%9C%80%E8%88%8D%E5%BE%97%E4%B8%8D%E7%94%A8%E5%AE%83.md)  ·  [🇬🇧 English · understand-ai-use-it-least](articles/en/2026-06-06-understand-ai-use-it-least.md)
 - **2026-06-05** — [🇨🇳 中文 · 你迟早会造出自己看不懂的东西](articles/zh/2026-06-05-%E4%BD%A0%E8%BF%9F%E6%97%A9%E4%BC%9A%E9%80%A0%E5%87%BA%E8%87%AA%E5%B7%B1%E7%9C%8B%E4%B8%8D%E6%87%82%E7%9A%84%E4%B8%9C%E8%A5%BF.md)  ·  [🇬🇧 English · build-things-you-cant-understand](articles/en/2026-06-05-build-things-you-cant-understand.md)
