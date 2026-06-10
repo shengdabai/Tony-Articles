@@ -19,6 +19,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-06-10** — [🇨🇳 中文 · 第三版才是真正的第一版](articles/zh/2026-06-10-%E7%AC%AC%E4%B8%89%E7%89%88%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%AC%AC%E4%B8%80%E7%89%88.md)  ·  [🇬🇧 English · third-version-is-the-first-real-one](articles/en/2026-06-10-third-version-is-the-first-real-one.md)
 - **2026-06-09** — [🇨🇳 中文 · 聪明的AI也需要路](articles/zh/2026-06-09-%E8%81%AA%E6%98%8E%E7%9A%84AI%E4%B9%9F%E9%9C%80%E8%A6%81%E8%B7%AF.md)  ·  [🇬🇧 English · intelligence-needs-roads](articles/en/2026-06-09-intelligence-needs-roads.md)
 - **2026-06-08** — [🇨🇳 中文 · 看懂杠杆是新的识字能力](articles/zh/2026-06-08-%E7%9C%8B%E6%87%82%E6%9D%A0%E6%9D%86%E6%98%AF%E6%96%B0%E7%9A%84%E8%AF%86%E5%AD%97%E8%83%BD%E5%8A%9B.md)  ·  [🇬🇧 English · leverage-is-new-literacy](articles/en/2026-06-08-leverage-is-new-literacy.md)
 - **2026-06-07** — [🇨🇳 中文 · 离问题最近的人才该造工具](articles/zh/2026-06-07-%E7%A6%BB%E9%97%AE%E9%A2%98%E6%9C%80%E8%BF%91%E7%9A%84%E4%BA%BA%E6%89%8D%E8%AF%A5%E9%80%A0%E5%B7%A5%E5%85%B7.md)  ·  [🇬🇧 English · closest-to-problem-builds-tool](articles/en/2026-06-07-closest-to-problem-builds-tool.md)
