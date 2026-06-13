@@ -46,6 +46,7 @@
 > 每天中午 12:05 自动整理过去 24 小时 AI 圈最值得关心的 6-8 条精选,按 Tony 的兴趣画像过滤,中英双语。
 > Curated daily at 12:05 — the 6-8 most signal-rich items from the past 24 hours of AI, filtered through Tony's interest profile.
 
+- **2026-06-13** — [🇨🇳 中文 · AI圈过去24小时](ai-news/zh/2026-06-13-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · ai-news-daily](ai-news/en/2026-06-13-ai-news-daily.md)
 - **2026-06-12** — [🇨🇳 中文 · AI圈过去24小时](ai-news/zh/2026-06-12-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · ai-news-daily](ai-news/en/2026-06-12-ai-news-daily.md)
 - **2026-06-11** — [🇨🇳 中文 · AI圈过去24小时](ai-news/zh/2026-06-11-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · ai-news-daily](ai-news/en/2026-06-11-ai-news-daily.md)
 - **2026-06-10** — [🇨🇳 中文 · AI圈过去24小时](ai-news/zh/2026-06-10-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · ai-news-daily](ai-news/en/2026-06-10-ai-news-daily.md)
@@ -59,7 +60,6 @@
 - **2026-06-02** — [🇨🇳 中文 · AI圈过去24小时](ai-news/zh/2026-06-02-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · ai-news-daily](ai-news/en/2026-06-02-ai-news-daily.md)
 - **2026-06-01** — [🇨🇳 中文 · AI圈过去24小时](ai-news/zh/2026-06-01-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · ai-news-daily](ai-news/en/2026-06-01-ai-news-daily.md)
 - **2026-05-31** — [🇨🇳 中文 · AI圈过去24小时](ai-news/zh/2026-05-31-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · ai-news-daily](ai-news/en/2026-05-31-ai-news-daily.md)
-- **2026-05-30** — [🇨🇳 中文 · AI圈过去24小时](ai-news/zh/2026-05-30-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · ai-news-daily](ai-news/en/2026-05-30-ai-news-daily.md)
 
 ---
 
