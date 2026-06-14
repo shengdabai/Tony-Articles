@@ -19,6 +19,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-06-14** — [🇨🇳 中文 · 和 AI 共处是一种需要练习的能力](articles/zh/2026-06-14-%E5%92%8C%20AI%20%E5%85%B1%E5%A4%84%E6%98%AF%E4%B8%80%E7%A7%8D%E9%9C%80%E8%A6%81%E7%BB%83%E4%B9%A0%E7%9A%84%E8%83%BD%E5%8A%9B.md)  ·  [🇬🇧 English · coexistence-is-a-skill](articles/en/2026-06-14-coexistence-is-a-skill.md)
 - **2026-06-13** — [🇨🇳 中文 · AI 正在教我们重新珍惜安静](articles/zh/2026-06-13-AI%20%E6%AD%A3%E5%9C%A8%E6%95%99%E6%88%91%E4%BB%AC%E9%87%8D%E6%96%B0%E7%8F%8D%E6%83%9C%E5%AE%89%E9%9D%99.md)  ·  [🇬🇧 English · ai-is-teaching-us-the-value-of-silence](articles/en/2026-06-13-ai-is-teaching-us-the-value-of-silence.md)
 - **2026-06-12** — [🇨🇳 中文 · 最值钱的工作藏在模型看不见的地方](articles/zh/2026-06-12-%E6%9C%80%E5%80%BC%E9%92%B1%E7%9A%84%E5%B7%A5%E4%BD%9C%E8%97%8F%E5%9C%A8%E6%A8%A1%E5%9E%8B%E7%9C%8B%E4%B8%8D%E8%A7%81%E7%9A%84%E5%9C%B0%E6%96%B9.md)  ·  [🇬🇧 English · work-the-model-cannot-see](articles/en/2026-06-12-work-the-model-cannot-see.md)
 - **2026-06-11** — [🇨🇳 中文 · 咖啡馆卖的从来不是咖啡](articles/zh/2026-06-11-%E5%92%96%E5%95%A1%E9%A6%86%E5%8D%96%E7%9A%84%E4%BB%8E%E6%9D%A5%E4%B8%8D%E6%98%AF%E5%92%96%E5%95%A1.md)  ·  [🇬🇧 English · coffee-was-never-the-product](articles/en/2026-06-11-coffee-was-never-the-product.md)
