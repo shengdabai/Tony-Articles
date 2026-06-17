@@ -19,6 +19,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-06-17** — [🇨🇳 中文 · 讲不明白的工具等于不存在](articles/zh/2026-06-17-%E8%AE%B2%E4%B8%8D%E6%98%8E%E7%99%BD%E7%9A%84%E5%B7%A5%E5%85%B7%E7%AD%89%E4%BA%8E%E4%B8%8D%E5%AD%98%E5%9C%A8.md)  ·  [🇬🇧 English · a-tool-does-not-exist-until-someone-can-explain-it](articles/en/2026-06-17-a-tool-does-not-exist-until-someone-can-explain-it.md)
 - **2026-06-16** — [🇨🇳 中文 · 真正的老师是语境](articles/zh/2026-06-16-%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%80%81%E5%B8%88%E6%98%AF%E8%AF%AD%E5%A2%83.md)  ·  [🇬🇧 English · context-is-the-real-teacher](articles/en/2026-06-16-context-is-the-real-teacher.md)
 - **2026-06-15** — [🇨🇳 中文 · 别再制造内容了去成为答案](articles/zh/2026-06-15-%E5%88%AB%E5%86%8D%E5%88%B6%E9%80%A0%E5%86%85%E5%AE%B9%E4%BA%86%E5%8E%BB%E6%88%90%E4%B8%BA%E7%AD%94%E6%A1%88.md)  ·  [🇬🇧 English · become-the-answer-not-the-noise](articles/en/2026-06-15-become-the-answer-not-the-noise.md)
 - **2026-06-14** — [🇨🇳 中文 · 和 AI 共处是一种需要练习的能力](articles/zh/2026-06-14-%E5%92%8C%20AI%20%E5%85%B1%E5%A4%84%E6%98%AF%E4%B8%80%E7%A7%8D%E9%9C%80%E8%A6%81%E7%BB%83%E4%B9%A0%E7%9A%84%E8%83%BD%E5%8A%9B.md)  ·  [🇬🇧 English · coexistence-is-a-skill](articles/en/2026-06-14-coexistence-is-a-skill.md)
