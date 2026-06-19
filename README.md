@@ -19,6 +19,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-06-19** — [🇨🇳 中文 · 先学会预测再让AI代劳](articles/zh/2026-06-19-%E5%85%88%E5%AD%A6%E4%BC%9A%E9%A2%84%E6%B5%8B%E5%86%8D%E8%AE%A9AI%E4%BB%A3%E5%8A%B3.md)  ·  [🇬🇧 English · learn-to-predict-before-you-automate](articles/en/2026-06-19-learn-to-predict-before-you-automate.md)
 - **2026-06-18** — [🇨🇳 中文 · 捷径税](articles/zh/2026-06-18-%E6%8D%B7%E5%BE%84%E7%A8%8E.md)  ·  [🇬🇧 English · the-shortcut-tax](articles/en/2026-06-18-the-shortcut-tax.md)
 - **2026-06-17** — [🇨🇳 中文 · 讲不明白的工具等于不存在](articles/zh/2026-06-17-%E8%AE%B2%E4%B8%8D%E6%98%8E%E7%99%BD%E7%9A%84%E5%B7%A5%E5%85%B7%E7%AD%89%E4%BA%8E%E4%B8%8D%E5%AD%98%E5%9C%A8.md)  ·  [🇬🇧 English · a-tool-does-not-exist-until-someone-can-explain-it](articles/en/2026-06-17-a-tool-does-not-exist-until-someone-can-explain-it.md)
 - **2026-06-16** — [🇨🇳 中文 · 真正的老师是语境](articles/zh/2026-06-16-%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%80%81%E5%B8%88%E6%98%AF%E8%AF%AD%E5%A2%83.md)  ·  [🇬🇧 English · context-is-the-real-teacher](articles/en/2026-06-16-context-is-the-real-teacher.md)
