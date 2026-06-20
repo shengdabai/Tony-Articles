@@ -98,8 +98,8 @@ README = '''<div align="center">
 
 ## 📰 AI 圈每日热点 · AI Daily News
 
-> 每天中午 12:05 自动整理过去 24 小时 AI 圈最值得关心的 6-8 条精选,按 Tony 的兴趣画像过滤,中英双语。
-> Curated daily at 12:05 — the 6-8 most signal-rich items from the past 24 hours of AI, filtered through Tony's interest profile.
+> 每天中午 12:05 自动整理过去 24 小时 AI 圈最值得关心的 6-8 条精选,面向 AI 工具、Agent、独立开发和自我进化系统,中英双语。
+> Curated daily at 12:05 — the 6-8 most signal-rich items from the past 24 hours of AI, with a focus on AI tooling, agents, independent builders, and self-evolving systems.
 
 {NEWS_LIST}
 
