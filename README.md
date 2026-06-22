@@ -19,6 +19,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-06-22** — [🇨🇳 中文 · 能力越便宜需求越野](articles/zh/2026-06-22-%E8%83%BD%E5%8A%9B%E8%B6%8A%E4%BE%BF%E5%AE%9C%E9%9C%80%E6%B1%82%E8%B6%8A%E9%87%8E.md)  ·  [🇬🇧 English · when-capability-gets-cheap-demand-gets-wild](articles/en/2026-06-22-when-capability-gets-cheap-demand-gets-wild.md)
 - **2026-06-21** — [🇨🇳 中文 · 你的 AI 需要一根脊梁](articles/zh/2026-06-21-%E4%BD%A0%E7%9A%84%20AI%20%E9%9C%80%E8%A6%81%E4%B8%80%E6%A0%B9%E8%84%8A%E6%A2%81.md)  ·  [🇬🇧 English · ai-needs-a-spine](articles/en/2026-06-21-ai-needs-a-spine.md)
 - **2026-06-20** — [🇨🇳 中文 · 一人公司不是神话是验证机器](articles/zh/2026-06-20-%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E4%B8%8D%E6%98%AF%E7%A5%9E%E8%AF%9D%E6%98%AF%E9%AA%8C%E8%AF%81%E6%9C%BA%E5%99%A8.md)  ·  [🇬🇧 English · one-person-company-is-a-test-rig](articles/en/2026-06-20-one-person-company-is-a-test-rig.md)
 - **2026-06-19** — [🇨🇳 中文 · 先学会预测再让AI代劳](articles/zh/2026-06-19-%E5%85%88%E5%AD%A6%E4%BC%9A%E9%A2%84%E6%B5%8B%E5%86%8D%E8%AE%A9AI%E4%BB%A3%E5%8A%B3.md)  ·  [🇬🇧 English · learn-to-predict-before-you-automate](articles/en/2026-06-19-learn-to-predict-before-you-automate.md)
