@@ -19,6 +19,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-06-23** — [🇨🇳 中文 · 约束才是创作者](articles/zh/2026-06-23-%E7%BA%A6%E6%9D%9F%E6%89%8D%E6%98%AF%E5%88%9B%E4%BD%9C%E8%80%85.md)  ·  [🇬🇧 English · the-constraint-is-the-creator](articles/en/2026-06-23-the-constraint-is-the-creator.md)
 - **2026-06-22** — [🇨🇳 中文 · 能力越便宜需求越野](articles/zh/2026-06-22-%E8%83%BD%E5%8A%9B%E8%B6%8A%E4%BE%BF%E5%AE%9C%E9%9C%80%E6%B1%82%E8%B6%8A%E9%87%8E.md)  ·  [🇬🇧 English · when-capability-gets-cheap-demand-gets-wild](articles/en/2026-06-22-when-capability-gets-cheap-demand-gets-wild.md)
 - **2026-06-21** — [🇨🇳 中文 · 你的 AI 需要一根脊梁](articles/zh/2026-06-21-%E4%BD%A0%E7%9A%84%20AI%20%E9%9C%80%E8%A6%81%E4%B8%80%E6%A0%B9%E8%84%8A%E6%A2%81.md)  ·  [🇬🇧 English · ai-needs-a-spine](articles/en/2026-06-21-ai-needs-a-spine.md)
 - **2026-06-20** — [🇨🇳 中文 · 一人公司不是神话是验证机器](articles/zh/2026-06-20-%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E4%B8%8D%E6%98%AF%E7%A5%9E%E8%AF%9D%E6%98%AF%E9%AA%8C%E8%AF%81%E6%9C%BA%E5%99%A8.md)  ·  [🇬🇧 English · one-person-company-is-a-test-rig](articles/en/2026-06-20-one-person-company-is-a-test-rig.md)
