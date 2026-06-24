@@ -1,0 +1,6 @@
+# Daily Post Failures
+
+- 2026-06-24: GetNote unavailable. `getnote notes --since-id 0 --limit 20 -o json` failed 3/3 with `未授权`; `getnote quota -o json` returned API error 401 code 10004 `未授权`. No article was generated because today's GetNote notes could not be read.
+- 2026-06-24 retry: User asked to continue the current article, but no 2026-06-24 draft existed in the repo and `getnote notes --since-id 0 --limit 20 -o json` again failed 3/3 with `未授权`. No bilingual article, README rebuild, commit, or push was performed.
+- 2026-06-24 second retry: User again asked to continue. Checked for local 2026-06-24 drafts and non-secret GetNote cache/sync locations; no usable current article or today's GetNote notes were found. `getnote notes --since-id 0 --limit 20 -o json` still failed 3/3 with `未授权`. GetNote documentation indicates 401 requires checking API key/client ID or re-authorization, which cannot be completed non-interactively without valid credentials.
+- 2026-06-24 third retry: User again asked to save and publish the current article. Re-ran `getnote notes --since-id 0 --limit 20 -o json`; it failed 3/3 with `未授权`. Re-checked local 2026-06-24 files; only unrelated AI report indexes, Feishu daily assets, and 2022 legacy articles were found. No article files, README rebuild, commit, or push were performed.
