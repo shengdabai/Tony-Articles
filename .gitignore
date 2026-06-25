@@ -4,3 +4,4 @@
 ruvector.db
 *.db
 .tools/__pycache__/
+.tools/daily-post-failures.md
