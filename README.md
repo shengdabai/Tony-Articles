@@ -19,6 +19,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-06-29** — [🇨🇳 中文 · 让机器坐到你对面](articles/zh/2026-06-29-%E8%AE%A9%E6%9C%BA%E5%99%A8%E5%9D%90%E5%88%B0%E4%BD%A0%E5%AF%B9%E9%9D%A2.md)  ·  [🇬🇧 English · put-the-machine-across-the-table](articles/en/2026-06-29-put-the-machine-across-the-table.md)
 - **2026-06-28** — [🇨🇳 中文 · 一天是有形状的](articles/zh/2026-06-28-%E4%B8%80%E5%A4%A9%E6%98%AF%E6%9C%89%E5%BD%A2%E7%8A%B6%E7%9A%84.md)  ·  [🇬🇧 English · the-day-has-a-shape](articles/en/2026-06-28-the-day-has-a-shape.md)
 - **2026-06-27** — [🇨🇳 中文 · 别把按钮变成作业](articles/zh/2026-06-27-%E5%88%AB%E6%8A%8A%E6%8C%89%E9%92%AE%E5%8F%98%E6%88%90%E4%BD%9C%E4%B8%9A.md)  ·  [🇬🇧 English · dont-turn-buttons-into-homework](articles/en/2026-06-27-dont-turn-buttons-into-homework.md)
 - **2026-06-26** — [🇨🇳 中文 · 阻力是营养](articles/zh/2026-06-26-%E9%98%BB%E5%8A%9B%E6%98%AF%E8%90%A5%E5%85%BB.md)  ·  [🇬🇧 English · friction-is-food](articles/en/2026-06-26-friction-is-food.md)
