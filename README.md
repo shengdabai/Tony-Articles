@@ -19,6 +19,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-07-05** — [🇨🇳 中文 · 别让 AI 只会画地图](articles/zh/2026-07-05-%E5%88%AB%E8%AE%A9%20AI%20%E5%8F%AA%E4%BC%9A%E7%94%BB%E5%9C%B0%E5%9B%BE.md)  ·  [🇬🇧 English · the-map-is-not-the-work](articles/en/2026-07-05-the-map-is-not-the-work.md)
 - **2026-07-04** — [🇨🇳 中文 · 真正的革命常常以滞后出现](articles/zh/2026-07-04-%E7%9C%9F%E6%AD%A3%E7%9A%84%E9%9D%A9%E5%91%BD%E5%B8%B8%E5%B8%B8%E4%BB%A5%E6%BB%9E%E5%90%8E%E5%87%BA%E7%8E%B0.md)  ·  [🇬🇧 English · the-lag-is-the-revolution](articles/en/2026-07-04-the-lag-is-the-revolution.md)
 - **2026-07-03** — [🇨🇳 中文 · 借来的笔记不属于你](articles/zh/2026-07-03-%E5%80%9F%E6%9D%A5%E7%9A%84%E7%AC%94%E8%AE%B0%E4%B8%8D%E5%B1%9E%E4%BA%8E%E4%BD%A0.md)  ·  [🇬🇧 English · borrowed-notes-do-not-belong-to-you](articles/en/2026-07-03-borrowed-notes-do-not-belong-to-you.md)
 - **2026-07-02** — [🇨🇳 中文 · 说错是第一个信号](articles/zh/2026-07-02-%E8%AF%B4%E9%94%99%E6%98%AF%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%BF%A1%E5%8F%B7.md)  ·  [🇬🇧 English · wrong-is-the-first-signal](articles/en/2026-07-02-wrong-is-the-first-signal.md)
