@@ -19,6 +19,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-07-07** — [🇨🇳 中文 · 成年人学习需要一个为什么](articles/zh/2026-07-07-%E6%88%90%E5%B9%B4%E4%BA%BA%E5%AD%A6%E4%B9%A0%E9%9C%80%E8%A6%81%E4%B8%80%E4%B8%AA%E4%B8%BA%E4%BB%80%E4%B9%88.md)  ·  [🇬🇧 English · adult-learners-need-a-why](articles/en/2026-07-07-adult-learners-need-a-why.md)
 - **2026-07-06** — [🇨🇳 中文 · 信任才是真正的界面](articles/zh/2026-07-06-%E4%BF%A1%E4%BB%BB%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%95%8C%E9%9D%A2.md)  ·  [🇬🇧 English · trust-is-the-interface](articles/en/2026-07-06-trust-is-the-interface.md)
 - **2026-07-05** — [🇨🇳 中文 · 别让 AI 只会画地图](articles/zh/2026-07-05-%E5%88%AB%E8%AE%A9%20AI%20%E5%8F%AA%E4%BC%9A%E7%94%BB%E5%9C%B0%E5%9B%BE.md)  ·  [🇬🇧 English · the-map-is-not-the-work](articles/en/2026-07-05-the-map-is-not-the-work.md)
 - **2026-07-04** — [🇨🇳 中文 · 真正的革命常常以滞后出现](articles/zh/2026-07-04-%E7%9C%9F%E6%AD%A3%E7%9A%84%E9%9D%A9%E5%91%BD%E5%B8%B8%E5%B8%B8%E4%BB%A5%E6%BB%9E%E5%90%8E%E5%87%BA%E7%8E%B0.md)  ·  [🇬🇧 English · the-lag-is-the-revolution](articles/en/2026-07-04-the-lag-is-the-revolution.md)
