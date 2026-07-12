@@ -19,6 +19,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-07-12** — [🇨🇳 中文 · 世界从回应你开始](articles/zh/2026-07-12-%E4%B8%96%E7%95%8C%E4%BB%8E%E5%9B%9E%E5%BA%94%E4%BD%A0%E5%BC%80%E5%A7%8B.md)  ·  [🇬🇧 English · world-answers-back](articles/en/2026-07-12-world-answers-back.md)
 - **2026-07-11** — [🇨🇳 中文 · 贵模型是罗盘便宜模型是工厂](articles/zh/2026-07-11-%E8%B4%B5%E6%A8%A1%E5%9E%8B%E6%98%AF%E7%BD%97%E7%9B%98%E4%BE%BF%E5%AE%9C%E6%A8%A1%E5%9E%8B%E6%98%AF%E5%B7%A5%E5%8E%82.md)  ·  [🇬🇧 English · expensive-model-compass-cheap-model-factory](articles/en/2026-07-11-expensive-model-compass-cheap-model-factory.md)
 - **2026-07-10** — [🇨🇳 中文 · 最后一公里让 AI 变成真的](articles/zh/2026-07-10-%E6%9C%80%E5%90%8E%E4%B8%80%E5%85%AC%E9%87%8C%E8%AE%A9%20AI%20%E5%8F%98%E6%88%90%E7%9C%9F%E7%9A%84.md)  ·  [🇬🇧 English · last-mile-makes-ai-real](articles/en/2026-07-10-last-mile-makes-ai-real.md)
 - **2026-07-09** — [🇨🇳 中文 · 循环需要一个裁判](articles/zh/2026-07-09-%E5%BE%AA%E7%8E%AF%E9%9C%80%E8%A6%81%E4%B8%80%E4%B8%AA%E8%A3%81%E5%88%A4.md)  ·  [🇬🇧 English · the-loop-needs-a-judge](articles/en/2026-07-09-the-loop-needs-a-judge.md)
