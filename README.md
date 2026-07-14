@@ -19,6 +19,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-07-14** — [🇨🇳 中文 · 语气也是工具的一部分](articles/zh/2026-07-14-%E8%AF%AD%E6%B0%94%E4%B9%9F%E6%98%AF%E5%B7%A5%E5%85%B7%E7%9A%84%E4%B8%80%E9%83%A8%E5%88%86.md)  ·  [🇬🇧 English · tone-is-part-of-the-tool](articles/en/2026-07-14-tone-is-part-of-the-tool.md)
 - **2026-07-13** — [🇨🇳 中文 · 你不是一次性升级的](articles/zh/2026-07-13-%E4%BD%A0%E4%B8%8D%E6%98%AF%E4%B8%80%E6%AC%A1%E6%80%A7%E5%8D%87%E7%BA%A7%E7%9A%84.md)  ·  [🇬🇧 English · you-do-not-upgrade-all-at-once](articles/en/2026-07-13-you-do-not-upgrade-all-at-once.md)
 - **2026-07-12** — [🇨🇳 中文 · 世界从回应你开始](articles/zh/2026-07-12-%E4%B8%96%E7%95%8C%E4%BB%8E%E5%9B%9E%E5%BA%94%E4%BD%A0%E5%BC%80%E5%A7%8B.md)  ·  [🇬🇧 English · world-answers-back](articles/en/2026-07-12-world-answers-back.md)
 - **2026-07-11** — [🇨🇳 中文 · 贵模型是罗盘便宜模型是工厂](articles/zh/2026-07-11-%E8%B4%B5%E6%A8%A1%E5%9E%8B%E6%98%AF%E7%BD%97%E7%9B%98%E4%BE%BF%E5%AE%9C%E6%A8%A1%E5%9E%8B%E6%98%AF%E5%B7%A5%E5%8E%82.md)  ·  [🇬🇧 English · expensive-model-compass-cheap-model-factory](articles/en/2026-07-11-expensive-model-compass-cheap-model-factory.md)
