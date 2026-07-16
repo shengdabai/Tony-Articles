@@ -78,6 +78,7 @@
 > 每天中午 12:05 自动整理过去 24 小时 AI 圈最值得关心的 6-8 条精选,面向 AI 工具、Agent、独立开发和自我进化系统,中英双语。
 > Curated daily at 12:05 — the 6-8 most signal-rich items from the past 24 hours of AI, with a focus on AI tooling, agents, independent builders, and self-evolving systems.
 
+- **2026-07-16** — [🇨🇳 中文 · AI圈过去24小时](ai-news/zh/2026-07-16-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · ai-news-daily](ai-news/en/2026-07-16-ai-news-daily.md)
 - **2026-07-15** — [🇨🇳 中文 · AI圈过去24小时](ai-news/zh/2026-07-15-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · ai-news-daily](ai-news/en/2026-07-15-ai-news-daily.md)
 - **2026-07-14** — [🇨🇳 中文 · AI圈过去24小时](ai-news/zh/2026-07-14-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · ai-news-daily](ai-news/en/2026-07-14-ai-news-daily.md)
 - **2026-07-13** — [🇨🇳 中文 · AI圈过去24小时](ai-news/zh/2026-07-13-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · ai-news-daily](ai-news/en/2026-07-13-ai-news-daily.md)
@@ -91,7 +92,6 @@
 - **2026-07-05** — [🇨🇳 中文 · AI圈过去24小时](ai-news/zh/2026-07-05-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · ai-news-daily](ai-news/en/2026-07-05-ai-news-daily.md)
 - **2026-07-04** — [🇨🇳 中文 · AI圈过去24小时](ai-news/zh/2026-07-04-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · ai-news-daily](ai-news/en/2026-07-04-ai-news-daily.md)
 - **2026-07-03** — [🇨🇳 中文 · AI圈过去24小时](ai-news/zh/2026-07-03-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · ai-news-daily](ai-news/en/2026-07-03-ai-news-daily.md)
-- **2026-07-02** — [🇨🇳 中文 · AI圈过去24小时](ai-news/zh/2026-07-02-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · ai-news-daily](ai-news/en/2026-07-02-ai-news-daily.md)
 
 ---
 
