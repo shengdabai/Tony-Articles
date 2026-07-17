@@ -19,6 +19,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-07-17** — [🇨🇳 中文 · 把 AI 放到工作本来发生的地方](articles/zh/2026-07-17-%E6%8A%8A%20AI%20%E6%94%BE%E5%88%B0%E5%B7%A5%E4%BD%9C%E6%9C%AC%E6%9D%A5%E5%8F%91%E7%94%9F%E7%9A%84%E5%9C%B0%E6%96%B9.md)  ·  [🇬🇧 English · put-ai-where-work-happens](articles/en/2026-07-17-put-ai-where-work-happens.md)
 - **2026-07-16** — [🇨🇳 中文 · 预算会把人教成不同的人](articles/zh/2026-07-16-%E9%A2%84%E7%AE%97%E4%BC%9A%E6%8A%8A%E4%BA%BA%E6%95%99%E6%88%90%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%BA.md)  ·  [🇬🇧 English · the-budget-teaches-the-builder](articles/en/2026-07-16-the-budget-teaches-the-builder.md)
 - **2026-07-15** — [🇨🇳 中文 · 新的瓶颈是许可](articles/zh/2026-07-15-%E6%96%B0%E7%9A%84%E7%93%B6%E9%A2%88%E6%98%AF%E8%AE%B8%E5%8F%AF.md)  ·  [🇬🇧 English · the-new-bottleneck-is-permission](articles/en/2026-07-15-the-new-bottleneck-is-permission.md)
 - **2026-07-14** — [🇨🇳 中文 · 语气也是工具的一部分](articles/zh/2026-07-14-%E8%AF%AD%E6%B0%94%E4%B9%9F%E6%98%AF%E5%B7%A5%E5%85%B7%E7%9A%84%E4%B8%80%E9%83%A8%E5%88%86.md)  ·  [🇬🇧 English · tone-is-part-of-the-tool](articles/en/2026-07-14-tone-is-part-of-the-tool.md)
