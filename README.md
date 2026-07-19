@@ -19,6 +19,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-07-19** — [🇨🇳 中文 · 学校正在重新变成工坊](articles/zh/2026-07-19-%E5%AD%A6%E6%A0%A1%E6%AD%A3%E5%9C%A8%E9%87%8D%E6%96%B0%E5%8F%98%E6%88%90%E5%B7%A5%E5%9D%8A.md)  ·  [🇬🇧 English · school-is-becoming-a-workshop-again](articles/en/2026-07-19-school-is-becoming-a-workshop-again.md)
 - **2026-07-18** — [🇨🇳 中文 · 小生意需要的不是AI神话而是操作系统](articles/zh/2026-07-18-%E5%B0%8F%E7%94%9F%E6%84%8F%E9%9C%80%E8%A6%81%E7%9A%84%E4%B8%8D%E6%98%AFAI%E7%A5%9E%E8%AF%9D%E8%80%8C%E6%98%AF%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.md)  ·  [🇬🇧 English · small-businesses-need-an-operating-system](articles/en/2026-07-18-small-businesses-need-an-operating-system.md)
 - **2026-07-17** — [🇨🇳 中文 · 把 AI 放到工作本来发生的地方](articles/zh/2026-07-17-%E6%8A%8A%20AI%20%E6%94%BE%E5%88%B0%E5%B7%A5%E4%BD%9C%E6%9C%AC%E6%9D%A5%E5%8F%91%E7%94%9F%E7%9A%84%E5%9C%B0%E6%96%B9.md)  ·  [🇬🇧 English · put-ai-where-work-happens](articles/en/2026-07-17-put-ai-where-work-happens.md)
 - **2026-07-16** — [🇨🇳 中文 · 预算会把人教成不同的人](articles/zh/2026-07-16-%E9%A2%84%E7%AE%97%E4%BC%9A%E6%8A%8A%E4%BA%BA%E6%95%99%E6%88%90%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%BA.md)  ·  [🇬🇧 English · the-budget-teaches-the-builder](articles/en/2026-07-16-the-budget-teaches-the-builder.md)
