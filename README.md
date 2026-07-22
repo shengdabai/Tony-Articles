@@ -19,6 +19,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-07-22** — [🇨🇳 中文 · 公司本身才是上下文](articles/zh/2026-07-22-%E5%85%AC%E5%8F%B8%E6%9C%AC%E8%BA%AB%E6%89%8D%E6%98%AF%E4%B8%8A%E4%B8%8B%E6%96%87.md)  ·  [🇬🇧 English · the-company-is-the-context](articles/en/2026-07-22-the-company-is-the-context.md)
 - **2026-07-21** — [🇨🇳 中文 · 并行不是开更多窗口而是给任务分房间](articles/zh/2026-07-21-%E5%B9%B6%E8%A1%8C%E4%B8%8D%E6%98%AF%E5%BC%80%E6%9B%B4%E5%A4%9A%E7%AA%97%E5%8F%A3%E8%80%8C%E6%98%AF%E7%BB%99%E4%BB%BB%E5%8A%A1%E5%88%86%E6%88%BF%E9%97%B4.md)  ·  [🇬🇧 English · parallel-work-needs-separate-rooms](articles/en/2026-07-21-parallel-work-needs-separate-rooms.md)
 - **2026-07-20** — [🇨🇳 中文 · 恢复力才是第一系统](articles/zh/2026-07-20-%E6%81%A2%E5%A4%8D%E5%8A%9B%E6%89%8D%E6%98%AF%E7%AC%AC%E4%B8%80%E7%B3%BB%E7%BB%9F.md)  ·  [🇬🇧 English · recovery-is-the-first-system](articles/en/2026-07-20-recovery-is-the-first-system.md)
 - **2026-07-19** — [🇨🇳 中文 · 学校正在重新变成工坊](articles/zh/2026-07-19-%E5%AD%A6%E6%A0%A1%E6%AD%A3%E5%9C%A8%E9%87%8D%E6%96%B0%E5%8F%98%E6%88%90%E5%B7%A5%E5%9D%8A.md)  ·  [🇬🇧 English · school-is-becoming-a-workshop-again](articles/en/2026-07-19-school-is-becoming-a-workshop-again.md)
