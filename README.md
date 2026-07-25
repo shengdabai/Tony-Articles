@@ -19,6 +19,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-07-25** — [🇨🇳 中文 · 学习从边缘开始](articles/zh/2026-07-25-%E5%AD%A6%E4%B9%A0%E4%BB%8E%E8%BE%B9%E7%BC%98%E5%BC%80%E5%A7%8B.md)  ·  [🇬🇧 English · the-edge-is-where-learning-starts](articles/en/2026-07-25-the-edge-is-where-learning-starts.md)
 - **2026-07-24** — [🇨🇳 中文 · 会拒绝的系统更强](articles/zh/2026-07-24-%E4%BC%9A%E6%8B%92%E7%BB%9D%E7%9A%84%E7%B3%BB%E7%BB%9F%E6%9B%B4%E5%BC%BA.md)  ·  [🇬🇧 English · the-systems-that-refuse-get-stronger](articles/en/2026-07-24-the-systems-that-refuse-get-stronger.md)
 - **2026-07-23** — [🇨🇳 中文 · 别让 AI 太快同意你](articles/zh/2026-07-23-%E5%88%AB%E8%AE%A9%20AI%20%E5%A4%AA%E5%BF%AB%E5%90%8C%E6%84%8F%E4%BD%A0.md)  ·  [🇬🇧 English · do-not-let-ai-agree-too-soon](articles/en/2026-07-23-do-not-let-ai-agree-too-soon.md)
 - **2026-07-22** — [🇨🇳 中文 · 公司本身才是上下文](articles/zh/2026-07-22-%E5%85%AC%E5%8F%B8%E6%9C%AC%E8%BA%AB%E6%89%8D%E6%98%AF%E4%B8%8A%E4%B8%8B%E6%96%87.md)  ·  [🇬🇧 English · the-company-is-the-context](articles/en/2026-07-22-the-company-is-the-context.md)
