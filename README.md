@@ -19,6 +19,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-07-27** — [🇨🇳 中文 · 当工具长出感官](articles/zh/2026-07-27-%E5%BD%93%E5%B7%A5%E5%85%B7%E9%95%BF%E5%87%BA%E6%84%9F%E5%AE%98.md)  ·  [🇬🇧 English · when-tools-grow-senses](articles/en/2026-07-27-when-tools-grow-senses.md)
 - **2026-07-26** — [🇨🇳 中文 · 被发现正在变成证据工程](articles/zh/2026-07-26-%E8%A2%AB%E5%8F%91%E7%8E%B0%E6%AD%A3%E5%9C%A8%E5%8F%98%E6%88%90%E8%AF%81%E6%8D%AE%E5%B7%A5%E7%A8%8B.md)  ·  [🇬🇧 English · discovery-is-evidence-now](articles/en/2026-07-26-discovery-is-evidence-now.md)
 - **2026-07-25** — [🇨🇳 中文 · 学习从边缘开始](articles/zh/2026-07-25-%E5%AD%A6%E4%B9%A0%E4%BB%8E%E8%BE%B9%E7%BC%98%E5%BC%80%E5%A7%8B.md)  ·  [🇬🇧 English · the-edge-is-where-learning-starts](articles/en/2026-07-25-the-edge-is-where-learning-starts.md)
 - **2026-07-24** — [🇨🇳 中文 · 会拒绝的系统更强](articles/zh/2026-07-24-%E4%BC%9A%E6%8B%92%E7%BB%9D%E7%9A%84%E7%B3%BB%E7%BB%9F%E6%9B%B4%E5%BC%BA.md)  ·  [🇬🇧 English · the-systems-that-refuse-get-stronger](articles/en/2026-07-24-the-systems-that-refuse-get-stronger.md)
