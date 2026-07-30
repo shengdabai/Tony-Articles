@@ -19,6 +19,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-07-30** — [🇨🇳 中文 · 利润总是最后到达](articles/zh/2026-07-30-%E5%88%A9%E6%B6%A6%E6%80%BB%E6%98%AF%E6%9C%80%E5%90%8E%E5%88%B0%E8%BE%BE.md)  ·  [🇬🇧 English · profit-arrives-last](articles/en/2026-07-30-profit-arrives-last.md)
 - **2026-07-29** — [🇨🇳 中文 · 最难的Agent是那个会花钱的](articles/zh/2026-07-29-%E6%9C%80%E9%9A%BE%E7%9A%84Agent%E6%98%AF%E9%82%A3%E4%B8%AA%E4%BC%9A%E8%8A%B1%E9%92%B1%E7%9A%84.md)  ·  [🇬🇧 English · the-hardest-agent-spends-money](articles/en/2026-07-29-the-hardest-agent-spends-money.md)
 - **2026-07-28** — [🇨🇳 中文 · 进步需要一个扫兴者](articles/zh/2026-07-28-%E8%BF%9B%E6%AD%A5%E9%9C%80%E8%A6%81%E4%B8%80%E4%B8%AA%E6%89%AB%E5%85%B4%E8%80%85.md)  ·  [🇬🇧 English · progress-needs-a-spoilsport](articles/en/2026-07-28-progress-needs-a-spoilsport.md)
 - **2026-07-27** — [🇨🇳 中文 · 当工具长出感官](articles/zh/2026-07-27-%E5%BD%93%E5%B7%A5%E5%85%B7%E9%95%BF%E5%87%BA%E6%84%9F%E5%AE%98.md)  ·  [🇬🇧 English · when-tools-grow-senses](articles/en/2026-07-27-when-tools-grow-senses.md)
