@@ -19,6 +19,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-08-02** — [🇨🇳 中文 · 变强是副产品](articles/zh/2026-08-02-%E5%8F%98%E5%BC%BA%E6%98%AF%E5%89%AF%E4%BA%A7%E5%93%81.md)  ·  [🇬🇧 English · strength-is-a-byproduct](articles/en/2026-08-02-strength-is-a-byproduct.md)
 - **2026-08-01** — [🇨🇳 中文 · 趁世界还没冷却](articles/zh/2026-08-01-%E8%B6%81%E4%B8%96%E7%95%8C%E8%BF%98%E6%B2%A1%E5%86%B7%E5%8D%B4.md)  ·  [🇬🇧 English · act-before-the-world-cools](articles/en/2026-08-01-act-before-the-world-cools.md)
 - **2026-07-31** — [🇨🇳 中文 · 会遗忘的系统才会继续变强](articles/zh/2026-07-31-%E4%BC%9A%E9%81%97%E5%BF%98%E7%9A%84%E7%B3%BB%E7%BB%9F%E6%89%8D%E4%BC%9A%E7%BB%A7%E7%BB%AD%E5%8F%98%E5%BC%BA.md)  ·  [🇬🇧 English · system-that-knows-how-to-forget](articles/en/2026-07-31-system-that-knows-how-to-forget.md)
 - **2026-07-30** — [🇨🇳 中文 · 利润总是最后到达](articles/zh/2026-07-30-%E5%88%A9%E6%B6%A6%E6%80%BB%E6%98%AF%E6%9C%80%E5%90%8E%E5%88%B0%E8%BE%BE.md)  ·  [🇬🇧 English · profit-arrives-last](articles/en/2026-07-30-profit-arrives-last.md)
