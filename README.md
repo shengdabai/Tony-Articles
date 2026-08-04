@@ -19,6 +19,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-08-04** — [🇨🇳 中文 · 第一个项目不是产品是基础设施](articles/zh/2026-08-04-%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%A1%B9%E7%9B%AE%E4%B8%8D%E6%98%AF%E4%BA%A7%E5%93%81%E6%98%AF%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD.md)  ·  [🇬🇧 English · the-first-project-is-infrastructure](articles/en/2026-08-04-the-first-project-is-infrastructure.md)
 - **2026-08-03** — [🇨🇳 中文 · AI推不动是因为交易坏了](articles/zh/2026-08-03-AI%E6%8E%A8%E4%B8%8D%E5%8A%A8%E6%98%AF%E5%9B%A0%E4%B8%BA%E4%BA%A4%E6%98%93%E5%9D%8F%E4%BA%86.md)  ·  [🇬🇧 English · the-ai-deal-is-broken](articles/en/2026-08-03-the-ai-deal-is-broken.md)
 - **2026-08-02** — [🇨🇳 中文 · 变强是副产品](articles/zh/2026-08-02-%E5%8F%98%E5%BC%BA%E6%98%AF%E5%89%AF%E4%BA%A7%E5%93%81.md)  ·  [🇬🇧 English · strength-is-a-byproduct](articles/en/2026-08-02-strength-is-a-byproduct.md)
 - **2026-08-01** — [🇨🇳 中文 · 趁世界还没冷却](articles/zh/2026-08-01-%E8%B6%81%E4%B8%96%E7%95%8C%E8%BF%98%E6%B2%A1%E5%86%B7%E5%8D%B4.md)  ·  [🇬🇧 English · act-before-the-world-cools](articles/en/2026-08-01-act-before-the-world-cools.md)
