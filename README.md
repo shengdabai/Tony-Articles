@@ -19,6 +19,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-08-07** — [🇨🇳 中文 · 第一个员工是一份文本文件](articles/zh/2026-08-07-%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%91%98%E5%B7%A5%E6%98%AF%E4%B8%80%E4%BB%BD%E6%96%87%E6%9C%AC%E6%96%87%E4%BB%B6.md)  ·  [🇬🇧 English · the-first-employee-is-a-text-file](articles/en/2026-08-07-the-first-employee-is-a-text-file.md)
 - **2026-08-06** — [🇨🇳 中文 · 你会变成自己会测量的东西](articles/zh/2026-08-06-%E4%BD%A0%E4%BC%9A%E5%8F%98%E6%88%90%E8%87%AA%E5%B7%B1%E4%BC%9A%E6%B5%8B%E9%87%8F%E7%9A%84%E4%B8%9C%E8%A5%BF.md)  ·  [🇬🇧 English · you-become-what-you-can-measure](articles/en/2026-08-06-you-become-what-you-can-measure.md)
 - **2026-08-05** — [🇨🇳 中文 · 书应该反过来问你](articles/zh/2026-08-05-%E4%B9%A6%E5%BA%94%E8%AF%A5%E5%8F%8D%E8%BF%87%E6%9D%A5%E9%97%AE%E4%BD%A0.md)  ·  [🇬🇧 English · the-book-should-ask-back](articles/en/2026-08-05-the-book-should-ask-back.md)
 - **2026-08-04** — [🇨🇳 中文 · 第一个项目不是产品是基础设施](articles/zh/2026-08-04-%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%A1%B9%E7%9B%AE%E4%B8%8D%E6%98%AF%E4%BA%A7%E5%93%81%E6%98%AF%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD.md)  ·  [🇬🇧 English · the-first-project-is-infrastructure](articles/en/2026-08-04-the-first-project-is-infrastructure.md)
