@@ -19,6 +19,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-08-09** — [🇨🇳 中文 · 最强的AI司令部应该很小](articles/zh/2026-08-09-%E6%9C%80%E5%BC%BA%E7%9A%84AI%E5%8F%B8%E4%BB%A4%E9%83%A8%E5%BA%94%E8%AF%A5%E5%BE%88%E5%B0%8F.md)  ·  [🇬🇧 English · strongest-ai-headquarters-is-small](articles/en/2026-08-09-strongest-ai-headquarters-is-small.md)
 - **2026-08-08** — [🇨🇳 中文 · 判断力必须抵达现场](articles/zh/2026-08-08-%E5%88%A4%E6%96%AD%E5%8A%9B%E5%BF%85%E9%A1%BB%E6%8A%B5%E8%BE%BE%E7%8E%B0%E5%9C%BA.md)  ·  [🇬🇧 English · judgment-must-reach-the-work](articles/en/2026-08-08-judgment-must-reach-the-work.md)
 - **2026-08-07** — [🇨🇳 中文 · 第一个员工是一份文本文件](articles/zh/2026-08-07-%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%91%98%E5%B7%A5%E6%98%AF%E4%B8%80%E4%BB%BD%E6%96%87%E6%9C%AC%E6%96%87%E4%BB%B6.md)  ·  [🇬🇧 English · the-first-employee-is-a-text-file](articles/en/2026-08-07-the-first-employee-is-a-text-file.md)
 - **2026-08-06** — [🇨🇳 中文 · 你会变成自己会测量的东西](articles/zh/2026-08-06-%E4%BD%A0%E4%BC%9A%E5%8F%98%E6%88%90%E8%87%AA%E5%B7%B1%E4%BC%9A%E6%B5%8B%E9%87%8F%E7%9A%84%E4%B8%9C%E8%A5%BF.md)  ·  [🇬🇧 English · you-become-what-you-can-measure](articles/en/2026-08-06-you-become-what-you-can-measure.md)
