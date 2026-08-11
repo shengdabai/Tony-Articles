@@ -19,6 +19,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-08-11** — [🇨🇳 中文 · 你的AI需要一张资产负债表](articles/zh/2026-08-11-%E4%BD%A0%E7%9A%84AI%E9%9C%80%E8%A6%81%E4%B8%80%E5%BC%A0%E8%B5%84%E4%BA%A7%E8%B4%9F%E5%80%BA%E8%A1%A8.md)  ·  [🇬🇧 English · your-ai-needs-a-balance-sheet](articles/en/2026-08-11-your-ai-needs-a-balance-sheet.md)
 - **2026-08-10** — [🇨🇳 中文 · 让需求先咬你一口](articles/zh/2026-08-10-%E8%AE%A9%E9%9C%80%E6%B1%82%E5%85%88%E5%92%AC%E4%BD%A0%E4%B8%80%E5%8F%A3.md)  ·  [🇬🇧 English · let-the-need-bite-first](articles/en/2026-08-10-let-the-need-bite-first.md)
 - **2026-08-09** — [🇨🇳 中文 · 最强的AI司令部应该很小](articles/zh/2026-08-09-%E6%9C%80%E5%BC%BA%E7%9A%84AI%E5%8F%B8%E4%BB%A4%E9%83%A8%E5%BA%94%E8%AF%A5%E5%BE%88%E5%B0%8F.md)  ·  [🇬🇧 English · strongest-ai-headquarters-is-small](articles/en/2026-08-09-strongest-ai-headquarters-is-small.md)
 - **2026-08-08** — [🇨🇳 中文 · 判断力必须抵达现场](articles/zh/2026-08-08-%E5%88%A4%E6%96%AD%E5%8A%9B%E5%BF%85%E9%A1%BB%E6%8A%B5%E8%BE%BE%E7%8E%B0%E5%9C%BA.md)  ·  [🇬🇧 English · judgment-must-reach-the-work](articles/en/2026-08-08-judgment-must-reach-the-work.md)
