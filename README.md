@@ -19,6 +19,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-08-13** — [🇨🇳 中文 · 品味要长成测试](articles/zh/2026-08-13-%E5%93%81%E5%91%B3%E8%A6%81%E9%95%BF%E6%88%90%E6%B5%8B%E8%AF%95.md)  ·  [🇬🇧 English · taste-must-become-a-test](articles/en/2026-08-13-taste-must-become-a-test.md)
 - **2026-08-12** — [🇨🇳 中文 · 智能越强越需要缰绳](articles/zh/2026-08-12-%E6%99%BA%E8%83%BD%E8%B6%8A%E5%BC%BA%E8%B6%8A%E9%9C%80%E8%A6%81%E7%BC%B0%E7%BB%B3.md)  ·  [🇬🇧 English · intelligence-needs-a-harness](articles/en/2026-08-12-intelligence-needs-a-harness.md)
 - **2026-08-11** — [🇨🇳 中文 · 你的AI需要一张资产负债表](articles/zh/2026-08-11-%E4%BD%A0%E7%9A%84AI%E9%9C%80%E8%A6%81%E4%B8%80%E5%BC%A0%E8%B5%84%E4%BA%A7%E8%B4%9F%E5%80%BA%E8%A1%A8.md)  ·  [🇬🇧 English · your-ai-needs-a-balance-sheet](articles/en/2026-08-11-your-ai-needs-a-balance-sheet.md)
 - **2026-08-10** — [🇨🇳 中文 · 让需求先咬你一口](articles/zh/2026-08-10-%E8%AE%A9%E9%9C%80%E6%B1%82%E5%85%88%E5%92%AC%E4%BD%A0%E4%B8%80%E5%8F%A3.md)  ·  [🇬🇧 English · let-the-need-bite-first](articles/en/2026-08-10-let-the-need-bite-first.md)
