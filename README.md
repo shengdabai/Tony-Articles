@@ -19,6 +19,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-08-15** — [🇨🇳 中文 · 反馈才是新的算力](articles/zh/2026-08-15-%E5%8F%8D%E9%A6%88%E6%89%8D%E6%98%AF%E6%96%B0%E7%9A%84%E7%AE%97%E5%8A%9B.md)  ·  [🇬🇧 English · feedback-is-the-new-compute](articles/en/2026-08-15-feedback-is-the-new-compute.md)
 - **2026-08-14** — [🇨🇳 中文 · 抽象要先赢得信任](articles/zh/2026-08-14-%E6%8A%BD%E8%B1%A1%E8%A6%81%E5%85%88%E8%B5%A2%E5%BE%97%E4%BF%A1%E4%BB%BB.md)  ·  [🇬🇧 English · abstraction-has-to-earn-trust](articles/en/2026-08-14-abstraction-has-to-earn-trust.md)
 - **2026-08-13** — [🇨🇳 中文 · 品味要长成测试](articles/zh/2026-08-13-%E5%93%81%E5%91%B3%E8%A6%81%E9%95%BF%E6%88%90%E6%B5%8B%E8%AF%95.md)  ·  [🇬🇧 English · taste-must-become-a-test](articles/en/2026-08-13-taste-must-become-a-test.md)
 - **2026-08-12** — [🇨🇳 中文 · 智能越强越需要缰绳](articles/zh/2026-08-12-%E6%99%BA%E8%83%BD%E8%B6%8A%E5%BC%BA%E8%B6%8A%E9%9C%80%E8%A6%81%E7%BC%B0%E7%BB%B3.md)  ·  [🇬🇧 English · intelligence-needs-a-harness](articles/en/2026-08-12-intelligence-needs-a-harness.md)
