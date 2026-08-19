@@ -19,6 +19,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-08-19** — [🇨🇳 中文 · 未来常常建在有用的浪费之上](articles/zh/2026-08-19-%E6%9C%AA%E6%9D%A5%E5%B8%B8%E5%B8%B8%E5%BB%BA%E5%9C%A8%E6%9C%89%E7%94%A8%E7%9A%84%E6%B5%AA%E8%B4%B9%E4%B9%8B%E4%B8%8A.md)  ·  [🇬🇧 English · useful-waste-builds-the-future](articles/en/2026-08-19-useful-waste-builds-the-future.md)
 - **2026-08-18** — [🇨🇳 中文 · 数据要变成世界](articles/zh/2026-08-18-%E6%95%B0%E6%8D%AE%E8%A6%81%E5%8F%98%E6%88%90%E4%B8%96%E7%95%8C.md)  ·  [🇬🇧 English · data-has-to-become-a-world](articles/en/2026-08-18-data-has-to-become-a-world.md)
 - **2026-08-17** — [🇨🇳 中文 · AI不是软件它要重新长一遍](articles/zh/2026-08-17-AI%E4%B8%8D%E6%98%AF%E8%BD%AF%E4%BB%B6%E5%AE%83%E8%A6%81%E9%87%8D%E6%96%B0%E9%95%BF%E4%B8%80%E9%81%8D.md)  ·  [🇬🇧 English · ai-does-not-travel-as-software](articles/en/2026-08-17-ai-does-not-travel-as-software.md)
 - **2026-08-16** — [🇨🇳 中文 · 好系统不会犯第二次错](articles/zh/2026-08-16-%E5%A5%BD%E7%B3%BB%E7%BB%9F%E4%B8%8D%E4%BC%9A%E7%8A%AF%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%94%99.md)  ·  [🇬🇧 English · good-systems-do-not-repeat-mistakes](articles/en/2026-08-16-good-systems-do-not-repeat-mistakes.md)
