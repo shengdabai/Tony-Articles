@@ -389,14 +389,14 @@ Founder Park 计划搭建一个大模型相关领域的交流社区，面向有�
 
 * * *
 
-**更多阅读**[ 有了插件的 ChatGPT，可能会成为未来互联网的唯一入口](http://mp.weixin.qq.com/s?__biz=Mzg5NTc0MjgwMw==&mid=2247486376&idx=1&sn=b4fcfe99e9a5673761ee494568e2b3f9&chksm=c00aed94f77d6482b41d17ac2ba9da8f0b6b8f3fe9058eae0fac39cc4076df4a22f1f23167ff&scene=21#wechat_redirect)
+**更多阅读**[ 有了插件的 ChatGPT，可能会成为未来互联网的唯一入口](https://mp.weixin.qq.com/s?__biz=Mzg5NTc0MjgwMw==&mid=2247486376&idx=1&sn=b4fcfe99e9a5673761ee494568e2b3f9&chksm=c00aed94f77d6482b41d17ac2ba9da8f0b6b8f3fe9058eae0fac39cc4076df4a22f1f23167ff&scene=21#wechat_redirect)
 
-[ChatGPT 已过时？Auto-GPT 会是 prompt 终结者吗？](http://mp.weixin.qq.com/s?__biz=Mzg5NTc0MjgwMw==&mid=2247486315&idx=1&sn=3ffdaede8d9716443b7e920c7dc307d4&chksm=c00aed57f77d64414cadb453b5322c8507227c73613ba1f59ad7c28d6a63e21133a867f6b04c&scene=21#wechat_redirect)
+[ChatGPT 已过时？Auto-GPT 会是 prompt 终结者吗？](https://mp.weixin.qq.com/s?__biz=Mzg5NTc0MjgwMw==&mid=2247486315&idx=1&sn=3ffdaede8d9716443b7e920c7dc307d4&chksm=c00aed57f77d64414cadb453b5322c8507227c73613ba1f59ad7c28d6a63e21133a867f6b04c&scene=21#wechat_redirect)
 
-[张鹏对谈王俊煜、李志飞：ChatGPT 插件模式会如何颠覆互联网格局？](http://mp.weixin.qq.com/s?__biz=Mzg5NTc0MjgwMw==&mid=2247486300&idx=1&sn=2ee7fe41042268ad9e5b333d61f03d70&chksm=c00aed60f77d6476c7bb5ef98f5afdd726a06960ef6e354184862e3e257298cf8b5a33a600ee&scene=21#wechat_redirect)
+[张鹏对谈王俊煜、李志飞：ChatGPT 插件模式会如何颠覆互联网格局？](https://mp.weixin.qq.com/s?__biz=Mzg5NTc0MjgwMw==&mid=2247486300&idx=1&sn=2ee7fe41042268ad9e5b333d61f03d70&chksm=c00aed60f77d6476c7bb5ef98f5afdd726a06960ef6e354184862e3e257298cf8b5a33a600ee&scene=21#wechat_redirect)
 
-[OpenAI 首席科学家 Ilya Sutskever：AGI 提供的是人类自我进化的安全保障](http://mp.weixin.qq.com/s?__biz=Mzg5NTc0MjgwMw==&mid=2247486273&idx=1&sn=1f56907e8cc7a311348bd264a4a20aa1&chksm=c00aed7df77d646bccd626f12e5a0ca3d4c0152bda4c2fc91fc47d01338d7e119951c258d3e2&scene=21#wechat_redirect)
+[OpenAI 首席科学家 Ilya Sutskever：AGI 提供的是人类自我进化的安全保障](https://mp.weixin.qq.com/s?__biz=Mzg5NTc0MjgwMw==&mid=2247486273&idx=1&sn=1f56907e8cc7a311348bd264a4a20aa1&chksm=c00aed7df77d646bccd626f12e5a0ca3d4c0152bda4c2fc91fc47d01338d7e119951c258d3e2&scene=21#wechat_redirect)
 
-[硅谷都在看好哪些 AI 项目？来看看 YC 投资的新风向](http://mp.weixin.qq.com/s?__biz=Mzg5NTc0MjgwMw==&mid=2247486223&idx=2&sn=646cd21e9c2caf47e669e5d7ba68bf6f&chksm=c00aed33f77d64253baa495f5ac0b57e08d277e29bd9887b4bfd23d41ef8d046a15989f071c8&scene=21#wechat_redirect)
+[硅谷都在看好哪些 AI 项目？来看看 YC 投资的新风向](https://mp.weixin.qq.com/s?__biz=Mzg5NTc0MjgwMw==&mid=2247486223&idx=2&sn=646cd21e9c2caf47e669e5d7ba68bf6f&chksm=c00aed33f77d64253baa495f5ac0b57e08d277e29bd9887b4bfd23d41ef8d046a15989f071c8&scene=21#wechat_redirect)
 
 转载原创文章请添加微信：geekparker
