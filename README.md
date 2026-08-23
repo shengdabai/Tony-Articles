@@ -19,6 +19,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-08-23** — [🇨🇳 中文 · 上下文必须能带走](articles/zh/2026-08-23-%E4%B8%8A%E4%B8%8B%E6%96%87%E5%BF%85%E9%A1%BB%E8%83%BD%E5%B8%A6%E8%B5%B0.md)  ·  [🇬🇧 English · context-must-be-able-to-leave](articles/en/2026-08-23-context-must-be-able-to-leave.md)
 - **2026-08-22** — [🇨🇳 中文 · 别补短板把长板做成系统](articles/zh/2026-08-22-%E5%88%AB%E8%A1%A5%E7%9F%AD%E6%9D%BF%E6%8A%8A%E9%95%BF%E6%9D%BF%E5%81%9A%E6%88%90%E7%B3%BB%E7%BB%9F.md)  ·  [🇬🇧 English · turn-strengths-into-systems](articles/en/2026-08-22-turn-strengths-into-systems.md)
 - **2026-08-21** — [🇨🇳 中文 · 别让AI替你完成学徒期](articles/zh/2026-08-21-%E5%88%AB%E8%AE%A9AI%E6%9B%BF%E4%BD%A0%E5%AE%8C%E6%88%90%E5%AD%A6%E5%BE%92%E6%9C%9F.md)  ·  [🇬🇧 English · do-not-outsource-your-apprenticeship](articles/en/2026-08-21-do-not-outsource-your-apprenticeship.md)
 - **2026-08-20** — [🇨🇳 中文 · AI打坏的是速度比](articles/zh/2026-08-20-AI%E6%89%93%E5%9D%8F%E7%9A%84%E6%98%AF%E9%80%9F%E5%BA%A6%E6%AF%94.md)  ·  [🇬🇧 English · ai-breaks-the-speed-ratio](articles/en/2026-08-20-ai-breaks-the-speed-ratio.md)
