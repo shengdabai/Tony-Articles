@@ -19,6 +19,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-08-24** — [🇨🇳 中文 · 价值出现在新的可能里](articles/zh/2026-08-24-%E4%BB%B7%E5%80%BC%E5%87%BA%E7%8E%B0%E5%9C%A8%E6%96%B0%E7%9A%84%E5%8F%AF%E8%83%BD%E9%87%8C.md)  ·  [🇬🇧 English · value-is-what-becomes-possible](articles/en/2026-08-24-value-is-what-becomes-possible.md)
 - **2026-08-23** — [🇨🇳 中文 · 上下文必须能带走](articles/zh/2026-08-23-%E4%B8%8A%E4%B8%8B%E6%96%87%E5%BF%85%E9%A1%BB%E8%83%BD%E5%B8%A6%E8%B5%B0.md)  ·  [🇬🇧 English · context-must-be-able-to-leave](articles/en/2026-08-23-context-must-be-able-to-leave.md)
 - **2026-08-22** — [🇨🇳 中文 · 别补短板把长板做成系统](articles/zh/2026-08-22-%E5%88%AB%E8%A1%A5%E7%9F%AD%E6%9D%BF%E6%8A%8A%E9%95%BF%E6%9D%BF%E5%81%9A%E6%88%90%E7%B3%BB%E7%BB%9F.md)  ·  [🇬🇧 English · turn-strengths-into-systems](articles/en/2026-08-22-turn-strengths-into-systems.md)
 - **2026-08-21** — [🇨🇳 中文 · 别让AI替你完成学徒期](articles/zh/2026-08-21-%E5%88%AB%E8%AE%A9AI%E6%9B%BF%E4%BD%A0%E5%AE%8C%E6%88%90%E5%AD%A6%E5%BE%92%E6%9C%9F.md)  ·  [🇬🇧 English · do-not-outsource-your-apprenticeship](articles/en/2026-08-21-do-not-outsource-your-apprenticeship.md)
@@ -116,6 +117,7 @@
 > 每天中午 12:05 自动整理过去 24 小时 AI 圈最值得关心的 6-8 条精选,面向 AI 工具、Agent、独立开发和自我进化系统,中英双语。
 > Curated daily at 12:05 — the 6-8 most signal-rich items from the past 24 hours of AI, with a focus on AI tooling, agents, independent builders, and self-evolving systems.
 
+- **2026-08-24** — [🇨🇳 中文 · AI圈过去24小时](ai-news/zh/2026-08-24-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · ai-news-daily](ai-news/en/2026-08-24-ai-news-daily.md)
 - **2026-08-23** — [🇨🇳 中文 · AI圈过去24小时](ai-news/zh/2026-08-23-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · ai-news-daily](ai-news/en/2026-08-23-ai-news-daily.md)
 - **2026-08-22** — [🇨🇳 中文 · AI圈过去24小时](ai-news/zh/2026-08-22-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · ai-news-daily](ai-news/en/2026-08-22-ai-news-daily.md)
 - **2026-08-21** — [🇨🇳 中文 · AI圈过去24小时](ai-news/zh/2026-08-21-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · ai-news-daily](ai-news/en/2026-08-21-ai-news-daily.md)
@@ -129,7 +131,6 @@
 - **2026-08-13** — [🇨🇳 中文 · AI圈过去24小时](ai-news/zh/2026-08-13-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · ai-news-daily](ai-news/en/2026-08-13-ai-news-daily.md)
 - **2026-08-12** — [🇨🇳 中文 · AI圈过去24小时](ai-news/zh/2026-08-12-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · ai-news-daily](ai-news/en/2026-08-12-ai-news-daily.md)
 - **2026-08-11** — [🇨🇳 中文 · AI圈过去24小时](ai-news/zh/2026-08-11-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · ai-news-daily](ai-news/en/2026-08-11-ai-news-daily.md)
-- **2026-08-10** — [🇨🇳 中文 · AI圈过去24小时](ai-news/zh/2026-08-10-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · ai-news-daily](ai-news/en/2026-08-10-ai-news-daily.md)
 
 ---
 
