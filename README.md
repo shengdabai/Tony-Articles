@@ -19,6 +19,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-08-26** — [🇨🇳 中文 · 别把你的来处当缺陷](articles/zh/2026-08-26-%E5%88%AB%E6%8A%8A%E4%BD%A0%E7%9A%84%E6%9D%A5%E5%A4%84%E5%BD%93%E7%BC%BA%E9%99%B7.md)  ·  [🇬🇧 English · your-background-is-not-a-defect](articles/en/2026-08-26-your-background-is-not-a-defect.md)
 - **2026-08-25** — [🇨🇳 中文 · 让用户把算力带来](articles/zh/2026-08-25-%E8%AE%A9%E7%94%A8%E6%88%B7%E6%8A%8A%E7%AE%97%E5%8A%9B%E5%B8%A6%E6%9D%A5.md)  ·  [🇬🇧 English · let-the-user-bring-the-compute](articles/en/2026-08-25-let-the-user-bring-the-compute.md)
 - **2026-08-24** — [🇨🇳 中文 · 价值出现在新的可能里](articles/zh/2026-08-24-%E4%BB%B7%E5%80%BC%E5%87%BA%E7%8E%B0%E5%9C%A8%E6%96%B0%E7%9A%84%E5%8F%AF%E8%83%BD%E9%87%8C.md)  ·  [🇬🇧 English · value-is-what-becomes-possible](articles/en/2026-08-24-value-is-what-becomes-possible.md)
 - **2026-08-23** — [🇨🇳 中文 · 上下文必须能带走](articles/zh/2026-08-23-%E4%B8%8A%E4%B8%8B%E6%96%87%E5%BF%85%E9%A1%BB%E8%83%BD%E5%B8%A6%E8%B5%B0.md)  ·  [🇬🇧 English · context-must-be-able-to-leave](articles/en/2026-08-23-context-must-be-able-to-leave.md)
