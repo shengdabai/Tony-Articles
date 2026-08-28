@@ -19,6 +19,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-08-28** — [🇨🇳 中文 · 让世界长出把手](articles/zh/2026-08-28-%E8%AE%A9%E4%B8%96%E7%95%8C%E9%95%BF%E5%87%BA%E6%8A%8A%E6%89%8B.md)  ·  [🇬🇧 English · give-the-world-handles](articles/en/2026-08-28-give-the-world-handles.md)
 - **2026-08-27** — [🇨🇳 中文 · 把世界翻译成行动的人](articles/zh/2026-08-27-%E6%8A%8A%E4%B8%96%E7%95%8C%E7%BF%BB%E8%AF%91%E6%88%90%E8%A1%8C%E5%8A%A8%E7%9A%84%E4%BA%BA.md)  ·  [🇬🇧 English · the-people-who-translate-the-world-into-action](articles/en/2026-08-27-the-people-who-translate-the-world-into-action.md)
 - **2026-08-26** — [🇨🇳 中文 · 别把你的来处当缺陷](articles/zh/2026-08-26-%E5%88%AB%E6%8A%8A%E4%BD%A0%E7%9A%84%E6%9D%A5%E5%A4%84%E5%BD%93%E7%BC%BA%E9%99%B7.md)  ·  [🇬🇧 English · your-background-is-not-a-defect](articles/en/2026-08-26-your-background-is-not-a-defect.md)
 - **2026-08-25** — [🇨🇳 中文 · 让用户把算力带来](articles/zh/2026-08-25-%E8%AE%A9%E7%94%A8%E6%88%B7%E6%8A%8A%E7%AE%97%E5%8A%9B%E5%B8%A6%E6%9D%A5.md)  ·  [🇬🇧 English · let-the-user-bring-the-compute](articles/en/2026-08-25-let-the-user-bring-the-compute.md)
