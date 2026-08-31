@@ -19,6 +19,7 @@
 > 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
 > Published daily at noon (China time), bilingual.
 
+- **2026-08-31** — [🇨🇳 中文 · 模型的想法不是证据](articles/zh/2026-08-31-%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%83%B3%E6%B3%95%E4%B8%8D%E6%98%AF%E8%AF%81%E6%8D%AE.md)  ·  [🇬🇧 English · the-models-thoughts-are-not-evidence](articles/en/2026-08-31-the-models-thoughts-are-not-evidence.md)
 - **2026-08-30** — [🇨🇳 中文 · 别改名改动词](articles/zh/2026-08-30-%E5%88%AB%E6%94%B9%E5%90%8D%E6%94%B9%E5%8A%A8%E8%AF%8D.md)  ·  [🇬🇧 English · change-the-verb-not-the-label](articles/en/2026-08-30-change-the-verb-not-the-label.md)
 - **2026-08-29** — [🇨🇳 中文 · 先造探针再谈产品](articles/zh/2026-08-29-%E5%85%88%E9%80%A0%E6%8E%A2%E9%92%88%E5%86%8D%E8%B0%88%E4%BA%A7%E5%93%81.md)  ·  [🇬🇧 English · build-the-probe-before-the-product](articles/en/2026-08-29-build-the-probe-before-the-product.md)
 - **2026-08-28** — [🇨🇳 中文 · 让世界长出把手](articles/zh/2026-08-28-%E8%AE%A9%E4%B8%96%E7%95%8C%E9%95%BF%E5%87%BA%E6%8A%8A%E6%89%8B.md)  ·  [🇬🇧 English · give-the-world-handles](articles/en/2026-08-28-give-the-world-handles.md)
