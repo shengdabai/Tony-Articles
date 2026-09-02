@@ -18,6 +18,9 @@ MAP_FILE = REPO / ".tools" / "translation-map.json"
 DATE_RE = re.compile(r"^(\d{4}-\d{2}-\d{2})-.+\.md$")
 URL_RE = re.compile(r"https?://[^\s)>]+")
 HAN_RE = re.compile(r"[\u3400-\u4dbf\u4e00-\u9fff]")
+CRITICAL_QUANTITY_EQUIVALENTS = {
+    "一万倍": re.compile(r"\b(?:10,?000|ten[ -]thousand)(?:[ -]fold|\s+times)\b", re.I),
+}
 HAN_ALLOWED_SOURCES = {
     "2022-05-01-视频号直播间违禁词分享给你.md",
     "2023-05-16-华杉一生不败这回彻底理解孙子兵法 新加坡南洋理工大学演讲实录.md",
@@ -111,6 +114,9 @@ def main() -> int:
             body = en_raw.split("---", 1)[-1]
             if zh_path.name not in HAN_ALLOWED_SOURCES and HAN_RE.search(body):
                 fail(f"untranslated Chinese remains: {en_path.relative_to(REPO)}", errors)
+            for source_quantity, english_pattern in CRITICAL_QUANTITY_EQUIVALENTS.items():
+                if source_quantity in raw and not english_pattern.search(en_raw):
+                    fail(f"critical quantity drift ({source_quantity}): {en_path.relative_to(REPO)}", errors)
 
     validate_index(ZH / "README.md", zh_files, errors)
     validate_index(EN / "README.md", en_files, errors)

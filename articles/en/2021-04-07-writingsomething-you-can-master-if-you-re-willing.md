@@ -14,7 +14,7 @@ Writing Insights
 
 **Recording and conveying perception is the foundation of writing;**
 
-**What you write is a hundred times more important than how you write;**
+**What you write is ten thousand times more important than how you write;**
 
 **Writing logic isn't as difficult as it seems—structure is clear and traceable;**
 

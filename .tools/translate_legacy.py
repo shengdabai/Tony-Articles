@@ -28,6 +28,9 @@ MAP_FILE = REPO / ".tools" / "translation-map.json"
 DATE_FILE_RE = re.compile(r"^(\d{4}-\d{2}-\d{2})-(.+)\.md$")
 URL_RE = re.compile(r"https?://[^\s)>]+")
 HAN_RE = re.compile(r"[\u3400-\u4dbf\u4e00-\u9fff]")
+CRITICAL_QUANTITY_EQUIVALENTS = {
+    "一万倍": re.compile(r"\b(?:10,?000|ten[ -]thousand)(?:[ -]fold|\s+times)\b", re.I),
+}
 HAN_ALLOWED_SOURCES = {
     # The article teaches Chinese platform-prohibited wording; retaining the
     # original terms beside their English glosses adds necessary reader value.
@@ -550,6 +553,9 @@ def validate(source: str, translated: str, allow_han: bool = False) -> None:
         raise ValueError(f"URL drift; missing={missing[:3]} added={added[:3]}")
     if len(translated) < max(120, int(len(source) * 0.22)):
         raise ValueError("translation is suspiciously short")
+    for source_quantity, english_pattern in CRITICAL_QUANTITY_EQUIVALENTS.items():
+        if source_quantity in source and not english_pattern.search(translated):
+            raise ValueError(f"critical quantity drift: {source_quantity}")
     body = translated.split("---", 1)[-1]
     if not allow_han and HAN_RE.search(body):
         raise ValueError("English body still contains untranslated Chinese")
