@@ -1,0 +1,5 @@
+# Remember These Three Things
+
+> Published: 2023-10-23 · [中文](../zh/2023-10-23-%E8%AE%B0%E4%BD%8F%E8%BF%99%E4%B8%89%E4%BB%B6%E4%BA%8B.md) | [English](../en/2023-10-23-remember-these-three-things.md)
+
+---
