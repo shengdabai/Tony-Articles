@@ -5,3 +5,6 @@ ruvector.db
 *.db
 .tools/__pycache__/
 .tools/daily-post-failures.md
+.tools/translation-map.lock
+.tools/translation-cache/
+*.tmp

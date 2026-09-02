@@ -1,0 +1,21 @@
+# The Boundary Between Active and Passive
+
+> Published: 2021-07-10 · [中文](../zh/2021-07-10-%E4%B8%BB%E5%8A%A8%E5%92%8C%E8%A2%AB%E5%8A%A8%E4%B9%8B%E9%97%B4%E7%9A%84%E8%BE%B9%E7%95%8C.md) | [English](../en/2021-07-10-the-boundary-between-active-and-passive.md)
+
+---
+
+99th Original Article
+
+Successful investors must objectively understand themselves and reality, but more importantly, the boundary between themselves and reality. We need to clearly recognize our own boundaries, not waste effort beyond them. For example: parents educating their children, investors wanting to participate in operations. Again, explain the formula p = δ + α - γ. If we do nothing, γ is 0 and p is maximized, leading to a discussion on how the human brain deals with risk. Use index funds and fund products as examples, explaining how it's very difficult to increase α. Use data from *The Wall Street Journal* to further illustrate that passive management funds are increasing in inflows, while active funds continue to flow out.
+
+The three concepts of **Boundary Thinking**, **Long-term Perspective**, and **Macro Observation** change a person's character. Further explain with the strategy of regular investing. Objectivity is important, and maintaining optimism in the long term is a well-known investment secret!
+
+Actively do what I can change, passively accept what I cannot. Recognize my ability boundaries. Every word is like a gem, each sentence is a piece of wise advice. How many times have we been defeated by our own ignorance? The author's entire article is tightly connected, not only with a rigorous logical structure and thorough discussion, but also by reusing previous content, reorganizing the essence, and enhancing the perception of the content. This is the power of good writing—read it more, and it gets more exciting. Read it again and again, and I feel it more each time. What was said before, repeated with examples, doesn't feel redundant, but instead gives readers more understanding. It's really impressive (ง •̀_•́)ง
+
+As a teacher, the example of parents educating their children in the article is extremely fitting. Today's education is full of anxiety. Where does this anxiety come from? It may have multiple causes, but when parents don't clearly understand their own boundaries, the harm they cause to children is especially significant.
+
+In my class, there are many mothers who are full-time housewives. I have no other intention but to use this as an example. They spend a lot of time on their children every day, enrolling them in various interest classes, picking them up and dropping them off, waiting, bringing food and drinks, and their daily schedule is packed. From their perspective, I understand their intentions. But if they demand their children to learn this and that while they themselves are playing on their phones and shopping crazily, can the children not notice? The pressure and psychological burden on the children are really heavy.
+
+On the contrary, I joined the regular investing life class because of Li Xiaolai and a group of excellent companions. Everyone is practicing, doing things seriously on the path of long-termism. There are also moms in the group who are reading and writing, sharing and gaining every day. Under such an inspiring influence, how could the children not be excellent? I met a sixth-grade student in Beijing who was inspired by his mother's participation in the group to start writing continuously and even published his own writings. Though his writing is still immature, the seed planted in his heart from a young age will surely grow into a towering tree. Actively doing what is within one's ability.
+
+Sometimes I think, humans are constantly trying, seeking innovation, changing everything. But history tells us that changing nature comes with huge costs. Human destruction of nature will eventually affect humanity. Some environmental problems are already evident today. Wanting to do something, I can't be passive. What can I do to be worthy of this wealth... Such thoughts are really scary. Wake up as soon as possible, but maybe I'll still fall into a trap. No problem, at least I'll know what happened. Don't complain, get up, continue doing what I can, doing things within my boundaries, and live a good life!
