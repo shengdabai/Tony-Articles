@@ -1,19 +1,30 @@
 #!/usr/bin/env python3
-"""生成 Tony-Articles 主 README + 年份存档页。中英双语,顶部一键跳转。"""
-import os, re, urllib.parse
+"""生成 Tony-Articles 主 README、双语索引与年份存档页。"""
+import json, os, re, urllib.parse
 from collections import defaultdict
 
 BUILD = os.environ.get("ARTICLES_REPO", os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 adir = os.path.join(BUILD, "articles")
 date_re = re.compile(r'^(\d{4}-\d{2}-\d{2})-(.*)\.md$')
 
+def article_title(path, fallback):
+    try:
+        with open(path, encoding="utf-8", errors="replace") as fh:
+            for line in fh:
+                m = re.match(r'^#\s+(.+?)\s*$', line)
+                if m:
+                    return m.group(1)
+    except OSError:
+        pass
+    return fallback
+
 def collect_dir(d):
     if not os.path.isdir(d): return []
     out = []
     for f in os.listdir(d):
         m = date_re.match(f)
-        if m: out.append((m.group(1), m.group(2), f))
-    out.sort(key=lambda x: (x[0], x[2]))
+        if m: out.append((m.group(1), article_title(os.path.join(d, f), m.group(2)), f))
+    out.sort(key=lambda x: (x[0], x[2]), reverse=True)
     return out
 
 def collect(sub):
@@ -22,24 +33,46 @@ def collect(sub):
 def enc(sub, f, base="articles"):
     return f"{base}/{sub}/{urllib.parse.quote(f)}" if sub else f"{base}/{urllib.parse.quote(f)}"
 
-legacy = collect("")
 en = collect("en")
 zh = collect("zh")
 news_zh = collect_dir(os.path.join(BUILD, "ai-news", "zh"))
 news_en = collect_dir(os.path.join(BUILD, "ai-news", "en"))
 
-en_by_date = defaultdict(list); zh_by_date = defaultdict(list)
-for d,t,f in en: en_by_date[d].append((t,f))
-for d,t,f in zh: zh_by_date[d].append((t,f))
-all_dates = sorted(set(list(en_by_date)+list(zh_by_date)), reverse=True)
-pairs = []
-for d in all_dates:
-    zl, el = zh_by_date.get(d,[]), en_by_date.get(d,[])
-    for i in range(max(len(zl),len(el))):
-        pairs.append((d, zl[i] if i<len(zl) else None, el[i] if i<len(el) else None))
+en_by_file = {f: (d, t, f) for d, t, f in en}
+translation_map_path = os.path.join(BUILD, ".tools", "translation-map.json")
+try:
+    with open(translation_map_path, encoding="utf-8") as fh:
+        translation_map = json.load(fh)
+except (OSError, ValueError, TypeError):
+    translation_map = {}
 
-legacy_by_year = defaultdict(list)
-for d,t,f in legacy: legacy_by_year[d[:4]].append((d,t,f))
+def linked_english(zh_file):
+    mapped = translation_map.get(zh_file)
+    if mapped in en_by_file:
+        return mapped
+    try:
+        raw = open(os.path.join(adir, "zh", zh_file), encoding="utf-8", errors="replace").read(1200)
+    except OSError:
+        return None
+    m = re.search(r'\.\./en/([^\n)]+\.md)', raw)
+    return urllib.parse.unquote(m.group(1)) if m and urllib.parse.unquote(m.group(1)) in en_by_file else None
+
+pairs = []
+used_en = set()
+for d, t, f in zh:
+    ef = linked_english(f)
+    etf = (en_by_file[ef][1], ef) if ef else None
+    if ef:
+        used_en.add(ef)
+    pairs.append((d, (t, f), etf))
+for d, t, f in en:
+    if f not in used_en:
+        pairs.append((d, None, (t, f)))
+pairs.sort(key=lambda item: (item[0], item[1][1] if item[1] else item[2][1]), reverse=True)
+
+by_year = defaultdict(list)
+for pair in pairs:
+    by_year[pair[0][:4]].append(pair)
 
 def render_daily():
     if not pairs:
@@ -79,18 +112,18 @@ README = '''<div align="center">
 
 [![Last commit](https://img.shields.io/github/last-commit/shengdabai/Tony-Articles?style=flat-square&label=%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0%20last%20commit)](https://github.com/shengdabai/Tony-Articles/commits/main) [![Stars](https://img.shields.io/github/stars/shengdabai/Tony-Articles?style=social)](https://github.com/shengdabai/Tony-Articles/stargazers) [![Follow @shengdabai](https://img.shields.io/github/followers/shengdabai?style=social&label=Follow%20%40shengdabai)](https://github.com/shengdabai)
 
-[![每日更新 / Daily](https://img.shields.io/badge/更新-每日中午%2012%3A00-brightgreen?style=flat-square)](#-每日新作--daily-articles) [![中英双语 / Bilingual](https://img.shields.io/badge/语言-中文%20%2F%20English-blue?style=flat-square)](#-中文阅读) [![知识花园 / Garden](https://img.shields.io/badge/Knowledge%20Garden-notes.zturnsgo.com-orange?style=flat-square)](https://notes.zturnsgo.com/) [![历史归档 / Archive](https://img.shields.io/badge/往期-{LEGACY_N}%20篇-lightgrey?style=flat-square)](#-往期公众号存档--legacy-archive-20212024)
+[![每日更新 / Daily](https://img.shields.io/badge/更新-每日中午%2012%3A00-brightgreen?style=flat-square)](#-全部文章--all-articles) [![中英双语 / Bilingual](https://img.shields.io/badge/语言-中文%20%2F%20English-blue?style=flat-square)](#-中文阅读) [![知识花园 / Garden](https://img.shields.io/badge/Knowledge%20Garden-notes.zturnsgo.com-orange?style=flat-square)](https://notes.zturnsgo.com/) [![文章 / Articles](https://img.shields.io/badge/文章-{TOTAL_N}%20篇-lightgrey?style=flat-square)](#-全部文章--all-articles)
 
-**[🇨🇳 中文阅读](#-中文阅读)** ｜ **[🇬🇧 Read in English](#-read-in-english)** ｜ **[📅 每日新作 Daily](#-每日新作--daily-articles)** ｜ **[📚 往期存档 Archive](#-往期公众号存档--legacy-archive-20212024)** ｜ **[🌐 知识花园 Garden](https://notes.zturnsgo.com/)**
+**[🇨🇳 中文文章（由近到远）](articles/zh/README.md)** ｜ **[🇬🇧 English Articles (Newest First)](articles/en/README.md)** ｜ **[📚 全部双语文章](#-全部文章--all-articles)** ｜ **[🌐 知识花园 Garden](https://notes.zturnsgo.com/)**
 
 </div>
 
 ---
 
-## 📅 每日新作 · Daily Articles
+## 📚 全部文章 · All Articles
 
-> 每天中午 12:00(中国时间)自动发布一篇全新深度思考,中英双语。
-> Published daily at noon (China time), bilingual.
+> 中文版与英文版均按发布日期由近到远排列。2021–2024 年旧文已补齐英文重写版。
+> Both language editions are ordered newest to oldest. The 2021–2024 archive now includes English re-creations.
 
 {DAILY_LIST}
 
@@ -168,7 +201,7 @@ README = '''<div align="center">
 - 👀 点 **Watch → Custom → Releases**(我会定期发月度精选 Release)
 - 💬 在 [Issues](https://github.com/shengdabai/Tony-Articles/issues) 里告诉我你想看什么主题
 - 🌐 逛我的[**知识花园**](https://notes.zturnsgo.com/),看原始笔记
-- 📚 翻 [往期公众号存档](#-往期公众号存档--legacy-archive-20212024) 里 {LEGACY_N} 篇早年文章
+- 📚 按时间翻阅[全部中文文章](articles/zh/README.md)，共 {TOTAL_N} 篇
 
 ### 同系列仓库 · 一起逛逛
 
@@ -240,7 +273,7 @@ The whole pipeline runs automatically once a day at noon (China time), and pushe
 - 👀 Watch → Custom → **Releases** (monthly best-of as Releases)
 - 💬 [Open an Issue](https://github.com/shengdabai/Tony-Articles/issues) to suggest a topic
 - 🌐 Browse my [**Notes Garden**](https://notes.zturnsgo.com/) for the raw material
-- 📚 Dig into the [Legacy Archive](#-往期公众号存档--legacy-archive-20212024) — {LEGACY_N} pieces from 2021-2024
+- 📚 Browse [all English articles, newest first](articles/en/README.md) — {TOTAL_N} pieces
 
 ### Sibling repos · worth a look
 
@@ -252,11 +285,11 @@ All from the same practice of *doing things in public, with an engineering minds
 
 ---
 
-## 📚 往期公众号存档 · Legacy Archive (2021–2024)
+## 📚 年份导航 · Browse by Year
 
-我在 2021-2024 年间断断续续写了 **{LEGACY_N} 篇** 公众号文章——那时候还没有这套工程化流水线,记录的是一个更年轻、更不修饰的我。它们按年份归档在这里,作为一段成长印记。
+全部文章已统一放进 `articles/zh/` 与 `articles/en/`，每个年份页同样按由近到远排列。
 
-*Between 2021-2024 I posted {LEGACY_N} pieces to my WeChat blog — younger, rawer, before this pipeline existed. Archived by year as a growth trail.*
+All pieces now live under `articles/zh/` and `articles/en/`. Every year page is also ordered newest first.
 
 {YEAR_LIST}
 
@@ -291,30 +324,49 @@ All from the same practice of *doing things in public, with an engineering minds
 '''
 
 year_lines = []
-for y in sorted(legacy_by_year, reverse=True):
-    n = len(legacy_by_year[y])
-    year_lines.append(f'- 📂 **[{y} 年文章 · {y} Archive ({n} 篇)](archive/{y}.md)**')
+for y in sorted(by_year, reverse=True):
+    n = len(by_year[y])
+    year_lines.append(f'- 📂 **[{y} 年文章 · {y} Articles ({n} 篇)](archive/{y}.md)**')
 
 out = (README
        .replace('{DAILY_LIST}', '\n'.join(render_daily()))
        .replace('{NEWS_LIST}', '\n'.join(render_news()))
        .replace('{YEAR_LIST}', '\n'.join(year_lines))
-       .replace('{LEGACY_N}', str(len(legacy))))
+       .replace('{TOTAL_N}', str(len(zh))))
 
 open(os.path.join(BUILD, 'README.md'), 'w', encoding='utf-8').write(out)
 
 arch = os.path.join(BUILD, 'archive'); os.makedirs(arch, exist_ok=True)
-for y, items in legacy_by_year.items():
+for y, items in by_year.items():
     A = [f'# 📂 {y} 年文章存档 · {y} Archive', '',
          f'共 **{len(items)} 篇** · {len(items)} pieces · [← 返回主页 / Back to home](../README.md)',
          '', '---', '']
+    for d, ztf, etf in items:
+        parts = []
+        if ztf:
+            parts.append(f'[🇨🇳 {ztf[0]}](../{enc("zh", ztf[1])})')
+        if etf:
+            parts.append(f'[🇬🇧 {etf[0]}](../{enc("en", etf[1])})')
+        A.append(f'- {d} · ' + ' · '.join(parts))
+    A += ['', '---', '', '[← 返回主页 / Back to home](../README.md)']
+    open(os.path.join(arch, f'{y}.md'), 'w', encoding='utf-8').write('\n'.join(A) + '\n')
+
+def write_language_index(lang, items):
+    is_zh = lang == "zh"
+    title = "中文文章 · 由近到远" if is_zh else "English Articles · Newest First"
+    intro = "全部中文版按发布日期倒序排列。" if is_zh else "All English editions, ordered by publication date from newest to oldest."
+    lines = [f'# {title}', '', intro, '', '[← 返回主页 / Back to home](../../README.md)', '', '---', '']
     cur = None
     for d, t, f in items:
         ym = d[:7]
         if ym != cur:
-            A += ['', f'### {ym}', '']; cur = ym
-        A.append(f'- {d} · [{t or f}](../{enc("", f)})')
-    A += ['', '---', '', '[← 返回主页 / Back to home](../README.md)']
-    open(os.path.join(arch, f'{y}.md'), 'w', encoding='utf-8').write('\n'.join(A) + '\n')
+            cur = ym
+            lines += ['', f'## {ym}', '']
+        lines.append(f'- {d} · [{t}](./{urllib.parse.quote(f)})')
+    lines += ['', '---', '', '[← 返回主页 / Back to home](../../README.md)']
+    open(os.path.join(adir, lang, 'README.md'), 'w', encoding='utf-8').write('\n'.join(lines) + '\n')
 
-print(f'✓ README 已生成 · 每日 {len(pairs)} 篇 · 历史 {len(legacy)} 篇 · 年份 {sorted(legacy_by_year)}')
+write_language_index("zh", zh)
+write_language_index("en", en)
+
+print(f'✓ README 已生成 · 中文 {len(zh)} 篇 · 英文 {len(en)} 篇 · 年份 {sorted(by_year)}')

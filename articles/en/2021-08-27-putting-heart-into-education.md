@@ -1,0 +1,21 @@
+# Putting Heart into Education
+
+> Published: 2021-08-27 · [中文](../zh/2021-08-27-%E7%94%A8%E5%BF%83%E5%81%9A%E6%95%99%E8%82%B2.md) | [English](../en/2021-08-27-putting-heart-into-education.md)
+
+---
+
+A bubble is an inevitable prelude to a new industry's prosperity. It arises when a large number of entrepreneurs and capital rush into a certain industry direction, driven by a vague awareness of its potential. One of the driving forces behind this kind of prosperity is a widespread misunderstanding of the industry.
+
+If a company lacks reflection on the essence of its industry and merely uses the wind of a trend as its driving force, it is destined to join the mass extinction that follows the Cambrian Explosion of new species. Because after any bubble forms, it is followed by a great depression similar to the Cambrian mass extinction. Only those companies that continuously delve into the essence of an industry, or recognize the common flaws people take for granted, and uncover the inefficiencies at the core of the industry, offering solutions, can both benefit from the bubble and resist its regressive effects.
+
+When we talk about online education today, we are actually referring to remote teaching enabled by the internet. Teaching is merely a very basic stage in the process of education and learning. The main subject of education is not the teacher, but the learner, that is, the student.
+
+How to transform externally driven education into internally driven education, turning "I have to learn" into "I want to learn," is a problem education has faced since ancient times. Due to the difficulty of solving this problem, education has always been an industry of relatively low efficiency.
+
+As the futurist Alvin Toffler said, education is the largest industry in developed countries, and will gradually become the largest industry in developing countries as well. The amount of time a person spends on education in their lifetime, and the cost they pay for it, is astonishing. At the same time, education is the least efficient among all major industries.
+
+A clear example is language education. The time, effort, and money invested in language learning are immense. Yet it is well known that the effectiveness of language education is very low. Because of this, many online education institutions in China have focused on language education, which is the branch of the education industry with the lowest efficiency and the most obvious pain points.
+
+Today's online education is in its early stage of digital education. As online education develops further, it becomes cloud education, and as cloud education deepens, it becomes more advanced digital education. Its highest and most mature form is intelligent education. This is determined by the nature of education itself. The essence of digital education is not simply to transcend time and space and widely distribute knowledge products, but to provide a personalized, interactive, and community-based educational service. Therefore, it is more accurately described as a service economy than a product economy, and more accurately as an experience economy than a service economy. It transforms externally driven learning into internally driven learning through deeply personalized experiences. In this regard, online education is an effective and efficient way of education and learning, and it also has the characteristics of gamification.
+
+The number of online education companies in China is growing at an explosive rate. However, the exploration into how to make education more personalized, interactive, and community-oriented is still limited. Though Guowexue (Follow Who) has various limitations, it has made meaningful explorations in overcoming the issues of personalization, interactivity, and community in education, especially in online education. The efforts made by companies like Guowexue are still in the early stage of digital education. Although they started by supplementing the shortcomings of traditional enterprises, their real potential to win the future lies in leveraging continuously evolving cloud computing, data, and intelligent technologies to gradually overcome the long-standing problems in the education industry.
