@@ -9,6 +9,7 @@ All English editions, ordered by publication date from newest to oldest.
 
 ## 2026-09
 
+- 2026-09-03 · [AI Can Do the Work. It Cannot Carry the Consequences.](./2026-09-03-ai-cannot-carry-the-consequences.md)
 - 2026-09-02 · [Systems Learn Where Failure Is Cheap](./2026-09-02-systems-learn-where-failure-is-cheap.md)
 - 2026-09-01 · [When Compute Is Scarce, Clarity Is Leverage](./2026-09-01-when-compute-is-scarce-clarity-is-leverage.md)
 
