@@ -9,6 +9,7 @@ All English editions, ordered by publication date from newest to oldest.
 
 ## 2026-09
 
+- 2026-09-09 · [Before You Ask AI to Change Anything, Write Down What Must Not Change](./2026-09-09-write-what-must-not-change.md)
 - 2026-09-08 · [Why AI Forecasts Need Loops, Not Arrows](./2026-09-08-ai-forecasts-need-loops.md)
 - 2026-09-07 · [Scale No Longer Requires Sameness](./2026-09-07-scale-without-sameness.md)
 - 2026-09-06 · [The Unfinished Work Is the Moat](./2026-09-06-unfinished-work-is-the-moat.md)
