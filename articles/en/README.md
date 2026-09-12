@@ -9,6 +9,7 @@ All English editions, ordered by publication date from newest to oldest.
 
 ## 2026-09
 
+- 2026-09-12 · [AI Doesn't Fear Hard Problems. It Fears Expired Context.](./2026-09-12-ai-fears-expired-context.md)
 - 2026-09-11 · [AI Gave You an Answer. What Decision Did It Change?](./2026-09-11-ai-answer-decision-threshold.md)
 - 2026-09-10 · [Not Every AI Anxiety Can Be Solved by Learning More AI](./2026-09-10-ai-anxiety-needs-different-answers.md)
 - 2026-09-09 · [Before You Ask AI to Change Anything, Write Down What Must Not Change](./2026-09-09-write-what-must-not-change.md)
