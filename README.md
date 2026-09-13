@@ -6,7 +6,7 @@
 
 [![Last commit](https://img.shields.io/github/last-commit/shengdabai/Tony-Articles?style=flat-square&label=%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0%20last%20commit)](https://github.com/shengdabai/Tony-Articles/commits/main) [![Stars](https://img.shields.io/github/stars/shengdabai/Tony-Articles?style=social)](https://github.com/shengdabai/Tony-Articles/stargazers) [![Follow @shengdabai](https://img.shields.io/github/followers/shengdabai?style=social&label=Follow%20%40shengdabai)](https://github.com/shengdabai)
 
-[![每日更新 / Daily](https://img.shields.io/badge/更新-每日中午%2012%3A00-brightgreen?style=flat-square)](#-全部文章--all-articles) [![中英双语 / Bilingual](https://img.shields.io/badge/语言-中文%20%2F%20English-blue?style=flat-square)](#-中文阅读) [![知识花园 / Garden](https://img.shields.io/badge/Knowledge%20Garden-notes.zturnsgo.com-orange?style=flat-square)](https://notes.zturnsgo.com/) [![文章 / Articles](https://img.shields.io/badge/文章-561%20篇-lightgrey?style=flat-square)](#-全部文章--all-articles)
+[![每日更新 / Daily](https://img.shields.io/badge/更新-每日中午%2012%3A00-brightgreen?style=flat-square)](#-全部文章--all-articles) [![中英双语 / Bilingual](https://img.shields.io/badge/语言-中文%20%2F%20English-blue?style=flat-square)](#-中文阅读) [![知识花园 / Garden](https://img.shields.io/badge/Knowledge%20Garden-notes.zturnsgo.com-orange?style=flat-square)](https://notes.zturnsgo.com/) [![文章 / Articles](https://img.shields.io/badge/文章-562%20篇-lightgrey?style=flat-square)](#-全部文章--all-articles)
 
 **[🇨🇳 中文文章（由近到远）](articles/zh/README.md)** ｜ **[🇬🇧 English Articles (Newest First)](articles/en/README.md)** ｜ **[📚 全部双语文章](#-全部文章--all-articles)** ｜ **[🌐 知识花园 Garden](https://notes.zturnsgo.com/)**
 
@@ -19,6 +19,7 @@
 > 中文版与英文版均按发布日期由近到远排列。2021–2024 年旧文已补齐英文重写版。
 > Both language editions are ordered newest to oldest. The 2021–2024 archive now includes English re-creations.
 
+- **2026-09-13** — [🇨🇳 中文 · AI 会抬高平均分，也会吃掉长尾](articles/zh/2026-09-13-AI%20%E4%BC%9A%E6%8A%AC%E9%AB%98%E5%B9%B3%E5%9D%87%E5%88%86%EF%BC%8C%E4%B9%9F%E4%BC%9A%E5%90%83%E6%8E%89%E9%95%BF%E5%B0%BE.md)  ·  [🇬🇧 English · AI Raises the Average—and Eats the Tail](articles/en/2026-09-13-ai-raises-the-average-and-eats-the-tail.md)
 - **2026-09-12** — [🇨🇳 中文 · AI 不怕难题，它怕过期的上下文](articles/zh/2026-09-12-AI%20%E4%B8%8D%E6%80%95%E9%9A%BE%E9%A2%98%EF%BC%8C%E5%AE%83%E6%80%95%E8%BF%87%E6%9C%9F%E7%9A%84%E4%B8%8A%E4%B8%8B%E6%96%87.md)  ·  [🇬🇧 English · AI Doesn't Fear Hard Problems. It Fears Expired Context.](articles/en/2026-09-12-ai-fears-expired-context.md)
 - **2026-09-11** — [🇨🇳 中文 · AI 给了你答案，但它改变了哪个决定？](articles/zh/2026-09-11-AI%20%E7%BB%99%E4%BA%86%E4%BD%A0%E7%AD%94%E6%A1%88%EF%BC%8C%E4%BD%86%E5%AE%83%E6%94%B9%E5%8F%98%E4%BA%86%E5%93%AA%E4%B8%AA%E5%86%B3%E5%AE%9A.md)  ·  [🇬🇧 English · AI Gave You an Answer. What Decision Did It Change?](articles/en/2026-09-11-ai-answer-decision-threshold.md)
 - **2026-09-10** — [🇨🇳 中文 · 不是所有 AI 焦虑，都能靠多学 AI 解决](articles/zh/2026-09-10-%E4%B8%8D%E6%98%AF%E6%89%80%E6%9C%89%20AI%20%E7%84%A6%E8%99%91%EF%BC%8C%E9%83%BD%E8%83%BD%E9%9D%A0%E5%A4%9A%E5%AD%A6%20AI%20%E8%A7%A3%E5%86%B3.md)  ·  [🇬🇧 English · Not Every AI Anxiety Can Be Solved by Learning More AI](articles/en/2026-09-10-ai-anxiety-needs-different-answers.md)
@@ -668,7 +669,7 @@
 - 👀 点 **Watch → Custom → Releases**(我会定期发月度精选 Release)
 - 💬 在 [Issues](https://github.com/shengdabai/Tony-Articles/issues) 里告诉我你想看什么主题
 - 🌐 逛我的[**知识花园**](https://notes.zturnsgo.com/),看原始笔记
-- 📚 按时间翻阅[全部中文文章](articles/zh/README.md)，共 561 篇
+- 📚 按时间翻阅[全部中文文章](articles/zh/README.md)，共 562 篇
 
 ### 同系列仓库 · 一起逛逛
 
@@ -740,7 +741,7 @@ The whole pipeline runs automatically once a day at noon (China time), and pushe
 - 👀 Watch → Custom → **Releases** (monthly best-of as Releases)
 - 💬 [Open an Issue](https://github.com/shengdabai/Tony-Articles/issues) to suggest a topic
 - 🌐 Browse my [**Notes Garden**](https://notes.zturnsgo.com/) for the raw material
-- 📚 Browse [all English articles, newest first](articles/en/README.md) — 561 pieces
+- 📚 Browse [all English articles, newest first](articles/en/README.md) — 562 pieces
 
 ### Sibling repos · worth a look
 
@@ -758,7 +759,7 @@ All from the same practice of *doing things in public, with an engineering minds
 
 All pieces now live under `articles/zh/` and `articles/en/`. Every year page is also ordered newest first.
 
-- 📂 **[2026 年文章 · 2026 Articles (109 篇)](archive/2026.md)**
+- 📂 **[2026 年文章 · 2026 Articles (110 篇)](archive/2026.md)**
 - 📂 **[2024 年文章 · 2024 Articles (33 篇)](archive/2024.md)**
 - 📂 **[2023 年文章 · 2023 Articles (150 篇)](archive/2023.md)**
 - 📂 **[2022 年文章 · 2022 Articles (110 篇)](archive/2022.md)**
