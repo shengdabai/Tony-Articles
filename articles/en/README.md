@@ -9,6 +9,7 @@ All English editions, ordered by publication date from newest to oldest.
 
 ## 2026-09
 
+- 2026-09-14 · [AI Didn't Remove the Starting Line. It Moved the Line Before the Prompt.](./2026-09-14-the-starting-line-moved-before-the-prompt.md)
 - 2026-09-13 · [AI Raises the Average—and Eats the Tail](./2026-09-13-ai-raises-the-average-and-eats-the-tail.md)
 - 2026-09-12 · [AI Doesn't Fear Hard Problems. It Fears Expired Context.](./2026-09-12-ai-fears-expired-context.md)
 - 2026-09-11 · [AI Gave You an Answer. What Decision Did It Change?](./2026-09-11-ai-answer-decision-threshold.md)
