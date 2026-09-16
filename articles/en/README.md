@@ -9,6 +9,7 @@ All English editions, ordered by publication date from newest to oldest.
 
 ## 2026-09
 
+- 2026-09-16 · [When Judgment Outruns Skill](./2026-09-16-when-judgment-outruns-skill.md)
 - 2026-09-15 · [Don't Weld Today's Intelligence Into the System](./2026-09-15-dont-weld-todays-intelligence-into-the-system.md)
 - 2026-09-14 · [AI Didn't Remove the Starting Line. It Moved the Line Before the Prompt.](./2026-09-14-the-starting-line-moved-before-the-prompt.md)
 - 2026-09-13 · [AI Raises the Average—and Eats the Tail](./2026-09-13-ai-raises-the-average-and-eats-the-tail.md)
