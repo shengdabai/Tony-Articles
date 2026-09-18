@@ -199,6 +199,24 @@ All from the same practice of *doing things in public, with an engineering minds
 
 ---
 
+## 🗂️ 仓库目录结构说明 · Repository Structure
+
+```
+articles/
+├── zh/          # 新文章（2026-05 起） · New articles (from 2026-05), Chinese
+├── en/          # 新文章（2026-05 起） · New articles (from 2026-05), English
+└── *.md         # 旧公众号文章（2021-2024 平铺存放） · Legacy WeChat articles (2021-2024, flat)
+
+archive/         # 按年份索引旧文章 · Year-by-year index of legacy articles
+ai-news/         # AI 圈每日热点 · Daily AI news roundups
+```
+
+> 新旧文章共存于 `articles/`：2021–2024 的历史文章直接平铺在根目录，2026 年起新文章放入 `zh/` 和 `en/` 子目录。
+
+> Legacy and new articles share the `articles/` directory: 2021–2024 pieces are flat in the root, while 2026+ articles go into `zh/` and `en/` subdirectories.
+
+---
+
 ## 📚 往期公众号存档 · Legacy Archive (2021–2024)
 
 我在 2021-2024 年间断断续续写了 **452 篇** 公众号文章——那时候还没有这套工程化流水线,记录的是一个更年轻、更不修饰的我。它们按年份归档在这里,作为一段成长印记。

@@ -4,3 +4,8 @@
 ruvector.db
 *.db
 .tools/__pycache__/
+
+# Internal AI agent runtime state files
+*.rvf
+*.rvf.lock
+agentdb*
