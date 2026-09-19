@@ -9,6 +9,7 @@ All English editions, ordered by publication date from newest to oldest.
 
 ## 2026-09
 
+- 2026-09-19 · [Don't Predict the Event. Follow the Pressure.](./2026-09-19-follow-the-pressure.md)
 - 2026-09-18 · [Before You Break Down the Task, Separate the Layers](./2026-09-18-separate-the-layers.md)
 - 2026-09-17 · [AI Can Clean Messy Data. It Can't Decide What Counts.](./2026-09-17-ai-cant-decide-what-counts.md)
 - 2026-09-16 · [When Judgment Outruns Skill](./2026-09-16-when-judgment-outruns-skill.md)
