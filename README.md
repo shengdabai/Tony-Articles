@@ -6,7 +6,7 @@
 
 [![Last commit](https://img.shields.io/github/last-commit/shengdabai/Tony-Articles?style=flat-square&label=%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0%20last%20commit)](https://github.com/shengdabai/Tony-Articles/commits/main) [![Stars](https://img.shields.io/github/stars/shengdabai/Tony-Articles?style=social)](https://github.com/shengdabai/Tony-Articles/stargazers) [![Follow @shengdabai](https://img.shields.io/github/followers/shengdabai?style=social&label=Follow%20%40shengdabai)](https://github.com/shengdabai)
 
-[![每日更新 / Daily](https://img.shields.io/badge/更新-每日中午%2012%3A00-brightgreen?style=flat-square)](#-全部文章--all-articles) [![中英双语 / Bilingual](https://img.shields.io/badge/语言-中文%20%2F%20English-blue?style=flat-square)](#-中文阅读) [![知识花园 / Garden](https://img.shields.io/badge/Knowledge%20Garden-notes.zturnsgo.com-orange?style=flat-square)](https://notes.zturnsgo.com/) [![文章 / Articles](https://img.shields.io/badge/文章-568%20篇-lightgrey?style=flat-square)](#-全部文章--all-articles)
+[![每日更新 / Daily](https://img.shields.io/badge/更新-每日中午%2012%3A00-brightgreen?style=flat-square)](#-全部文章--all-articles) [![中英双语 / Bilingual](https://img.shields.io/badge/语言-中文%20%2F%20English-blue?style=flat-square)](#-中文阅读) [![知识花园 / Garden](https://img.shields.io/badge/Knowledge%20Garden-notes.zturnsgo.com-orange?style=flat-square)](https://notes.zturnsgo.com/) [![文章 / Articles](https://img.shields.io/badge/文章-569%20篇-lightgrey?style=flat-square)](#-全部文章--all-articles)
 
 **[🇨🇳 中文文章（由近到远）](articles/zh/README.md)** ｜ **[🇬🇧 English Articles (Newest First)](articles/en/README.md)** ｜ **[📚 全部双语文章](#-全部文章--all-articles)** ｜ **[🌐 知识花园 Garden](https://notes.zturnsgo.com/)**
 
@@ -19,6 +19,7 @@
 > 中文版与英文版均按发布日期由近到远排列。2021–2024 年旧文已补齐英文重写版。
 > Both language editions are ordered newest to oldest. The 2021–2024 archive now includes English re-creations.
 
+- **2026-09-20** — [🇨🇳 中文 · 真正难的不是输得起，而是赢了以后还敢继续](articles/zh/2026-09-20-%E7%9C%9F%E6%AD%A3%E9%9A%BE%E7%9A%84%E4%B8%8D%E6%98%AF%E8%BE%93%E5%BE%97%E8%B5%B7%EF%BC%8C%E8%80%8C%E6%98%AF%E8%B5%A2%E4%BA%86%E4%BB%A5%E5%90%8E%E8%BF%98%E6%95%A2%E7%BB%A7%E7%BB%AD.md)  ·  [🇬🇧 English · The Hard Part Is Continuing After You Win](articles/en/2026-09-20-continuing-after-you-win.md)
 - **2026-09-19** — [🇨🇳 中文 · 别预测未来会发生什么，先看什么正在逼它发生](articles/zh/2026-09-19-%E5%88%AB%E9%A2%84%E6%B5%8B%E6%9C%AA%E6%9D%A5%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88%EF%BC%8C%E5%85%88%E7%9C%8B%E4%BB%80%E4%B9%88%E6%AD%A3%E5%9C%A8%E9%80%BC%E5%AE%83%E5%8F%91%E7%94%9F.md)  ·  [🇬🇧 English · Don't Predict the Event. Follow the Pressure.](articles/en/2026-09-19-follow-the-pressure.md)
 - **2026-09-18** — [🇨🇳 中文 · 复杂问题，先别急着拆任务，先拆层](articles/zh/2026-09-18-%E5%A4%8D%E6%9D%82%E9%97%AE%E9%A2%98%EF%BC%8C%E5%85%88%E5%88%AB%E6%80%A5%E7%9D%80%E6%8B%86%E4%BB%BB%E5%8A%A1%EF%BC%8C%E5%85%88%E6%8B%86%E5%B1%82.md)  ·  [🇬🇧 English · Before You Break Down the Task, Separate the Layers](articles/en/2026-09-18-separate-the-layers.md)
 - **2026-09-17** — [🇨🇳 中文 · AI 能整理脏数据，却不能替你决定什么算数](articles/zh/2026-09-17-AI%20%E8%83%BD%E6%95%B4%E7%90%86%E8%84%8F%E6%95%B0%E6%8D%AE%EF%BC%8C%E5%8D%B4%E4%B8%8D%E8%83%BD%E6%9B%BF%E4%BD%A0%E5%86%B3%E5%AE%9A%E4%BB%80%E4%B9%88%E7%AE%97%E6%95%B0.md)  ·  [🇬🇧 English · AI Can Clean Messy Data. It Can't Decide What Counts.](articles/en/2026-09-17-ai-cant-decide-what-counts.md)
@@ -675,7 +676,7 @@
 - 👀 点 **Watch → Custom → Releases**(我会定期发月度精选 Release)
 - 💬 在 [Issues](https://github.com/shengdabai/Tony-Articles/issues) 里告诉我你想看什么主题
 - 🌐 逛我的[**知识花园**](https://notes.zturnsgo.com/),看原始笔记
-- 📚 按时间翻阅[全部中文文章](articles/zh/README.md)，共 568 篇
+- 📚 按时间翻阅[全部中文文章](articles/zh/README.md)，共 569 篇
 
 ### 同系列仓库 · 一起逛逛
 
@@ -747,7 +748,7 @@ The whole pipeline runs automatically once a day at noon (China time), and pushe
 - 👀 Watch → Custom → **Releases** (monthly best-of as Releases)
 - 💬 [Open an Issue](https://github.com/shengdabai/Tony-Articles/issues) to suggest a topic
 - 🌐 Browse my [**Notes Garden**](https://notes.zturnsgo.com/) for the raw material
-- 📚 Browse [all English articles, newest first](articles/en/README.md) — 568 pieces
+- 📚 Browse [all English articles, newest first](articles/en/README.md) — 569 pieces
 
 ### Sibling repos · worth a look
 
@@ -765,7 +766,7 @@ All from the same practice of *doing things in public, with an engineering minds
 
 All pieces now live under `articles/zh/` and `articles/en/`. Every year page is also ordered newest first.
 
-- 📂 **[2026 年文章 · 2026 Articles (116 篇)](archive/2026.md)**
+- 📂 **[2026 年文章 · 2026 Articles (117 篇)](archive/2026.md)**
 - 📂 **[2024 年文章 · 2024 Articles (33 篇)](archive/2024.md)**
 - 📂 **[2023 年文章 · 2023 Articles (150 篇)](archive/2023.md)**
 - 📂 **[2022 年文章 · 2022 Articles (110 篇)](archive/2022.md)**
