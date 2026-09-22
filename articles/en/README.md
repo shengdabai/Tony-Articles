@@ -9,6 +9,7 @@ All English editions, ordered by publication date from newest to oldest.
 
 ## 2026-09
 
+- 2026-09-22 · [The Proof You Use AI Is What You Stop Doing](./2026-09-22-what-you-stop-doing.md)
 - 2026-09-21 · [The People Least Afraid of AI Want Their Roles to Disappear](./2026-09-21-the-role-was-never-the-goal.md)
 - 2026-09-20 · [The Hard Part Is Continuing After You Win](./2026-09-20-continuing-after-you-win.md)
 - 2026-09-19 · [Don't Predict the Event. Follow the Pressure.](./2026-09-19-follow-the-pressure.md)
