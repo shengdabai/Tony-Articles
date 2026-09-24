@@ -599,6 +599,7 @@
 > 每天中午 12:00 自动整理过去 24 小时 AI 圈最值得关心的 6-8 条精选,面向 AI 工具、Agent、独立开发和自我进化系统,中英双语。
 > Curated daily at 12:00 — the 6-8 most signal-rich items from the past 24 hours of AI, with a focus on AI tooling, agents, independent builders, and self-evolving systems.
 
+- **2026-09-24** — [🇨🇳 中文 · AI 热点日报：模型评测、云端编程与智能体边界](ai-news/zh/2026-09-24-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest: Coding Models, Cloud Sessions, and Agent Boundaries](ai-news/en/2026-09-24-ai-news-daily.md)
 - **2026-09-23** — [🇨🇳 中文 · AI 热点日报：模型降价与智能体安全](ai-news/zh/2026-09-23-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest: Lower Model Prices and Agent Safety](ai-news/en/2026-09-23-ai-news-daily.md)
 - **2026-09-22** — [🇨🇳 中文 · AI 热点日报：开放模型、智能体执行与安全边界](ai-news/zh/2026-09-22-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest: Open Models, Agent Execution, and Safety Boundaries](ai-news/en/2026-09-22-ai-news-daily.md)
 - **2026-09-21** — [🇨🇳 中文 · AI 热点日报：图像模型竞速，安全与隐私风险升温](ai-news/zh/2026-09-21-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest: Image Models Accelerate as Security and Privacy Risks Grow](ai-news/en/2026-09-21-ai-news-daily.md)
@@ -612,7 +613,6 @@
 - **2026-09-13** — [🇨🇳 中文 · AI 圈过去 24 小时 · 2026-09-13](ai-news/zh/2026-09-13-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI Daily · 2026-09-13](ai-news/en/2026-09-13-ai-news-daily.md)
 - **2026-09-12** — [🇨🇳 中文 · AI 圈过去 24 小时 · 2026-09-12](ai-news/zh/2026-09-12-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI Daily · 2026-09-12](ai-news/en/2026-09-12-ai-news-daily.md)
 - **2026-09-11** — [🇨🇳 中文 · AI 圈过去 24 小时 · 2026-09-11](ai-news/zh/2026-09-11-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI Daily · 2026-09-11](ai-news/en/2026-09-11-ai-news-daily.md)
-- **2026-09-10** — [🇨🇳 中文 · AI 圈过去 24 小时 · 2026-09-10](ai-news/zh/2026-09-10-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI Daily · 2026-09-10](ai-news/en/2026-09-10-ai-news-daily.md)
 
 ---
 
