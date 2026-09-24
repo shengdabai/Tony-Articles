@@ -9,6 +9,7 @@ All English editions, ordered by publication date from newest to oldest.
 
 ## 2026-09
 
+- 2026-09-24 · [Building from Scratch Won't Make It Yours](./2026-09-24-building-from-scratch-wont-make-it-yours.md)
 - 2026-09-23 · [The Three Scorecards of a Finished Piece of Work](./2026-09-23-three-scorecards-for-a-finished-work.md)
 - 2026-09-22 · [The Proof You Use AI Is What You Stop Doing](./2026-09-22-what-you-stop-doing.md)
 - 2026-09-21 · [The People Least Afraid of AI Want Their Roles to Disappear](./2026-09-21-the-role-was-never-the-goal.md)
