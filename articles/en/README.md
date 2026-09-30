@@ -9,6 +9,7 @@ All English editions, ordered by publication date from newest to oldest.
 
 ## 2026-09
 
+- 2026-09-30 · [When Should AI Interrupt You?](./2026-09-30-when-should-ai-interrupt-you.md)
 - 2026-09-29 · [A Trial Should Show What Happens Next](./2026-09-29-a-trial-should-show-what-happens-next.md)
 - 2026-09-28 · [Learn a Method by Finding Where It Fails](./2026-09-28-find-where-a-method-fails.md)
 - 2026-09-27 · [Before You Share a Method, Find Its Hidden Helpers](./2026-09-27-hidden-helpers-in-a-method.md)
