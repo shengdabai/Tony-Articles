@@ -7,6 +7,10 @@ All English editions, ordered by publication date from newest to oldest.
 ---
 
 
+## 2026-10
+
+- 2026-10-01 · [AI Can Narrow Delivery Gaps in Some Tasks Without Ensuring Learning](./2026-10-01-ai-delivery-gap-learning-gap.md)
+
 ## 2026-09
 
 - 2026-09-30 · [When Should AI Interrupt You?](./2026-09-30-when-should-ai-interrupt-you.md)
