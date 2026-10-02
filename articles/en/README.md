@@ -9,6 +9,7 @@ All English editions, ordered by publication date from newest to oldest.
 
 ## 2026-10
 
+- 2026-10-02 · [A Feature Request May Name a Stuck Moment](./2026-10-02-a-feature-request-names-a-stuck-moment.md)
 - 2026-10-01 · [AI Can Narrow Delivery Gaps in Some Tasks Without Ensuring Learning](./2026-10-01-ai-delivery-gap-learning-gap.md)
 
 ## 2026-09
