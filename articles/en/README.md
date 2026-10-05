@@ -9,6 +9,7 @@ All English editions, ordered by publication date from newest to oldest.
 
 ## 2026-10
 
+- 2026-10-05 · [Care Should Survive an Absence](./2026-10-05-care-should-survive-an-absence.md)
 - 2026-10-04 · [What Your First Paying Customer Can Teach You](./2026-10-04-what-first-customer-teaches.md)
 - 2026-10-03 · [The Mistake Should Choose the Explanation](./2026-10-03-the-mistake-should-choose-the-explanation.md)
 - 2026-10-02 · [A Feature Request May Name a Stuck Moment](./2026-10-02-a-feature-request-names-a-stuck-moment.md)
