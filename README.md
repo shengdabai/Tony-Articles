@@ -612,6 +612,7 @@
 > 每天中午 12:00 自动整理过去 24 小时 AI 圈最值得关心的 6-8 条精选,面向 AI 工具、Agent、独立开发和自我进化系统,中英双语。
 > Curated daily at 12:00 — the 6-8 most signal-rich items from the past 24 hours of AI, with a focus on AI tooling, agents, independent builders, and self-evolving systems.
 
+- **2026-10-07** — [🇨🇳 中文 · AI 热点日报：数学研究、智能体开发与证据边界](ai-news/zh/2026-10-07-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest: Mathematical Proofs, Agent Development, and Evidence](ai-news/en/2026-10-07-ai-news-daily.md)
 - **2026-10-06** — [🇨🇳 中文 · AI 热点日报：智能体运行、文本溯源与平台责任](ai-news/zh/2026-10-06-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest: Agent Infrastructure, Text Provenance, and Platform Responsibility](ai-news/en/2026-10-06-ai-news-daily.md)
 - **2026-10-05** — [🇨🇳 中文 · AI 热点日报｜2026-10-05](ai-news/zh/2026-10-05-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest | October 5, 2026](ai-news/en/2026-10-05-ai-news-daily.md)
 - **2026-10-04** — [🇨🇳 中文 · AI 热点日报｜智能体评测、模型发布与运行边界](ai-news/zh/2026-10-04-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest | Agent Evaluation, Model Releases, and Operational Limits](ai-news/en/2026-10-04-ai-news-daily.md)
@@ -625,7 +626,6 @@
 - **2026-09-26** — [🇨🇳 中文 · AI 热点日报：智能体数据安全、插件生态与科研应用](ai-news/zh/2026-09-26-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest: Agent Data Risks, Plugins, and Research](ai-news/en/2026-09-26-ai-news-daily.md)
 - **2026-09-25** — [🇨🇳 中文 · AI 热点日报：编码、安全与内容生产](ai-news/zh/2026-09-25-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest: Coding, Security, and Content Production](ai-news/en/2026-09-25-ai-news-daily.md)
 - **2026-09-24** — [🇨🇳 中文 · AI 热点日报：模型评测、云端编程与智能体边界](ai-news/zh/2026-09-24-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest: Coding Models, Cloud Sessions, and Agent Boundaries](ai-news/en/2026-09-24-ai-news-daily.md)
-- **2026-09-23** — [🇨🇳 中文 · AI 热点日报：模型降价与智能体安全](ai-news/zh/2026-09-23-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest: Lower Model Prices and Agent Safety](ai-news/en/2026-09-23-ai-news-daily.md)
 
 ---
 
