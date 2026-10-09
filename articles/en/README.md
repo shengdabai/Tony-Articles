@@ -9,6 +9,7 @@ All English editions, ordered by publication date from newest to oldest.
 
 ## 2026-10
 
+- 2026-10-09 · [A Tutorial's Real Test Begins with New Material](./2026-10-09-the-test-begins-with-new-material.md)
 - 2026-10-08 · [Give Your Personal Tool a Graduation Date](./2026-10-08-give-your-tool-a-graduation-date.md)
 - 2026-10-07 · [Don't Let the Outcome Rewrite Your Decision](./2026-10-07-dont-let-outcomes-rewrite-decisions.md)
 - 2026-10-06 · [Find the Second Change](./2026-10-06-find-the-second-change.md)
