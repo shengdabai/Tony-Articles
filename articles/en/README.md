@@ -9,6 +9,7 @@ All English editions, ordered by publication date from newest to oldest.
 
 ## 2026-10
 
+- 2026-10-12 · [Can Easy Money Teach Real Skill?](./2026-10-12-can-easy-money-teach-real-skill.md)
 - 2026-10-11 · [Give Learning a Main Route and a Bonus Round](./2026-10-11-learning-main-route-bonus-round.md)
 - 2026-10-10 · [Fluent Words Can Hide Unfinished Thoughts](./2026-10-10-fluent-words-can-hide-unfinished-thoughts.md)
 - 2026-10-09 · [A Tutorial's Real Test Begins with New Material](./2026-10-09-the-test-begins-with-new-material.md)
