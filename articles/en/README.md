@@ -9,6 +9,7 @@ All English editions, ordered by publication date from newest to oldest.
 
 ## 2026-10
 
+- 2026-10-14 · [Reviewing AI’s Work Won’t Build Your Judgment by Itself](./2026-10-14-reviewing-ai-wont-build-judgment.md)
 - 2026-10-13 · [When You Buy AI, Who Does the Remaining Work?](./2026-10-13-who-does-the-work-after-you-buy-ai.md)
 - 2026-10-12 · [Can Easy Money Teach Real Skill?](./2026-10-12-can-easy-money-teach-real-skill.md)
 - 2026-10-11 · [Give Learning a Main Route and a Bonus Round](./2026-10-11-learning-main-route-bonus-round.md)
