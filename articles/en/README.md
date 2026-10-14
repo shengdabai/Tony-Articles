@@ -9,6 +9,7 @@ All English editions, ordered by publication date from newest to oldest.
 
 ## 2026-10
 
+- 2026-10-16 · [Who Will Train the Next Skilled Worker?](./2026-10-16-who-will-train-the-next-skilled-worker.md)
 - 2026-10-15 · [A Presale Is a Promise with Boundaries](./2026-10-15-a-presale-is-a-promise-with-boundaries.md)
 - 2026-10-14 · [Reviewing AI’s Work Won’t Build Your Judgment by Itself](./2026-10-14-reviewing-ai-wont-build-judgment.md)
 - 2026-10-13 · [When You Buy AI, Who Does the Remaining Work?](./2026-10-13-who-does-the-work-after-you-buy-ai.md)
