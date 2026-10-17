@@ -622,8 +622,9 @@
 > 每天中午 12:00 自动整理过去 24 小时 AI 圈最值得关心的 6-8 条精选,面向 AI 工具、Agent、独立开发和自我进化系统,中英双语。
 > Curated daily at 12:00 — the 6-8 most signal-rich items from the past 24 hours of AI, with a focus on AI tooling, agents, independent builders, and self-evolving systems.
 
-- **2026-10-16** — [🇨🇳 中文 · AI 热点提前版：产品成本与工作流](ai-news/zh/2026-10-16-AI%E7%83%AD%E7%82%B9%E6%8F%90%E5%89%8D%E7%89%88.md)  ·  [🇬🇧 English · AI Advance Digest: Product Costs and Workflows](ai-news/en/2026-10-16-ai-news-advance.md)
-- **2026-10-15** — [🇨🇳 中文 · AI 热点提前版：模型与工具验证](ai-news/zh/2026-10-15-AI%E7%83%AD%E7%82%B9%E6%8F%90%E5%89%8D%E7%89%88.md)  ·  [🇬🇧 English · AI Advance Digest: Models and Tool Validation](ai-news/en/2026-10-15-ai-news-advance.md)
+- **2026-10-17** — [🇨🇳 中文 · AI 热点日报：浏览器助手、智能体安全与技术出口](ai-news/zh/2026-10-17-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest: Browser Agents, Security Boundaries, and Technology Exports](ai-news/en/2026-10-17-ai-news-daily.md)
+- **2026-10-16** — [🇨🇳 中文 · AI热点修订提前版：智能体诊断、支付与执行边界](ai-news/zh/2026-10-16-AI%E7%83%AD%E7%82%B9%E6%8F%90%E5%89%8D%E7%89%88.md)  ·  [🇬🇧 English · Revised advance AI briefing: Agent diagnostics, payments and execution boundaries](ai-news/en/2026-10-16-ai-news-advance.md)
+- **2026-10-15** — [🇨🇳 中文 · AI热点修订提前版：端侧模型与开发基础设施](ai-news/zh/2026-10-15-AI%E7%83%AD%E7%82%B9%E6%8F%90%E5%89%8D%E7%89%88.md)  ·  [🇬🇧 English · Revised advance AI briefing: On-device models and developer infrastructure](ai-news/en/2026-10-15-ai-news-advance.md)
 - **2026-10-14** — [🇨🇳 中文 · AI 热点日报：模型开放、软件安全与产品落地](ai-news/zh/2026-10-14-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest: Models, Security, and Practical Tools](ai-news/en/2026-10-14-ai-news-daily.md)
 - **2026-10-13** — [🇨🇳 中文 · AI 热点日报：模型、智能体与基础设施](ai-news/zh/2026-10-13-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest: Models, Agents, and Infrastructure](ai-news/en/2026-10-13-ai-news-daily.md)
 - **2026-10-12** — [🇨🇳 中文 · AI 热点日报：更长上下文、研究智能体与内容审核压力](ai-news/zh/2026-10-12-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest: Longer Context, Agent Research, and the Cost of Review](ai-news/en/2026-10-12-ai-news-daily.md)
@@ -635,7 +636,6 @@
 - **2026-10-06** — [🇨🇳 中文 · AI 热点日报：智能体运行、文本溯源与平台责任](ai-news/zh/2026-10-06-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest: Agent Infrastructure, Text Provenance, and Platform Responsibility](ai-news/en/2026-10-06-ai-news-daily.md)
 - **2026-10-05** — [🇨🇳 中文 · AI 热点日报｜2026-10-05](ai-news/zh/2026-10-05-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest | October 5, 2026](ai-news/en/2026-10-05-ai-news-daily.md)
 - **2026-10-04** — [🇨🇳 中文 · AI 热点日报｜智能体评测、模型发布与运行边界](ai-news/zh/2026-10-04-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest | Agent Evaluation, Model Releases, and Operational Limits](ai-news/en/2026-10-04-ai-news-daily.md)
-- **2026-10-03** — [🇨🇳 中文 · AI 热点日报：2026 年 10 月 3 日](ai-news/zh/2026-10-03-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest: October 3, 2026](ai-news/en/2026-10-03-ai-news-daily.md)
 
 ---
 
