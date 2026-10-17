@@ -9,6 +9,7 @@ All English editions, ordered by publication date from newest to oldest.
 
 ## 2026-10
 
+- 2026-10-17 · [Choose Your Stopping Line While Things Are Calm](./2026-10-17-choose-your-stopping-line.md)
 - 2026-10-16 · [Who Will Train the Next Skilled Worker?](./2026-10-16-who-will-train-the-next-skilled-worker.md)
 - 2026-10-15 · [A Presale Is a Promise with Boundaries](./2026-10-15-a-presale-is-a-promise-with-boundaries.md)
 - 2026-10-14 · [Reviewing AI’s Work Won’t Build Your Judgment by Itself](./2026-10-14-reviewing-ai-wont-build-judgment.md)
