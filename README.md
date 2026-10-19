@@ -6,7 +6,7 @@
 
 [![Last commit](https://img.shields.io/github/last-commit/shengdabai/Tony-Articles?style=flat-square&label=%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0%20last%20commit)](https://github.com/shengdabai/Tony-Articles/commits/main) [![Stars](https://img.shields.io/github/stars/shengdabai/Tony-Articles?style=social)](https://github.com/shengdabai/Tony-Articles/stargazers) [![Follow @shengdabai](https://img.shields.io/github/followers/shengdabai?style=social&label=Follow%20%40shengdabai)](https://github.com/shengdabai)
 
-[![每日更新 / Daily](https://img.shields.io/badge/更新-每日中午%2012%3A00-brightgreen?style=flat-square)](#-全部文章--all-articles) [![中英双语 / Bilingual](https://img.shields.io/badge/语言-中文%20%2F%20English-blue?style=flat-square)](#-中文阅读) [![知识花园 / Garden](https://img.shields.io/badge/Knowledge%20Garden-notes.zturnsgo.com-orange?style=flat-square)](https://notes.zturnsgo.com/) [![文章 / Articles](https://img.shields.io/badge/文章-597%20篇-lightgrey?style=flat-square)](#-全部文章--all-articles)
+[![每日更新 / Daily](https://img.shields.io/badge/更新-每日中午%2012%3A00-brightgreen?style=flat-square)](#-全部文章--all-articles) [![中英双语 / Bilingual](https://img.shields.io/badge/语言-中文%20%2F%20English-blue?style=flat-square)](#-中文阅读) [![知识花园 / Garden](https://img.shields.io/badge/Knowledge%20Garden-notes.zturnsgo.com-orange?style=flat-square)](https://notes.zturnsgo.com/) [![文章 / Articles](https://img.shields.io/badge/文章-598%20篇-lightgrey?style=flat-square)](#-全部文章--all-articles)
 
 **[🇨🇳 中文文章（由近到远）](articles/zh/README.md)** ｜ **[🇬🇧 English Articles (Newest First)](articles/en/README.md)** ｜ **[📚 全部双语文章](#-全部文章--all-articles)** ｜ **[🌐 知识花园 Garden](https://notes.zturnsgo.com/)**
 
@@ -19,6 +19,7 @@
 > 中文版与英文版均按发布日期由近到远排列。2021–2024 年旧文已补齐英文重写版。
 > Both language editions are ordered newest to oldest. The 2021–2024 archive now includes English re-creations.
 
+- **2026-10-19** — [🇨🇳 中文 · 回答得太早，也会误事](articles/zh/2026-10-19-%E5%9B%9E%E7%AD%94%E5%BE%97%E5%A4%AA%E6%97%A9%EF%BC%8C%E4%B9%9F%E4%BC%9A%E8%AF%AF%E4%BA%8B.md)  ·  [🇬🇧 English · Answering Too Early Can Mislead](articles/en/2026-10-19-answering-too-early-can-mislead.md)
 - **2026-10-18** — [🇨🇳 中文 · 省事也要会挑活](articles/zh/2026-10-18-%E7%9C%81%E4%BA%8B%E4%B9%9F%E8%A6%81%E4%BC%9A%E6%8C%91%E6%B4%BB.md)  ·  [🇬🇧 English · Choose Which Work to Save](articles/en/2026-10-18-choose-which-work-to-save.md)
 - **2026-10-17** — [🇨🇳 中文 · 顺利时先定停手线](articles/zh/2026-10-17-%E9%A1%BA%E5%88%A9%E6%97%B6%E5%85%88%E5%AE%9A%E5%81%9C%E6%89%8B%E7%BA%BF.md)  ·  [🇬🇧 English · Choose Your Stopping Line While Things Are Calm](articles/en/2026-10-17-choose-your-stopping-line.md)
 - **2026-10-16** — [🇨🇳 中文 · 谁来培养下一位熟手？](articles/zh/2026-10-16-%E8%B0%81%E6%9D%A5%E5%9F%B9%E5%85%BB%E4%B8%8B%E4%B8%80%E4%BD%8D%E7%86%9F%E6%89%8B.md)  ·  [🇬🇧 English · Who Will Train the Next Skilled Worker?](articles/en/2026-10-16-who-will-train-the-next-skilled-worker.md)
@@ -704,7 +705,7 @@
 - 👀 点 **Watch → Custom → Releases**(我会定期发月度精选 Release)
 - 💬 在 [Issues](https://github.com/shengdabai/Tony-Articles/issues) 里告诉我你想看什么主题
 - 🌐 逛我的[**知识花园**](https://notes.zturnsgo.com/),看原始笔记
-- 📚 按时间翻阅[全部中文文章](articles/zh/README.md)，共 597 篇
+- 📚 按时间翻阅[全部中文文章](articles/zh/README.md)，共 598 篇
 
 ### 同系列仓库 · 一起逛逛
 
@@ -776,7 +777,7 @@ The whole pipeline runs automatically once a day at noon (China time), and pushe
 - 👀 Watch → Custom → **Releases** (monthly best-of as Releases)
 - 💬 [Open an Issue](https://github.com/shengdabai/Tony-Articles/issues) to suggest a topic
 - 🌐 Browse my [**Notes Garden**](https://notes.zturnsgo.com/) for the raw material
-- 📚 Browse [all English articles, newest first](articles/en/README.md) — 597 pieces
+- 📚 Browse [all English articles, newest first](articles/en/README.md) — 598 pieces
 
 ### Sibling repos · worth a look
 
@@ -794,7 +795,7 @@ All from the same practice of *doing things in public, with an engineering minds
 
 All pieces now live under `articles/zh/` and `articles/en/`. Every year page is also ordered newest first.
 
-- 📂 **[2026 年文章 · 2026 Articles (145 篇)](archive/2026.md)**
+- 📂 **[2026 年文章 · 2026 Articles (146 篇)](archive/2026.md)**
 - 📂 **[2024 年文章 · 2024 Articles (33 篇)](archive/2024.md)**
 - 📂 **[2023 年文章 · 2023 Articles (150 篇)](archive/2023.md)**
 - 📂 **[2022 年文章 · 2022 Articles (110 篇)](archive/2022.md)**
