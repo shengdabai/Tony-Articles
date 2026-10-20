@@ -9,6 +9,7 @@ All English editions, ordered by publication date from newest to oldest.
 
 ## 2026-10
 
+- 2026-10-20 · [An Impossible Goal Is a Probe](./2026-10-20-an-impossible-goal-is-a-probe.md)
 - 2026-10-19 · [Answering Too Early Can Mislead](./2026-10-19-answering-too-early-can-mislead.md)
 - 2026-10-18 · [Choose Which Work to Save](./2026-10-18-choose-which-work-to-save.md)
 - 2026-10-17 · [Choose Your Stopping Line While Things Are Calm](./2026-10-17-choose-your-stopping-line.md)
