@@ -626,6 +626,7 @@
 > 每天中午 12:00 自动整理过去 24 小时 AI 圈最值得关心的 6-8 条精选,面向 AI 工具、Agent、独立开发和自我进化系统,中英双语。
 > Curated daily at 12:00 — the 6-8 most signal-rich items from the past 24 hours of AI, with a focus on AI tooling, agents, independent builders, and self-evolving systems.
 
+- **2026-10-21** — [🇨🇳 中文 · AI 热点日报｜推理基础设施与本地智能体](ai-news/zh/2026-10-21-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest | Inference Infrastructure and Local Agents](ai-news/en/2026-10-21-ai-news-daily.md)
 - **2026-10-20** — [🇨🇳 中文 · AI 热点日报：模型能力、智能体架构与部署边界](ai-news/zh/2026-10-20-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest: Models, Agent Design, and Deployment Boundaries](ai-news/en/2026-10-20-ai-news-daily.md)
 - **2026-10-19** — [🇨🇳 中文 · AI 热点日报｜模型、产品与智能体评估](ai-news/zh/2026-10-19-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest | Models, Products, and Agent Evaluation](ai-news/en/2026-10-19-ai-news-daily.md)
 - **2026-10-18** — [🇨🇳 中文 · AI 热点日报：模型更新、智能体边界与本地算力](ai-news/zh/2026-10-18-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI Daily Digest: Model Updates, Agent Access, and Local Compute](ai-news/en/2026-10-18-ai-news-daily.md)
@@ -639,7 +640,6 @@
 - **2026-10-10** — [🇨🇳 中文 · AI 热点日报｜智能体安全、研发评测与行业动态](ai-news/zh/2026-10-10-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest | Agent Safety, Research Tests, and Industry Moves](ai-news/en/2026-10-10-ai-news-daily.md)
 - **2026-10-09** — [🇨🇳 中文 · AI 热点日报｜智能体评测、支付与安全](ai-news/zh/2026-10-09-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest | Agent Evaluation, Payments, and Security](ai-news/en/2026-10-09-ai-news-daily.md)
 - **2026-10-08** — [🇨🇳 中文 · AI 热点日报：2026 年 10 月 8 日](ai-news/zh/2026-10-08-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest: October 8, 2026](ai-news/en/2026-10-08-ai-news-daily.md)
-- **2026-10-07** — [🇨🇳 中文 · AI 热点日报：数学研究、智能体开发与证据边界](ai-news/zh/2026-10-07-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest: Mathematical Proofs, Agent Development, and Evidence](ai-news/en/2026-10-07-ai-news-daily.md)
 
 ---
 
