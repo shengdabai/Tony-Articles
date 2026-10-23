@@ -9,6 +9,7 @@ All English editions, ordered by publication date from newest to oldest.
 
 ## 2026-10
 
+- 2026-10-23 · [Keep the Reason for the Handoff](./2026-10-23-keep-the-reason-for-the-handoff.md)
 - 2026-10-22 · [The Model Changed. The Mistake Stayed.](./2026-10-22-the-model-changed-the-mistake-stayed.md)
 - 2026-10-21 · [Cheap Answers Can Be Expensive to Check](./2026-10-21-price-of-checking-ai-answers.md)
 - 2026-10-20 · [An Impossible Goal Is a Probe](./2026-10-20-an-impossible-goal-is-a-probe.md)
