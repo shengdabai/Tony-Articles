@@ -9,6 +9,7 @@ All English editions, ordered by publication date from newest to oldest.
 
 ## 2026-10
 
+- 2026-10-25 · [A Fun Lesson Should Leave a Problem](./2026-10-25-a-fun-lesson-should-leave-a-problem.md)
 - 2026-10-24 · [Build Yourself an Apprenticeship That Doesn't Grade Itself](./2026-10-24-build-yourself-an-apprenticeship-that-doesnt-grade-itself.md)
 - 2026-10-23 · [Keep the Reason for the Handoff](./2026-10-23-keep-the-reason-for-the-handoff.md)
 - 2026-10-22 · [The Model Changed. The Mistake Stayed.](./2026-10-22-the-model-changed-the-mistake-stayed.md)
