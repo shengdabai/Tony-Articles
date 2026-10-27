@@ -9,6 +9,7 @@ All English editions, ordered by publication date from newest to oldest.
 
 ## 2026-10
 
+- 2026-10-27 · [The More You Use It, the Less You Resemble a New User](./2026-10-27-the-more-you-use-it.md)
 - 2026-10-26 · [The Demand That Never Got a Quote](./2026-10-26-the-demand-that-never-got-a-quote.md)
 - 2026-10-25 · [A Fun Lesson Should Leave a Problem](./2026-10-25-a-fun-lesson-should-leave-a-problem.md)
 - 2026-10-24 · [Build Yourself an Apprenticeship That Doesn't Grade Itself](./2026-10-24-build-yourself-an-apprenticeship-that-doesnt-grade-itself.md)
