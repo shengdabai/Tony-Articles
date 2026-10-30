@@ -9,6 +9,7 @@ All English editions, ordered by publication date from newest to oldest.
 
 ## 2026-10
 
+- 2026-10-30 · [A Question Should Change the Next Step](./2026-10-30-a-question-should-change-the-next-step.md)
 - 2026-10-29 · [The Best AI Course Teaches Something Beyond AI](./2026-10-29-learn-a-skill-with-ai.md)
 - 2026-10-28 · [Which AI-Selected Moments Should You Watch Yourself?](./2026-10-28-which-ai-selected-moments-to-watch.md)
 - 2026-10-27 · [The More You Use It, the Less You Resemble a New User](./2026-10-27-the-more-you-use-it.md)
