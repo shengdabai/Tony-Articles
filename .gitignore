@@ -9,3 +9,7 @@ ruvector.db
 *.rvf
 *.rvf.lock
 agentdb*
+.tools/daily-post-failures.md
+.tools/translation-map.lock
+.tools/translation-cache/
+*.tmp

@@ -1,0 +1,47 @@
+name: Repository Hygiene
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  hygiene:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check repository guardrails
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if ! find . -maxdepth 2 -iname 'readme*' -type f | grep -q .; then
+            echo "::error::README is required for repository handoff."
+            exit 1
+          fi
+
+          forbidden=$(find . -type f \
+            \( -name '.env' -o -name '.env.local' -o -name '.env.production' -o -name '.npmrc' -o -name '*.pem' -o -name '*.p12' -o -name '*.pfx' -o -name 'id_rsa' -o -name 'id_dsa' \) \
+            -not -path './.git/*' -not -name '*.example' -print)
+          if [ -n "$forbidden" ]; then
+            echo "$forbidden"
+            echo "::error::Tracked sensitive local config detected. Use examples plus GitHub/environment secrets."
+            exit 1
+          fi
+
+          if [ ! -f SECURITY.md ]; then
+            echo "::error::SECURITY.md is required."
+            exit 1
+          fi
+
+          if [ "${{ github.event.repository.private }}" = "false" ] && ! find . -maxdepth 2 \
+            \( -iname 'license' -o -iname 'license.*' -o -iname 'copying' \) -type f | grep -q .; then
+            echo "::warning::Public repositories should declare a license."
+          fi

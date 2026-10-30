@@ -1,0 +1,23 @@
+# Sixth Episode: Tony & Curry's Little Life
+
+> Published: 2021-05-01 · [中文](../zh/2021-05-01-%E7%AC%AC%E5%85%AD%E9%9B%86Tony%26Curry%E7%82%B9%E6%BB%B4%E7%94%9F%E6%B4%BB.md) | [English](../en/2021-05-01-sixth-episode-tony-curry-s-little-life.md)
+
+---
+
+Click the blue text above to follow Tony Sheng
+
+Tony Sheng's 30th Original Article
+
+After going to university, Tony would call his mom every week, and each time he'd briefly mention what Curry was up to, asking him to answer the call. But Curry never picked up, always hiding behind his mom shyly listening in. Curry was very introverted in elementary school, not willing to speak in public, and in class, he'd passively answer the teacher's questions. Thinking back, Tony was the same as a kid—always obedient in class, not eager to speak, and rarely showed off. Teachers used to describe him as "a well-behaved child." Now, in the eyes of ordinary people, Tony is still well-behaved, but he's doing things that are anything but obedient. His love for playing and curiosity has grown, and he's less constrained in his actions, like a free and carefree little bird.
+
+During university, Tony could only meet his family twice a year, during the summer vacation. For Tony, a summer with temperatures in the teens was really something he loved. As soon as the break started, he'd rush back. Every time he returned home, Curry would cling to Tony, begging him to go out and play with him. However, Tony would often be invited by classmates for various dates and dinners, and having a kid around would make them feel awkward, so Tony would have to sneak away quietly. Once, his mom told me that Curry would always have little tantrums, constantly asking his mom where the unreliable older brother had gone. It's strange how, once they met, Curry would cling to Tony, but after Tony went back to university, Curry wouldn't even call. Kids are like that—sometimes their words don't match their feelings. But kids are so cute and interesting. The bond between brothers is also very subtle. There aren't many sweet words or deep feelings, but there's a special connection between them. As soon as one speaks, the other understands.
+
+Although the four years of university were a long period, the time Curry and Tony spent together wasn't more than two months. They met less during the summer, but during the winter holidays and New Year, they had more time together, since they both had to return to their hometown in Anhui, and Tony couldn't make plans with his classmates. What was the most exciting about returning home? Running through the fields, delicious food, beautiful scenery, and of course, fireworks and firecrackers. It's fair to say that these are things you can't experience in the city. Considering environmental protection, restricting fireworks is a correct choice, and it also helps avoid fire hazards.
+
+Curry's favorite thing was setting off fireworks 🎆 He both feared and loved fire. Every time he saw fireworks, he'd say, "Brother, you go light it!" Tony looked very calm on the outside, but inside, he was very nervous and afraid of the sudden burst. Although he was tense at first when lighting the fuse, once the fireworks started, everyone was happy, their faces lit up with joy. Curry especially loved the colorful display, enjoying the unique festive atmosphere of the New Year.
+
+Setting off fireworks and firecrackers is an ancient traditional festival activity in China, used to wish for a bountiful harvest. China is the earliest civilization to invent gunpowder and the birthplace of fireworks and firecrackers. During major festivals and grand celebrations, fireworks are used to add joy and excitement to the occasion. Fireworks are also known as flame effects, fireworks, fire games, flame flowers, and fire displays. They evolved from firecrackers. In China, fireworks appeared during the Sui and Tang dynasties. People first added metal salts containing elements like lithium, magnesium, copper, lead, barium, and strontium to gunpowder, making the fireworks colorful. According to the *Things Original* by Song dynasty scholar Gao Cheng, Emperor Yang of the Sui Dynasty once used gunpowder for "miscellaneous performances," adding other substances to the gunpowder and igniting it, causing sparks of various colors to burst out, creating a performance of a hundred plays. This is probably the earliest form of fireworks.
+
+During the New Year, Curry and Tony joined the family to experience the festive atmosphere, and there were many interesting stories. We'll talk about the fun of the New Year in the next episode.
+
+Like if you enjoyed it, and then go!

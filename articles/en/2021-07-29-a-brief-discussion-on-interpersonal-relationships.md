@@ -1,0 +1,31 @@
+# A Brief Discussion on Interpersonal Relationships
+
+> Published: 2021-07-29 · [中文](../zh/2021-07-29-%E6%B5%85%E8%B0%88%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB.md) | [English](../en/2021-07-29-a-brief-discussion-on-interpersonal-relationships.md)
+
+---
+
+Understanding the root causes of issues in interpersonal relationships, analyzing and organizing the pros and cons, can help some things resolve themselves naturally, without being as important as we think. Mutual benefit and providing value to each other are truly essential. Offering a little value every day has been a principle I've always adhered to. Helping others is ultimately helping oneself. Providing value and creating mutual value is so important and central—it fosters healthy interactions and makes communication more sincere.
+
+In interpersonal relationships, the following points can be summarized:
+
+1. Express the most sincere appreciation and gratitude toward the other person. In communication, be fully engaged, allowing the other person to feel your enthusiasm, goodwill, and admiration. Don't expect a simple greeting to make them like you. Ensure you are genuinely interested in their thoughts and hope to learn something new from the conversation.
+
+2. Show encouragement during listening and ask appropriate questions. To become a qualified listener, the two most important points are: clearly showing that you've understood everything the other person said, and encouraging them to continue speaking while asking follow-up questions based on the information you've heard.
+
+3. Demonstrate humility. Being honest about your own shortcomings and past mistakes in communication can help a relationship go further and make the other person more willing to stay in touch. Especially when the other person is seeking your advice or help, it's best to show some humility, which helps create a relaxed atmosphere.
+
+4. Be honest and sincere. People sometimes don't express their true thoughts for many reasons. They don't want to lower the quality of a relationship by telling the truth, nor do they want the other person to dislike or resent them for it. If you want to stand out and make an impression, you can make every effort to be honest. However, remember that your honesty should benefit the other person, which can lay a solid foundation for future interactions.
+
+5. Engage in open brainstorming with the other person. Sometimes you may not be able to provide exactly what they want, but you can conduct open brainstorming sessions with them to change their perspective and approach to problem-solving. This makes them feel they've gained something from the conversation. The key is that during discussions, both parties should be on equal footing, not with you imposing your ideas on them in a superior manner. During the process, you should give as much as you can, without always expecting something in return.
+
+6. Express anticipation for the next meeting at the end of each conversation. Imagine that everyone you've ever met will meet again. The world is actually not that big. Think about how you'd like the other person to feel about your meeting—positively or negatively. Compared to conversations without expectations, those with expectations tend to be of higher quality.
+
+Common psychological misconceptions:
+"I should not refuse others to maintain relationships." I once believed that only by agreeing to the requests of friends and family could I strengthen important relationships. If I refused someone, it would negatively affect the relationship. Lazarus said that as long as you have a valid reason or the request is clearly unreasonable, you have the right to refuse. If someone distances themselves from you because of your refusal, it's likely their own issue or that the relationship was weak from the start to begin with.
+"Thinking that others' emotions are your responsibility." If you refuse someone's request, do you feel guilty or fearful about their disappointment or anger? Lazarus believes that everyone should take care of their own emotions rather than spend time managing others' feelings. Similarly, we shouldn't blame others for our emotional problems. In his view, people who often take on others' emotional reactions are often a sign of low self-worth. Lazarus said, "I'm not sure what the universal formula for happiness is, but I'm certain that the way to suffering is: trying to please everyone."
+
+Only exercising physical muscles without training "mental muscles." Familiar behaviors and habits make us feel secure, but just like physical muscles must be trained repeatedly to grow stronger, the brain also needs constant stimulation to prevent deterioration. Lazarus suggests that you can try to challenge yourself with mild pressure or introduce some changes into familiar routines, such as learning a new skill or discussing a new topic with a friend. All small exercises can prevent the brain from becoming rigid and narrow in a monotonous environment.
+
+Interpersonal relationships are the foundational aspect of human social interaction. DaYe's second live stream has many aspects that I need to learn from and think about, and more importantly, action. The above thoughts are only expressed in words, and without practice, they remain just ideas. My biggest takeaway from the communication training camp is that the communication skills we learned and the fundamental understanding of communication have been applied every day since joining the camp. Our conversations spread love, encouraged each other, and moved forward together. We share the same values, and our recognition and trust in DaYe brought us together. The midday sharing sessions and mutual exchanges provide a little value to each other. As a group leader, I've had more opportunities to practice and improve my communication skills. Communication is everywhere, and everything is happening through positive interaction.
+
+My experiences are limited, and I haven't faced many setbacks. I've always been lucky to meet good friends and have mentors who helped me. Learning is my norm, and being a lifelong student who grows continuously is something I enjoy. I'm committed to cultivating relationships with sincerity, starting from details, releasing kindness, and spreading love. Keep going!
