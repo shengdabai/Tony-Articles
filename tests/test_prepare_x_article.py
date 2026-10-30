@@ -4,7 +4,7 @@ import subprocess
 import tempfile
 import unittest
 from pathlib import Path
-from unittest.mock import patch
+from unittest.mock import call, patch
 
 
 SCRIPT = Path(__file__).resolve().parents[1] / "tools" / "prepare_x_article.py"
@@ -30,6 +30,96 @@ def sample_article(**updates):
 
 
 class PrepareXArticleTests(unittest.TestCase):
+    def test_external_command_retries_and_preserves_last_error(self):
+        errors = [
+            subprocess.CalledProcessError(128, ["git"], stderr="first failure"),
+            subprocess.CalledProcessError(128, ["git"], stderr="final failure"),
+        ]
+
+        with (
+            patch.object(MODULE.subprocess, "run", side_effect=errors),
+            patch.object(MODULE.time, "sleep") as sleep,
+        ):
+            with self.assertRaisesRegex(RuntimeError, "failed after 2 attempts: final failure"):
+                MODULE.run_external_with_retry(
+                    ["git", "clone"], description="GitHub article sync", timeout=1, attempts=2
+                )
+
+        sleep.assert_called_once_with(MODULE.RETRY_DELAYS_SEC[0])
+
+    def test_imagegen_404_is_summarized_without_dumping_logs(self):
+        error = subprocess.CalledProcessError(
+            7,
+            ["gen.sh"],
+            stderr="prompt details\nimage generation failed: http 404 Not Found",
+        )
+
+        self.assertEqual(
+            MODULE.external_error_detail(error),
+            "imagegen service returned HTTP 404; GPT Image 2 is unavailable for this Codex session",
+        )
+
+    def test_sync_retries_clone_after_removing_partial_checkout(self):
+        with tempfile.TemporaryDirectory() as directory:
+            work_dir = Path(directory)
+            clone_dir = work_dir / "repo"
+            clone_attempts = 0
+
+            def flaky_clone(command, **_kwargs):
+                nonlocal clone_attempts
+                if command[1] == "clone":
+                    clone_attempts += 1
+                    if clone_attempts == 1:
+                        clone_dir.mkdir()
+                        (clone_dir / "partial").write_text("incomplete", encoding="utf-8")
+                        raise subprocess.CalledProcessError(128, command, stderr="connection reset")
+                    self.assertFalse((clone_dir / "partial").exists())
+                    article_dir = clone_dir / "articles" / "en"
+                    article_dir.mkdir(parents=True)
+                    (article_dir / "2026-08-20-recovered.md").write_text("# Recovered", encoding="utf-8")
+                return subprocess.CompletedProcess(command, 0)
+
+            with (
+                patch.object(MODULE.subprocess, "run", side_effect=flaky_clone),
+                patch.object(MODULE.time, "sleep") as sleep,
+            ):
+                files = MODULE.sync_2026_articles(work_dir)
+
+        self.assertEqual([path.name for path in files], ["2026-08-20-recovered.md"])
+        self.assertEqual(clone_attempts, 2)
+        sleep.assert_has_calls([call(MODULE.RETRY_DELAYS_SEC[0])])
+
+    def test_gpt_image_retries_after_transient_generator_failure(self):
+        with tempfile.TemporaryDirectory() as directory:
+            out = Path(directory) / "cover.png"
+            attempts = 0
+
+            def flaky_generation(command, **_kwargs):
+                nonlocal attempts
+                attempts += 1
+                raw = Path(command[command.index("--out") + 1])
+                if attempts == 1:
+                    raw.write_bytes(b"partial")
+                    raise subprocess.CalledProcessError(5, command, stderr="temporary service failure")
+                self.assertFalse(raw.exists())
+                raw.write_bytes(b"generated-image")
+                return subprocess.CompletedProcess(command, 0)
+
+            def fake_crop(src, target, _width, _height):
+                target.write_bytes(src.read_bytes())
+
+            with (
+                patch.object(MODULE.subprocess, "run", side_effect=flaky_generation),
+                patch.object(MODULE, "crop_to_size", side_effect=fake_crop),
+                patch.object(MODULE.time, "sleep") as sleep,
+            ):
+                MODULE.gpt_image("prompt", out, 3000, 1200, 1, False)
+            output_bytes = out.read_bytes()
+
+        self.assertEqual(attempts, 2)
+        self.assertEqual(output_bytes, b"generated-image")
+        sleep.assert_called_once_with(MODULE.RETRY_DELAYS_SEC[0])
+
     def test_sources_are_deduplicated_in_markdown_and_rich_copy(self):
         article = sample_article(
             body="Intro paragraph.\n\n## Sources\n\n- [Primary](https://example.test/source)\n- [Primary](https://example.test/source)",
