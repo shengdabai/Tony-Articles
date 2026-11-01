@@ -7,6 +7,10 @@ All English editions, ordered by publication date from newest to oldest.
 ---
 
 
+## 2026-11
+
+- 2026-11-01 · [A Launch Has Two Doors](./2026-11-01-a-launch-has-two-doors.md)
+
 ## 2026-10
 
 - 2026-10-31 · [Correction Counts on the Next Problem](./2026-10-31-correction-counts-on-the-next-problem.md)
