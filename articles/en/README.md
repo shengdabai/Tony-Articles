@@ -9,6 +9,7 @@ All English editions, ordered by publication date from newest to oldest.
 
 ## 2026-11
 
+- 2026-11-02 · [Initiative Shouldn't Be the Price of Entry](./2026-11-02-initiative-price-of-entry.md)
 - 2026-11-01 · [A Launch Has Two Doors](./2026-11-01-a-launch-has-two-doors.md)
 
 ## 2026-10
