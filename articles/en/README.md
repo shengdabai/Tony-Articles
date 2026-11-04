@@ -9,6 +9,7 @@ All English editions, ordered by publication date from newest to oldest.
 
 ## 2026-11
 
+- 2026-11-04 · [Reasons Not to Buy Belong in a Product Description](./2026-11-04-reasons-not-to-buy.md)
 - 2026-11-03 · [Who Gets the Gains from AI?](./2026-11-03-who-gets-the-gains-from-ai.md)
 - 2026-11-02 · [Initiative Shouldn't Be the Price of Entry](./2026-11-02-initiative-price-of-entry.md)
 - 2026-11-01 · [A Launch Has Two Doors](./2026-11-01-a-launch-has-two-doors.md)
