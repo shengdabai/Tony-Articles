@@ -315,7 +315,7 @@ Oh Yes，谈到赚钱，你需要想办法实现这一点。
 
 密切关注你的现金流。尽管听起来难以置信，但我们已经多次看到创始人在没有意识到自己正在用完钱的情况下，就把钱用光了（参考保罗·格雷厄姆的文章*）。
 
-*文章地址：http://paulgraham.com/aord.html
+*文章地址：https://paulgraham.com/aord.html
 
 ## **非常好的执行-融资**
 
@@ -353,7 +353,7 @@ Oh Yes，谈到赚钱，你需要想办法实现这一点。
 
 我认为 PG 的这篇文章是关于融资最好的文章*。
 
-*文章地址：http://paulgraham.com/fr.html
+*文章地址：https://paulgraham.com/fr.html
 
 **05**
 
