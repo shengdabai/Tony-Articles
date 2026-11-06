@@ -9,6 +9,7 @@ All English editions, ordered by publication date from newest to oldest.
 
 ## 2026-11
 
+- 2026-11-06 · [Who Counts in Your Feedback?](./2026-11-06-feedback-denominator.md)
 - 2026-11-05 · [It Works. What Made the Difference?](./2026-11-05-what-made-the-difference.md)
 - 2026-11-04 · [Reasons Not to Buy Belong in a Product Description](./2026-11-04-reasons-not-to-buy.md)
 - 2026-11-03 · [Who Gets the Gains from AI?](./2026-11-03-who-gets-the-gains-from-ai.md)
