@@ -94,6 +94,6 @@ https://github.com/xiaolai/zuoxiangqicheng
 
 Official website: lixiaolai.com
 
-or Xiaolai Search http://xiaolai.co/search）
+or Xiaolai Search https://xiaolai.co/search）
 
 Feel our bodies, discover the power of the body, and let the brain rest.

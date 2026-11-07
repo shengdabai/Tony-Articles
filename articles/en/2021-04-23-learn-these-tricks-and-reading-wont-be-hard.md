@@ -29,7 +29,7 @@ Fluency is the smoothness of reading. When reading in our minds, we should have 
 **5. Once You’ve Learned to Read Faster, Slow Down.**
 After learning fluent English reading, you can no longer worry about speed and instead start thinking about the text and its meaning. Spend time truly reading the text you're reading, rather than reading faster. A good way to slow down is to read aloud. This is something Li Xiaolai teacher emphasizes in *Everyone Can Speak English*. Reading aloud, reading loudly, details can be found in this book.
 
-> http://lixiaolai.com/#/everyone-can-use-english/
+> https://lixiaolai.com/#/everyone-can-use-english/
 >
 > Not only will you practice reading and understanding, but you’ll also practice pronunciation, listening, and speaking. Focus on each word carefully and pronounce it well. If you can’t (or don’t want to) read aloud, you can try pausing after a few paragraphs to ensure your attention is focused. Another way to keep your pace steady is to take notes and write down questions while reading.
 

@@ -36,7 +36,7 @@ Finally, here are the basic elements I think are essential for using English. Yo
 
    Li Xiaolai’s *Everyone Can Use English*
 
-   Online open-source reading: http://lixiaolai.com/#/everyone-can-use-english/
+   Online open-source reading: https://lixiaolai.com/#/everyone-can-use-english/
 
 2. Phonetics
 

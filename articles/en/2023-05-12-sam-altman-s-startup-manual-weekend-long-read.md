@@ -303,7 +303,7 @@ No matter what, try to achieve "ramen profitability" as quickly as possible—th
 
 Keep a close eye on your cash flow. Though it sounds unbelievable, we've seen many founders run out of money without realizing it (see Paul Graham's article*).
 
-*Article URL: http://paulgraham.com/aord.html
+*Article URL: https://paulgraham.com/aord.html
 
 ## **Excellent Execution—Funding**
 
@@ -341,7 +341,7 @@ Great board members are the best external constraint mechanism for a company, as
 
 I think PG's article is the best on fundraising*.
 
-*Article URL: http://paulgraham.com/fr.html
+*Article URL: https://paulgraham.com/fr.html
 
 **05**
 
