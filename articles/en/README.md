@@ -9,6 +9,7 @@ All English editions, ordered by publication date from newest to oldest.
 
 ## 2026-11
 
+- 2026-11-07 · [The Odds Depend on What You Do](./2026-11-07-odds-depend-on-actions.md)
 - 2026-11-06 · [Who Counts in Your Feedback?](./2026-11-06-feedback-denominator.md)
 - 2026-11-05 · [It Works. What Made the Difference?](./2026-11-05-what-made-the-difference.md)
 - 2026-11-04 · [Reasons Not to Buy Belong in a Product Description](./2026-11-04-reasons-not-to-buy.md)
