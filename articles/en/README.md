@@ -99,6 +99,7 @@ All English editions, ordered by publication date from newest to oldest.
 - 2026-08-20 · [AI Breaks The Speed Ratio](./2026-08-20-ai-breaks-the-speed-ratio.md)
 - 2026-08-19 · [Useful Waste Builds The Future](./2026-08-19-useful-waste-builds-the-future.md)
 - 2026-08-18 · [Data Has To Become A World](./2026-08-18-data-has-to-become-a-world.md)
+- 2026-08-18 · [Code Hosting Is Becoming Governance](./2026-08-18-code-hosting-is-becoming-governance.md)
 - 2026-08-17 · [AI Does Not Travel as Software](./2026-08-17-ai-does-not-travel-as-software.md)
 - 2026-08-16 · [Good Systems Do Not Make the Same Mistake Twice](./2026-08-16-good-systems-do-not-repeat-mistakes.md)
 - 2026-08-15 · [Feedback Is the New Compute](./2026-08-15-feedback-is-the-new-compute.md)

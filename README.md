@@ -6,7 +6,7 @@
 
 [![Last commit](https://img.shields.io/github/last-commit/shengdabai/Tony-Articles?style=flat-square&label=%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0%20last%20commit)](https://github.com/shengdabai/Tony-Articles/commits/main) [![Stars](https://img.shields.io/github/stars/shengdabai/Tony-Articles?style=social)](https://github.com/shengdabai/Tony-Articles/stargazers) [![Follow @shengdabai](https://img.shields.io/github/followers/shengdabai?style=social&label=Follow%20%40shengdabai)](https://github.com/shengdabai)
 
-[![每日更新 / Daily](https://img.shields.io/badge/更新-每日中午%2012%3A00-brightgreen?style=flat-square)](#-全部文章--all-articles) [![中英双语 / Bilingual](https://img.shields.io/badge/语言-中文%20%2F%20English-blue?style=flat-square)](#-中文阅读) [![知识花园 / Garden](https://img.shields.io/badge/Knowledge%20Garden-notes.zturnsgo.com-orange?style=flat-square)](https://notes.zturnsgo.com/) [![文章 / Articles](https://img.shields.io/badge/文章-616%20篇-lightgrey?style=flat-square)](#-全部文章--all-articles)
+[![每日更新 / Daily](https://img.shields.io/badge/更新-每日中午%2012%3A00-brightgreen?style=flat-square)](#-全部文章--all-articles) [![中英双语 / Bilingual](https://img.shields.io/badge/语言-中文%20%2F%20English-blue?style=flat-square)](#-中文阅读) [![知识花园 / Garden](https://img.shields.io/badge/Knowledge%20Garden-notes.zturnsgo.com-orange?style=flat-square)](https://notes.zturnsgo.com/) [![文章 / Articles](https://img.shields.io/badge/文章-617%20篇-lightgrey?style=flat-square)](#-全部文章--all-articles)
 
 **[🇨🇳 中文文章（由近到远）](articles/zh/README.md)** ｜ **[🇬🇧 English Articles (Newest First)](articles/en/README.md)** ｜ **[📚 全部双语文章](#-全部文章--all-articles)** ｜ **[🌐 知识花园 Garden](https://notes.zturnsgo.com/)**
 
@@ -99,8 +99,8 @@
 - **2026-08-21** — [🇨🇳 中文 · 别让 AI 替你完成学徒期](articles/zh/2026-08-21-%E5%88%AB%E8%AE%A9AI%E6%9B%BF%E4%BD%A0%E5%AE%8C%E6%88%90%E5%AD%A6%E5%BE%92%E6%9C%9F.md)  ·  [🇬🇧 English · Do Not Outsource Your Apprenticeship](articles/en/2026-08-21-do-not-outsource-your-apprenticeship.md)
 - **2026-08-20** — [🇨🇳 中文 · AI 打坏的是速度比](articles/zh/2026-08-20-AI%E6%89%93%E5%9D%8F%E7%9A%84%E6%98%AF%E9%80%9F%E5%BA%A6%E6%AF%94.md)  ·  [🇬🇧 English · AI Breaks The Speed Ratio](articles/en/2026-08-20-ai-breaks-the-speed-ratio.md)
 - **2026-08-19** — [🇨🇳 中文 · 未来常常建在有用的浪费之上](articles/zh/2026-08-19-%E6%9C%AA%E6%9D%A5%E5%B8%B8%E5%B8%B8%E5%BB%BA%E5%9C%A8%E6%9C%89%E7%94%A8%E7%9A%84%E6%B5%AA%E8%B4%B9%E4%B9%8B%E4%B8%8A.md)  ·  [🇬🇧 English · Useful Waste Builds The Future](articles/en/2026-08-19-useful-waste-builds-the-future.md)
-- **2026-08-18** — [🇨🇳 中文 · 代码托管正在变成治理](articles/zh/2026-08-18-%E4%BB%A3%E7%A0%81%E6%89%98%E7%AE%A1%E6%AD%A3%E5%9C%A8%E5%8F%98%E6%88%90%E6%B2%BB%E7%90%86.md)  ·  [🇬🇧 English · Code Hosting Is Becoming Governance](articles/en/2026-08-18-code-hosting-is-becoming-governance.md)
 - **2026-08-18** — [🇨🇳 中文 · 数据要变成世界](articles/zh/2026-08-18-%E6%95%B0%E6%8D%AE%E8%A6%81%E5%8F%98%E6%88%90%E4%B8%96%E7%95%8C.md)  ·  [🇬🇧 English · Data Has To Become A World](articles/en/2026-08-18-data-has-to-become-a-world.md)
+- **2026-08-18** — [🇨🇳 中文 · 代码托管正在变成治理](articles/zh/2026-08-18-%E4%BB%A3%E7%A0%81%E6%89%98%E7%AE%A1%E6%AD%A3%E5%9C%A8%E5%8F%98%E6%88%90%E6%B2%BB%E7%90%86.md)  ·  [🇬🇧 English · Code Hosting Is Becoming Governance](articles/en/2026-08-18-code-hosting-is-becoming-governance.md)
 - **2026-08-17** — [🇨🇳 中文 · AI 不是软件，它要重新长一遍](articles/zh/2026-08-17-AI%E4%B8%8D%E6%98%AF%E8%BD%AF%E4%BB%B6%E5%AE%83%E8%A6%81%E9%87%8D%E6%96%B0%E9%95%BF%E4%B8%80%E9%81%8D.md)  ·  [🇬🇧 English · AI Does Not Travel as Software](articles/en/2026-08-17-ai-does-not-travel-as-software.md)
 - **2026-08-16** — [🇨🇳 中文 · 好系统不会犯第二次错](articles/zh/2026-08-16-%E5%A5%BD%E7%B3%BB%E7%BB%9F%E4%B8%8D%E4%BC%9A%E7%8A%AF%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%94%99.md)  ·  [🇬🇧 English · Good Systems Do Not Make the Same Mistake Twice](articles/en/2026-08-16-good-systems-do-not-repeat-mistakes.md)
 - **2026-08-15** — [🇨🇳 中文 · 反馈才是新的算力](articles/zh/2026-08-15-%E5%8F%8D%E9%A6%88%E6%89%8D%E6%98%AF%E6%96%B0%E7%9A%84%E7%AE%97%E5%8A%9B.md)  ·  [🇬🇧 English · Feedback Is the New Compute](articles/en/2026-08-15-feedback-is-the-new-compute.md)
@@ -644,6 +644,7 @@
 > 每天中午 12:00 自动整理过去 24 小时 AI 圈最值得关心的 6-8 条精选,面向 AI 工具、Agent、独立开发和自我进化系统,中英双语。
 > Curated daily at 12:00 — the 6-8 most signal-rich items from the past 24 hours of AI, with a focus on AI tooling, agents, independent builders, and self-evolving systems.
 
+- **2026-11-07** — [🇨🇳 中文 · AI 热点日报](ai-news/zh/2026-11-07-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest](ai-news/en/2026-11-07-ai-news-daily.md)
 - **2026-11-06** — [🇨🇳 中文 · AI 热点日报：数据中心争议与新一代 AI 工具](ai-news/zh/2026-11-06-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest: Data Center Pressure and New AI Tools](ai-news/en/2026-11-06-ai-news-daily.md)
 - **2026-11-05** — [🇨🇳 中文 · AI 热点日报｜2026 年 11 月 5 日](ai-news/zh/2026-11-05-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest | November 5, 2026](ai-news/en/2026-11-05-ai-news-daily.md)
 - **2026-11-04** — [🇨🇳 中文 · AI 热点日报｜2026 年 11 月 4 日](ai-news/zh/2026-11-04-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest | November 4, 2026](ai-news/en/2026-11-04-ai-news-daily.md)
@@ -657,7 +658,6 @@
 - **2026-10-27** — [🇨🇳 中文 · AI 热点日报：模型操作、科学主张与安全评测](ai-news/zh/2026-10-27-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest: Computer Use, Research Claims, and Safety Tests](ai-news/en/2026-10-27-ai-news-daily.md)
 - **2026-10-26** — [🇨🇳 中文 · AI 热点日报：智能体、开源模型与商业回报](ai-news/zh/2026-10-26-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest: Agents, Open Models, and the Search for Returns](ai-news/en/2026-10-26-ai-news-daily.md)
 - **2026-10-25** — [🇨🇳 中文 · AI 热点日报｜智能体安全、产品发布与使用边界](ai-news/zh/2026-10-25-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest | Agent Safety, New Models, and Practical Boundaries](ai-news/en/2026-10-25-ai-news-daily.md)
-- **2026-10-24** — [🇨🇳 中文 · AI 热点日报：模型、视频与安全](ai-news/zh/2026-10-24-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest: Models, Video, and Security](ai-news/en/2026-10-24-ai-news-daily.md)
 
 ---
 
@@ -724,7 +724,7 @@
 - 👀 点 **Watch → Custom → Releases**(我会定期发月度精选 Release)
 - 💬 在 [Issues](https://github.com/shengdabai/Tony-Articles/issues) 里告诉我你想看什么主题
 - 🌐 逛我的[**知识花园**](https://notes.zturnsgo.com/),看原始笔记
-- 📚 按时间翻阅[全部中文文章](articles/zh/README.md)，共 616 篇
+- 📚 按时间翻阅[全部中文文章](articles/zh/README.md)，共 617 篇
 
 ### 同系列仓库 · 一起逛逛
 
@@ -796,7 +796,7 @@ The whole pipeline runs automatically once a day at noon (China time), and pushe
 - 👀 Watch → Custom → **Releases** (monthly best-of as Releases)
 - 💬 [Open an Issue](https://github.com/shengdabai/Tony-Articles/issues) to suggest a topic
 - 🌐 Browse my [**Notes Garden**](https://notes.zturnsgo.com/) for the raw material
-- 📚 Browse [all English articles, newest first](articles/en/README.md) — 616 pieces
+- 📚 Browse [all English articles, newest first](articles/en/README.md) — 617 pieces
 
 ### Sibling repos · worth a look
 
@@ -814,7 +814,7 @@ All from the same practice of *doing things in public, with an engineering minds
 
 All pieces now live under `articles/zh/` and `articles/en/`. Every year page is also ordered newest first.
 
-- 📂 **[2026 年文章 · 2026 Articles (164 篇)](archive/2026.md)**
+- 📂 **[2026 年文章 · 2026 Articles (165 篇)](archive/2026.md)**
 - 📂 **[2024 年文章 · 2024 Articles (33 篇)](archive/2024.md)**
 - 📂 **[2023 年文章 · 2023 Articles (150 篇)](archive/2023.md)**
 - 📂 **[2022 年文章 · 2022 Articles (110 篇)](archive/2022.md)**
