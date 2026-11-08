@@ -645,6 +645,7 @@
 > 每天中午 12:00 自动整理过去 24 小时 AI 圈最值得关心的 6-8 条精选,面向 AI 工具、Agent、独立开发和自我进化系统,中英双语。
 > Curated daily at 12:00 — the 6-8 most signal-rich items from the past 24 hours of AI, with a focus on AI tooling, agents, independent builders, and self-evolving systems.
 
+- **2026-11-08** — [🇨🇳 中文 · AI 热点日报｜2026 年 11 月 8 日](ai-news/zh/2026-11-08-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest | November 8, 2026](ai-news/en/2026-11-08-ai-news-daily.md)
 - **2026-11-07** — [🇨🇳 中文 · AI 热点日报](ai-news/zh/2026-11-07-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest](ai-news/en/2026-11-07-ai-news-daily.md)
 - **2026-11-06** — [🇨🇳 中文 · AI 热点日报：数据中心争议与新一代 AI 工具](ai-news/zh/2026-11-06-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest: Data Center Pressure and New AI Tools](ai-news/en/2026-11-06-ai-news-daily.md)
 - **2026-11-05** — [🇨🇳 中文 · AI 热点日报｜2026 年 11 月 5 日](ai-news/zh/2026-11-05-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest | November 5, 2026](ai-news/en/2026-11-05-ai-news-daily.md)
@@ -658,7 +659,6 @@
 - **2026-10-28** — [🇨🇳 中文 · AI 热点日报：世界模型、企业智能体与可信验证](ai-news/zh/2026-10-28-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest: Interactive Worlds, Enterprise Agents, and Verification](ai-news/en/2026-10-28-ai-news-daily.md)
 - **2026-10-27** — [🇨🇳 中文 · AI 热点日报：模型操作、科学主张与安全评测](ai-news/zh/2026-10-27-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest: Computer Use, Research Claims, and Safety Tests](ai-news/en/2026-10-27-ai-news-daily.md)
 - **2026-10-26** — [🇨🇳 中文 · AI 热点日报：智能体、开源模型与商业回报](ai-news/zh/2026-10-26-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest: Agents, Open Models, and the Search for Returns](ai-news/en/2026-10-26-ai-news-daily.md)
-- **2026-10-25** — [🇨🇳 中文 · AI 热点日报｜智能体安全、产品发布与使用边界](ai-news/zh/2026-10-25-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest | Agent Safety, New Models, and Practical Boundaries](ai-news/en/2026-10-25-ai-news-daily.md)
 
 ---
 
