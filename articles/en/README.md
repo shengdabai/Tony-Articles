@@ -9,6 +9,7 @@ All English editions, ordered by publication date from newest to oldest.
 
 ## 2026-11
 
+- 2026-11-09 · [Slack Is Part of Your Capacity](./2026-11-09-slack-is-part-of-capacity.md)
 - 2026-11-08 · [Does Your Interest Include the Everyday Work?](./2026-11-08-interest-includes-the-work.md)
 - 2026-11-07 · [The Odds Depend on What You Do](./2026-11-07-odds-depend-on-actions.md)
 - 2026-11-06 · [Who Counts in Your Feedback?](./2026-11-06-feedback-denominator.md)
