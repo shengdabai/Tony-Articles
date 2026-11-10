@@ -6,7 +6,7 @@
 
 [![Last commit](https://img.shields.io/github/last-commit/shengdabai/Tony-Articles?style=flat-square&label=%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0%20last%20commit)](https://github.com/shengdabai/Tony-Articles/commits/main) [![Stars](https://img.shields.io/github/stars/shengdabai/Tony-Articles?style=social)](https://github.com/shengdabai/Tony-Articles/stargazers) [![Follow @shengdabai](https://img.shields.io/github/followers/shengdabai?style=social&label=Follow%20%40shengdabai)](https://github.com/shengdabai)
 
-[![每日更新 / Daily](https://img.shields.io/badge/更新-每日中午%2012%3A00-brightgreen?style=flat-square)](#-全部文章--all-articles) [![中英双语 / Bilingual](https://img.shields.io/badge/语言-中文%20%2F%20English-blue?style=flat-square)](#-中文阅读) [![知识花园 / Garden](https://img.shields.io/badge/Knowledge%20Garden-notes.zturnsgo.com-orange?style=flat-square)](https://notes.zturnsgo.com/) [![文章 / Articles](https://img.shields.io/badge/文章-620%20篇-lightgrey?style=flat-square)](#-全部文章--all-articles)
+[![每日更新 / Daily](https://img.shields.io/badge/更新-每日中午%2012%3A00-brightgreen?style=flat-square)](#-全部文章--all-articles) [![中英双语 / Bilingual](https://img.shields.io/badge/语言-中文%20%2F%20English-blue?style=flat-square)](#-中文阅读) [![知识花园 / Garden](https://img.shields.io/badge/Knowledge%20Garden-notes.zturnsgo.com-orange?style=flat-square)](https://notes.zturnsgo.com/) [![文章 / Articles](https://img.shields.io/badge/文章-621%20篇-lightgrey?style=flat-square)](#-全部文章--all-articles)
 
 **[🇨🇳 中文文章（由近到远）](articles/zh/README.md)** ｜ **[🇬🇧 English Articles (Newest First)](articles/en/README.md)** ｜ **[📚 全部双语文章](#-全部文章--all-articles)** ｜ **[🌐 知识花园 Garden](https://notes.zturnsgo.com/)**
 
@@ -19,6 +19,7 @@
 > 中文版与英文版均按发布日期由近到远排列。2021–2024 年旧文已补齐英文重写版。
 > Both language editions are ordered newest to oldest. The 2021–2024 archive now includes English re-creations.
 
+- **2026-11-10** — [🇨🇳 中文 · AI 替谁把事情做好](articles/zh/2026-11-10-AI%20%E6%9B%BF%E8%B0%81%E6%8A%8A%E4%BA%8B%E6%83%85%E5%81%9A%E5%A5%BD.md)  ·  [🇬🇧 English · Whose Job Is Your AI Doing?](articles/en/2026-11-10-whose-job-is-your-ai-doing.md)
 - **2026-11-09** — [🇨🇳 中文 · 日程里的空档，也是产能](articles/zh/2026-11-09-%E6%97%A5%E7%A8%8B%E9%87%8C%E7%9A%84%E7%A9%BA%E6%A1%A3%EF%BC%8C%E4%B9%9F%E6%98%AF%E4%BA%A7%E8%83%BD.md)  ·  [🇬🇧 English · Slack Is Part of Your Capacity](articles/en/2026-11-09-slack-is-part-of-capacity.md)
 - **2026-11-08** — [🇨🇳 中文 · 这份喜欢包含日常吗](articles/zh/2026-11-08-%E8%BF%99%E4%BB%BD%E5%96%9C%E6%AC%A2%E5%8C%85%E5%90%AB%E6%97%A5%E5%B8%B8%E5%90%97.md)  ·  [🇬🇧 English · Does Your Interest Include the Everyday Work?](articles/en/2026-11-08-interest-includes-the-work.md)
 - **2026-11-07** — [🇨🇳 中文 · 胜算里要算上自己的动作](articles/zh/2026-11-07-%E8%83%9C%E7%AE%97%E9%87%8C%E8%A6%81%E7%AE%97%E4%B8%8A%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8A%A8%E4%BD%9C.md)  ·  [🇬🇧 English · The Odds Depend on What You Do](articles/en/2026-11-07-odds-depend-on-actions.md)
@@ -727,7 +728,7 @@
 - 👀 点 **Watch → Custom → Releases**(我会定期发月度精选 Release)
 - 💬 在 [Issues](https://github.com/shengdabai/Tony-Articles/issues) 里告诉我你想看什么主题
 - 🌐 逛我的[**知识花园**](https://notes.zturnsgo.com/),看原始笔记
-- 📚 按时间翻阅[全部中文文章](articles/zh/README.md)，共 620 篇
+- 📚 按时间翻阅[全部中文文章](articles/zh/README.md)，共 621 篇
 
 ### 同系列仓库 · 一起逛逛
 
@@ -799,7 +800,7 @@ The whole pipeline runs automatically once a day at noon (China time), and pushe
 - 👀 Watch → Custom → **Releases** (monthly best-of as Releases)
 - 💬 [Open an Issue](https://github.com/shengdabai/Tony-Articles/issues) to suggest a topic
 - 🌐 Browse my [**Notes Garden**](https://notes.zturnsgo.com/) for the raw material
-- 📚 Browse [all English articles, newest first](articles/en/README.md) — 620 pieces
+- 📚 Browse [all English articles, newest first](articles/en/README.md) — 621 pieces
 
 ### Sibling repos · worth a look
 
@@ -817,7 +818,7 @@ All from the same practice of *doing things in public, with an engineering minds
 
 All pieces now live under `articles/zh/` and `articles/en/`. Every year page is also ordered newest first.
 
-- 📂 **[2026 年文章 · 2026 Articles (168 篇)](archive/2026.md)**
+- 📂 **[2026 年文章 · 2026 Articles (169 篇)](archive/2026.md)**
 - 📂 **[2024 年文章 · 2024 Articles (33 篇)](archive/2024.md)**
 - 📂 **[2023 年文章 · 2023 Articles (150 篇)](archive/2023.md)**
 - 📂 **[2022 年文章 · 2022 Articles (110 篇)](archive/2022.md)**
