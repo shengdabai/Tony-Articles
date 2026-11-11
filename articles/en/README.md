@@ -9,6 +9,7 @@ All English editions, ordered by publication date from newest to oldest.
 
 ## 2026-11
 
+- 2026-11-11 · [Practice Should Not Scale at AI's Pace](./2026-11-11-practice-at-human-pace.md)
 - 2026-11-10 · [Whose Job Is Your AI Doing?](./2026-11-10-whose-job-is-your-ai-doing.md)
 - 2026-11-09 · [Slack Is Part of Your Capacity](./2026-11-09-slack-is-part-of-capacity.md)
 - 2026-11-08 · [Does Your Interest Include the Everyday Work?](./2026-11-08-interest-includes-the-work.md)
