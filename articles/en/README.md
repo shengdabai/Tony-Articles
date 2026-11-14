@@ -9,6 +9,7 @@ All English editions, ordered by publication date from newest to oldest.
 
 ## 2026-11
 
+- 2026-11-14 · [You Don't Have to Compare Every Option](./2026-11-14-you-dont-have-to-compare-every-option.md)
 - 2026-11-13 · [The Work Behind a Shared Knowledge Base](./2026-11-13-work-behind-shared-knowledge.md)
 - 2026-11-12 · [The Cost of Leaving the Default](./2026-11-12-cost-of-leaving-the-default.md)
 - 2026-11-11 · [Practice Should Not Scale at AI's Pace](./2026-11-11-practice-at-human-pace.md)
