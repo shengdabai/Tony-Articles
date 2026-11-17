@@ -9,6 +9,7 @@ All English editions, ordered by publication date from newest to oldest.
 
 ## 2026-11
 
+- 2026-11-17 · [High Standards Need a Tradeoff Clause](./2026-11-17-standards-need-tradeoffs.md)
 - 2026-11-16 · [A Flat Price Can Change Who Stays](./2026-11-16-flat-price-selects-customers.md)
 - 2026-11-15 · [Save Your Patience for the Problem](./2026-11-15-patience-for-the-problem.md)
 - 2026-11-14 · [You Don't Have to Compare Every Option](./2026-11-14-you-dont-have-to-compare-every-option.md)
