@@ -9,6 +9,7 @@ All English editions, ordered by publication date from newest to oldest.
 
 ## 2026-11
 
+- 2026-11-19 · [How Far Away Is Your Next User?](./2026-11-19-how-far-away-is-your-next-user.md)
 - 2026-11-18 · [What Your Practice Leaves Out](./2026-11-18-what-practice-leaves-out.md)
 - 2026-11-17 · [High Standards Need a Tradeoff Clause](./2026-11-17-standards-need-tradeoffs.md)
 - 2026-11-16 · [A Flat Price Can Change Who Stays](./2026-11-16-flat-price-selects-customers.md)
