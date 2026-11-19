@@ -657,6 +657,7 @@
 > 每天中午 12:00 自动整理过去 24 小时 AI 圈最值得关心的 6-8 条精选,面向 AI 工具、Agent、独立开发和自我进化系统,中英双语。
 > Curated daily at 12:00 — the 6-8 most signal-rich items from the past 24 hours of AI, with a focus on AI tooling, agents, independent builders, and self-evolving systems.
 
+- **2026-11-19** — [🇨🇳 中文 · AI 热点日报｜新模型上线，智能体可靠性仍因任务而异](ai-news/zh/2026-11-19-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest | New models arrive as agent reliability varies by task](ai-news/en/2026-11-19-ai-news-daily.md)
 - **2026-11-18** — [🇨🇳 中文 · AI 热点日报｜2026 年 11 月 18 日](ai-news/zh/2026-11-18-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest | November 18, 2026](ai-news/en/2026-11-18-ai-news-daily.md)
 - **2026-11-17** — [🇨🇳 中文 · AI 热点日报｜2026 年 11 月 17 日](ai-news/zh/2026-11-17-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest | November 17, 2026](ai-news/en/2026-11-17-ai-news-daily.md)
 - **2026-11-16** — [🇨🇳 中文 · AI 热点日报：模型、健康研究与就业](ai-news/zh/2026-11-16-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest: Models, Health Research and Work](ai-news/en/2026-11-16-ai-news-daily.md)
@@ -670,7 +671,6 @@
 - **2026-11-08** — [🇨🇳 中文 · AI 热点日报｜2026 年 11 月 8 日](ai-news/zh/2026-11-08-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest | November 8, 2026](ai-news/en/2026-11-08-ai-news-daily.md)
 - **2026-11-07** — [🇨🇳 中文 · AI 热点日报](ai-news/zh/2026-11-07-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest](ai-news/en/2026-11-07-ai-news-daily.md)
 - **2026-11-06** — [🇨🇳 中文 · AI 热点日报：数据中心争议与新一代 AI 工具](ai-news/zh/2026-11-06-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest: Data Center Pressure and New AI Tools](ai-news/en/2026-11-06-ai-news-daily.md)
-- **2026-11-05** — [🇨🇳 中文 · AI 热点日报｜2026 年 11 月 5 日](ai-news/zh/2026-11-05-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest | November 5, 2026](ai-news/en/2026-11-05-ai-news-daily.md)
 
 ---
 
