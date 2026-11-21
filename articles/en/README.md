@@ -9,6 +9,7 @@ All English editions, ordered by publication date from newest to oldest.
 
 ## 2026-11
 
+- 2026-11-21 · [A Different Way to Operate Still Has to Pick Up Where the Work Left Off](./2026-11-21-resume-from-confirmed-state.md)
 - 2026-11-20 · [A New Tool Inherits the Old Work](./2026-11-20-a-new-tool-inherits-the-old-work.md)
 - 2026-11-19 · [How Far Away Is Your Next User?](./2026-11-19-how-far-away-is-your-next-user.md)
 - 2026-11-18 · [What Your Practice Leaves Out](./2026-11-18-what-practice-leaves-out.md)
