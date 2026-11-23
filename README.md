@@ -660,6 +660,7 @@
 > 每天中午 12:00 自动整理过去 24 小时 AI 圈最值得关心的 6-8 条精选,面向 AI 工具、Agent、独立开发和自我进化系统,中英双语。
 > Curated daily at 12:00 — the 6-8 most signal-rich items from the past 24 hours of AI, with a focus on AI tooling, agents, independent builders, and self-evolving systems.
 
+- **2026-11-23** — [🇨🇳 中文 · AI 热点日报｜形式化证明、智能体评测与医疗模型开源](ai-news/zh/2026-11-23-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · Daily AI News | Proof Checking, Agent Evaluations, and Open Medical Models](ai-news/en/2026-11-23-ai-news-daily.md)
 - **2026-11-22** — [🇨🇳 中文 · AI 热点日报｜推理数据、本地模型与芯片验证](ai-news/zh/2026-11-22-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest | Inference Privacy, Local Models, and GPU Verification](ai-news/en/2026-11-22-ai-news-daily.md)
 - **2026-11-21** — [🇨🇳 中文 · AI 热点日报｜Anthropic 上市次日回落，ChatGPT 推出 Space](ai-news/zh/2026-11-21-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest | Anthropic shares fall and ChatGPT introduces Space](ai-news/en/2026-11-21-ai-news-daily.md)
 - **2026-11-20** — [🇨🇳 中文 · AI 热点日报｜Anthropic 上市，混元 Hy4 开源](ai-news/zh/2026-11-20-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI Daily Brief | Anthropic goes public and Tencent releases Hy4](ai-news/en/2026-11-20-ai-news-daily.md)
@@ -673,7 +674,6 @@
 - **2026-11-12** — [🇨🇳 中文 · AI 热点日报：模型、智能体与商业成本](ai-news/zh/2026-11-12-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI Daily Digest: Models, Agents and Business Costs](ai-news/en/2026-11-12-ai-news-daily.md)
 - **2026-11-11** — [🇨🇳 中文 · AI 热点日报｜2026 年 11 月 11 日](ai-news/zh/2026-11-11-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest | November 11, 2026](ai-news/en/2026-11-11-ai-news-daily.md)
 - **2026-11-10** — [🇨🇳 中文 · AI 热点日报｜2026 年 11 月 10 日](ai-news/zh/2026-11-10-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest | November 10, 2026](ai-news/en/2026-11-10-ai-news-daily.md)
-- **2026-11-09** — [🇨🇳 中文 · AI 热点日报｜2026 年 11 月 9 日](ai-news/zh/2026-11-09-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest | November 9, 2026](ai-news/en/2026-11-09-ai-news-daily.md)
 
 ---
 
