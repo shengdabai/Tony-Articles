@@ -9,6 +9,7 @@ All English editions, ordered by publication date from newest to oldest.
 
 ## 2026-11
 
+- 2026-11-25 · [A Guide Should Show You Which Step You’ve Reached](./2026-11-25-a-guide-should-show-where-you-stand.md)
 - 2026-11-24 · [The Minority View in a Team Forecast](./2026-11-24-keep-the-reason-behind-the-outlying-forecast.md)
 - 2026-11-23 · [Give Each Practice Case a Neighbor You Might Confuse It With](./2026-11-23-practice-with-pairs-that-change-the-call.md)
 - 2026-11-22 · [Which Decisions Need to Be Made Again?](./2026-11-22-which-decisions-need-to-be-made-again.md)
