@@ -663,6 +663,7 @@
 > 每天中午 12:00 自动整理过去 24 小时 AI 圈最值得关心的 6-8 条精选,面向 AI 工具、Agent、独立开发和自我进化系统,中英双语。
 > Curated daily at 12:00 — the 6-8 most signal-rich items from the past 24 hours of AI, with a focus on AI tooling, agents, independent builders, and self-evolving systems.
 
+- **2026-11-26** — [🇨🇳 中文 · AI 热点日报｜私密聊天数据、模型安全与智能体授权](ai-news/zh/2026-11-26-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest | Private Chats, Model Safety, and Agent Permissions](ai-news/en/2026-11-26-ai-news-daily.md)
 - **2026-11-25** — [🇨🇳 中文 · AI 热点日报｜办公连接器、智能体权限与推理成本](ai-news/zh/2026-11-25-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest | Workspace Connectors, Agent Permissions, and Model Costs](ai-news/en/2026-11-25-ai-news-daily.md)
 - **2026-11-24** — [🇨🇳 中文 · AI 热点日报｜日常助手更新，量子算法引入形式化验证](ai-news/zh/2026-11-24-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest | Assistant Updates and Machine-Checked Quantum Circuits](ai-news/en/2026-11-24-ai-news-daily.md)
 - **2026-11-23** — [🇨🇳 中文 · AI 热点日报｜形式化证明、智能体评测与医疗模型开源](ai-news/zh/2026-11-23-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · Daily AI News | Proof Checking, Agent Evaluations, and Open Medical Models](ai-news/en/2026-11-23-ai-news-daily.md)
@@ -676,7 +677,6 @@
 - **2026-11-15** — [🇨🇳 中文 · AI 热点日报](ai-news/zh/2026-11-15-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest](ai-news/en/2026-11-15-ai-news-daily.md)
 - **2026-11-14** — [🇨🇳 中文 · AI 热点日报｜2026年11月14日](ai-news/zh/2026-11-14-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest | November 14, 2026](ai-news/en/2026-11-14-ai-news-daily.md)
 - **2026-11-13** — [🇨🇳 中文 · AI 热点日报｜2026 年 11 月 13 日](ai-news/zh/2026-11-13-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI News Digest | November 13, 2026](ai-news/en/2026-11-13-ai-news-daily.md)
-- **2026-11-12** — [🇨🇳 中文 · AI 热点日报：模型、智能体与商业成本](ai-news/zh/2026-11-12-AI%E5%9C%88%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6.md)  ·  [🇬🇧 English · AI Daily Digest: Models, Agents and Business Costs](ai-news/en/2026-11-12-ai-news-daily.md)
 
 ---
 
