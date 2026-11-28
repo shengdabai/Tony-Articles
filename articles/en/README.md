@@ -9,6 +9,7 @@ All English editions, ordered by publication date from newest to oldest.
 
 ## 2026-11
 
+- 2026-11-28 · [Cover One Source. Would You Still Go Ahead?](./2026-11-28-cover-one-source.md)
 - 2026-11-27 · [Two Indexes for the Same Pre-Meeting Briefing](./2026-11-27-two-indexes-for-one-meeting.md)
 - 2026-11-26 · [The Extra Sentence in the Simpler Version](./2026-11-26-plain-language-can-take-an-extra-sentence.md)
 - 2026-11-25 · [A Guide Should Show You Which Step You’ve Reached](./2026-11-25-a-guide-should-show-where-you-stand.md)
